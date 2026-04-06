@@ -2,16 +2,22 @@
 
 # 马前卒 Skill
 
+<table>
+  <tr>
+    <td>
+      <blockquote>
+        <strong style="font-size: 32px; letter-spacing: 1px;">保卫我们的现代生活</strong>
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
 <p>
   <img src="https://img.shields.io/badge/OpenClaw-Workspace-2F6FEB?style=for-the-badge" alt="OpenClaw Workspace" />
   <img src="https://img.shields.io/badge/Knowledge-Local%20First-0A7F5A?style=for-the-badge" alt="Local First" />
   <img src="https://img.shields.io/badge/Mode-Structured%20Analysis-8B5CF6?style=for-the-badge" alt="Structured Analysis" />
   <img src="https://img.shields.io/badge/Status-Usable-success?style=for-the-badge" alt="Usable" />
   <img src="https://img.shields.io/badge/License-MIT-F2C94C?style=for-the-badge" alt="MIT License" />
-</p>
-
-<p>
-  <strong style="font-size: 28px;">保卫我们的现代生活</strong>
 </p>
 
 <p>
@@ -25,9 +31,7 @@
 
 </div>
 
-一个以 OpenClaw 为主要运行平台的 `maqianzu` 本地分析型 skill/workspace。
-
-本仓库基于公开节目材料整理马前卒常见的分析路径、表达风格和知识索引，让 OpenClaw 能优先按“结构分析 -> 现实约束 -> 结论判断”的方式组织回答。
+一个尽可能还原马前卒/睡前消息的问题分析方式、观点、态度、口吻和记忆的Skill。以 OpenClaw 为主要运行平台。
 
 ## 快速开始
 
