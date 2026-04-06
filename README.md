@@ -2,10 +2,6 @@
 
 # 马前卒 Skill
 
-<p>
-  <img src="./ma_claw.png" alt="马前卒 Skill cover" width="360" />
-</p>
-
 <table>
 <tr>
   <td>
@@ -35,6 +31,8 @@
 </div>
 
 一个尽可能还原马前卒/睡前消息的问题分析方式、观点、态度、口吻和记忆的Skill。以 OpenClaw 为主要运行平台。
+
+![马前卒 Skill cover](./ma_claw.png)
 
 ## 快速开始
 
