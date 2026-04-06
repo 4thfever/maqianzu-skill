@@ -34,10 +34,16 @@
 
 如果你只是想把这个 skill 跑起来，最短路径如下：
 
-```bash
-git clone https://github.com/4thfever/maqianzu-skill ~/openclaw-workspaces/maqianzu
-openclaw --workspace ~/openclaw-workspaces/maqianzu
+```powershell
+git clone https://github.com/4thfever/maqianzu-skill "$HOME\openclaw-workspaces\maqianzu"
+openclaw setup --workspace "$HOME\openclaw-workspaces\maqianzu" --wizard
+openclaw tui
 ```
+
+说明：
+
+- 当前版本的 OpenClaw 不支持 `openclaw --workspace ...` 这种启动方式，应先用 `openclaw setup --workspace ...` 配置默认 workspace，再用 `openclaw tui` 或其他入口进入会话。
+- 在 PowerShell 里更稳妥的写法是使用 `$HOME`；直接写 `~/...` 有些命令会把它当成字面路径，甚至在当前盘符下创建一个名为 `~` 的目录。
 
 进入 OpenClaw 后可以直接提问；如果想先确认 workspace 上下文是否正常，再检查：
 
@@ -54,10 +60,10 @@ openclaw --workspace ~/openclaw-workspaces/maqianzu
 如果还想确认显式 skill 入口已经被识别，可以执行：
 
 ```bash
-openclaw skills list --workspace ~/openclaw-workspaces/maqianzu
+openclaw skills list
 ```
 
-看到 `maqianzu` 后，说明 skill 入口已经被 OpenClaw 识别。
+看到 `maqianzu` 后，说明 skill 入口已经被当前激活的 workspace 识别。
 
 在这个 workspace 里，日常提问默认就应按本仓库定义的分析路径回答，不需要每次显式写“请用马前卒式分析”。例如：
 
@@ -80,17 +86,18 @@ openclaw --help
 
 ### 2. 把仓库 clone 到本地
 
-```bash
-git clone https://github.com/4thfever/maqianzu-skill ~/openclaw-workspaces/maqianzu
+```powershell
+git clone https://github.com/4thfever/maqianzu-skill "$HOME\openclaw-workspaces\maqianzu"
 ```
 
 ### 3. 直接把这个仓库当成 workspace 启动
 
-```bash
-openclaw --workspace ~/openclaw-workspaces/maqianzu
+```powershell
+openclaw setup --workspace "$HOME\openclaw-workspaces\maqianzu" --wizard
+openclaw tui
 ```
 
-这一步最省事，不需要你再手动把 skill 拆到别的目录里。
+这一步会把该目录配置为当前默认 workspace，不需要你再手动把 skill 拆到别的目录里。
 
 ### 4. 进会话后先检查上下文
 
@@ -111,10 +118,10 @@ openclaw --workspace ~/openclaw-workspaces/maqianzu
 在终端里执行：
 
 ```bash
-openclaw skills list --workspace ~/openclaw-workspaces/maqianzu
+openclaw skills list
 ```
 
-如果你看到了 `maqianzu`，说明 skill 入口已经被 OpenClaw 识别。
+如果你看到了 `maqianzu`，说明 skill 入口已经被当前激活的 workspace 识别。
 
 ### 6. 然后就可以直接提问
 
