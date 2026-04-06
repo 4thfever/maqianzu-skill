@@ -1,0 +1,19 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "暑假版",
+      "question": ""
+    }
+  ],
+  "date": "2023-06-24",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-summerbreak",
+  "keywords": [],
+  "source_path": "summerbreak.md",
+  "source_type": "main",
+  "title": "暑假版"
+}

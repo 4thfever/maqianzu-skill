@@ -1,0 +1,12 @@
+# 【睡前消息984】深圳救不救万科，经济学例题来了
+
+- `episode_id`: main-901-1000-984
+- `source_type`: main
+- `date`: 2025-11-28
+- `date_source`: body_explicit
+- `source_path`: 901-1000/984.md
+- `description`: 深圳国资连续向万科输血几百亿，还是拦不住万科股债双杀。在2017年收购万科之后，深铁集团马上面临新的决断时刻。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息984】深圳救不救万科，经济学例题来了

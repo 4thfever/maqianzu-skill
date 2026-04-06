@@ -1,0 +1,20 @@
+---
+title: 马督工谈自媒体百态直播摘要【2022年12月17日】
+date: 2022-12-17
+date_source: title_explicit
+source_type: livestream
+episode_id: livestream-2022-12-17
+chunk_index: 2
+chunk_heading: 马督工名字由来
+source_path: 2022/12/17.md
+---
+
+# 马督工名字由来
+
+## 提问
+
+马督工名字由来
+
+## 内容
+
+我过去当过包工头，所以马督工这名字就算是描述我自己。为什么是马，因为我之前用过我一个叫马前卒的ID，这个 ID 用了好久好久。而这个 ID 又是 2002 年或者 2001 年，我在一个朋友偷了的，就不想还了，所以市面一直带到现在，所以算对他一个纪念。

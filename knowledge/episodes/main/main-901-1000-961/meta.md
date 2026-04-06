@@ -1,0 +1,12 @@
+# 【睡前消息961】柳州轻轨烂尾 南阳能建好吗？
+
+- `episode_id`: main-901-1000-961
+- `source_type`: main
+- `date`: 2025-10-05
+- `date_source`: body_explicit
+- `source_path`: 901-1000/961.md
+- `description`: 柳州和南阳，都是睡前消息节目的老朋友。柳州的轻轨烂尾众所周知，南阳的轻轨项目蠢蠢欲动。柳州做不好的事情，南阳能做好吗?
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息961】柳州轻轨烂尾 南阳能建好吗？

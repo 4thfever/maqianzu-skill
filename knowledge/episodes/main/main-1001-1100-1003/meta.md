@@ -1,0 +1,12 @@
+# 【睡前消息1003】以色列出兵、阿联酋出钱，伺候索马里兰
+
+- `episode_id`: main-1001-1100-1003
+- `source_type`: main
+- `date`: 2026-01-09
+- `date_source`: body_explicit
+- `source_path`: 1001-1100/1003.md
+- `description`: 索马里兰的第一个邦交国是以色列。随着人口压力的增长，长期固化的非洲国界，已经开始消亡了。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息1003】以色列出兵、阿联酋出钱，伺候索马里兰

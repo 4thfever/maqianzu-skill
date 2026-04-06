@@ -1,0 +1,20 @@
+---
+title: 马前卒直播问答记录【2022年11月15日】
+date: 2022-11-15
+date_source: title_explicit
+source_type: livestream
+episode_id: livestream-2022-11-15-1
+chunk_index: 9
+chunk_heading: 莲花清瘟
+source_path: 2022/11/15-1.md
+---
+
+# 莲花清瘟
+
+## 提问
+
+莲花清瘟
+
+## 内容
+
+有人问我是不是去石家庄买莲花清瘟，这个就算了，我认为莲花清瘟对我莲花清瘟可能有一定的安危剂作用，但这个安慰剂作用不一定能超过 2 罐青岛啤酒，或者说也超不过 3 罐哈尔滨啤酒是吧。

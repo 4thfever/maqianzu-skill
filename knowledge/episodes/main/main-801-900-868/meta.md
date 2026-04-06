@@ -1,0 +1,12 @@
+# 【睡前消息868】物流成本高，本溪编制大
+
+- `episode_id`: main-801-900-868
+- `source_type`: main
+- `date`: 2025-02-25
+- `date_source`: body_explicit
+- `source_path`: 801-900/868.md
+- `description`: 2024年，社会物流总费用，占gdp的14.1，消耗了1/7的社会财富。同样也是2024年，辽宁本溪市一半预算靠上级补贴，想卖停车位都没人买。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息868】物流成本高，本溪编制大

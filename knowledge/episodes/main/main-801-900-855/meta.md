@@ -1,0 +1,12 @@
+# 【睡前消息855】中国演员泰国失联，根源在缅甸
+
+- `episode_id`: main-801-900-855
+- `source_type`: main
+- `date`: 2025-06-18
+- `date_source`: front_matter_fallback
+- `source_path`: 801-900/855.md
+- `description`: 解决缅甸电诈问题，指望泰国近乎空想。要是有这个能力，泰国也就不是今日之泰国了。今日还是@讲点黑话  黑会计代班，不过我确乎真的快要回来了，下周见！
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息855】中国演员泰国失联，根源在缅甸

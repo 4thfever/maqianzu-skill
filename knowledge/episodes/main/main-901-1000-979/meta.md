@@ -1,0 +1,12 @@
+# 【睡前消息979】长沙建竖店 横店不在乎
+
+- `episode_id`: main-901-1000-979
+- `source_type`: main
+- `date`: 2025-11-16
+- `date_source`: body_explicit
+- `source_path`: 901-1000/979.md
+- `description`: 浙江横店影视产业成功之后，内地多个城市想借助短剧产业建设自己的“竖店”。长沙认为，自己的优势是烂尾古镇。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息979】长沙建竖店 横店不在乎

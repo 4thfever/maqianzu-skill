@@ -1,0 +1,19 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【2019年终演讲】社会斗争讲科学，中等收入无陷阱",
+      "question": ""
+    }
+  ],
+  "date": "2023-01-25",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-1-100-speech2019",
+  "keywords": [],
+  "source_path": "1-100/speech2019.md",
+  "source_type": "main",
+  "title": "【2019年终演讲】社会斗争讲科学，中等收入无陷阱"
+}

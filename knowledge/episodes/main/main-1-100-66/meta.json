@@ -1,0 +1,49 @@
+{
+  "chunk_count": 6,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "昨天，人民网转发新京报社论，也提到了\"老年协会\"的犯罪问题。为什么快80岁的老人还能当黑社会？",
+      "question": "昨天，人民网转发新京报社论，也提到了\"老年协会\"的犯罪问题。为什么快80岁的老人还能当黑社会？"
+    },
+    {
+      "chunk_file": "chunk-002.md",
+      "chunk_index": 2,
+      "heading": "这次被打击的\"老人会\"，是不是乡村宗族势力？",
+      "question": "这次被打击的\"老人会\"，是不是乡村宗族势力？"
+    },
+    {
+      "chunk_file": "chunk-003.md",
+      "chunk_index": 3,
+      "heading": "那么，老人会应该都被解散吗？",
+      "question": "那么，老人会应该都被解散吗？"
+    },
+    {
+      "chunk_file": "chunk-004.md",
+      "chunk_index": 4,
+      "heading": "今年的一件大事，是第32届东京奥运会。去年11月10日，共同社报道，国际奥委会可能要在东京奥运会导入基因检查，应对基因兴奋剂的挑战。这个基因兴奋剂是什么东西？",
+      "question": "今年的一件大事，是第32届东京奥运会。去年11月10日，共同社报道，国际奥委会可能要在东京奥运会导入基因检查，应对基因兴奋剂的挑战。这个基因兴奋剂是什么东西？"
+    },
+    {
+      "chunk_file": "chunk-005.md",
+      "chunk_index": 5,
+      "heading": "这和传统的兴奋剂比，效果有什么不同？",
+      "question": "这和传统的兴奋剂比，效果有什么不同？"
+    },
+    {
+      "chunk_file": "chunk-006.md",
+      "chunk_index": 6,
+      "heading": "国际奥委会和反兴奋剂组织打算怎么对付基因兴奋剂？",
+      "question": "国际奥委会和反兴奋剂组织打算怎么对付基因兴奋剂？"
+    }
+  ],
+  "date": "2020-01-14",
+  "date_source": "body_explicit",
+  "description": "",
+  "episode_id": "main-1-100-66",
+  "keywords": [],
+  "source_path": "1-100/66.md",
+  "source_type": "main",
+  "title": "【睡前消息66】江西拔除一恶势力团伙，平均年龄79岁……"
+}

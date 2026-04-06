@@ -1,0 +1,12 @@
+# 【睡前消息972】用民进党打法 做国民党主席
+
+- `episode_id`: main-901-1000-972
+- `source_type`: main
+- `date`: 2025-10-31
+- `date_source`: body_explicit
+- `source_path`: 901-1000/972.md
+- `description`: 民进党“叛徒”郑丽文当选国民党主席。民众党的柯文哲和民进党不死不休。赖清德惹上了几个看着不爽，一时又干不掉的对手。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息972】用民进党打法 做国民党主席

@@ -1,0 +1,12 @@
+# 【睡前消息884】特朗普加关税 中国创新药怎么办？
+
+- `episode_id`: main-801-900-884
+- `source_type`: main
+- `date`: 2025-04-06
+- `date_source`: body_explicit
+- `source_path`: 801-900/884.md
+- `description`: 过去几年，中国创新药企盯紧美国市场，得到了足够的销售额，也拿到了充足的融资。现在，贸易战开始了……
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息884】特朗普加关税 中国创新药怎么办？

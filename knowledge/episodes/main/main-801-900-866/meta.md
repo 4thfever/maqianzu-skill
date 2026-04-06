@@ -1,0 +1,12 @@
+# 【睡前消息866】看共产党宣言，解读万斯演讲
+
+- `episode_id`: main-801-900-866
+- `source_type`: main
+- `date`: 2025-02-21
+- `date_source`: body_explicit
+- `source_path`: 801-900/866.md
+- `description`: 美国副总统在德国演讲，不说外交，不说军事，不说贸易，专心攻击欧洲社会制度。这是两条资本主义发展路线的尖锐斗争。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息866】看共产党宣言，解读万斯演讲

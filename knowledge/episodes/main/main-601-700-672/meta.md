@@ -1,0 +1,12 @@
+# 【睡前消息672】马督工的老朋友，又少了一批
+
+- `episode_id`: main-601-700-672
+- `source_type`: main
+- `date`: 2023-11-19
+- `date_source`: body_explicit
+- `source_path`: 601-700/672.md
+- `description`: 柳州市委书记吴炜倒台，阆中城投董事长当了反面典型，鹤岗市委书记判刑20年，正威集团王文银准备跑路……马督工群发送别信。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息672】马督工的老朋友，又少了一批

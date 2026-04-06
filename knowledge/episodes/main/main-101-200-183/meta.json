@@ -1,0 +1,25 @@
+{
+  "chunk_count": 2,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "这么大的顶盖，没有使用大型吊车，完全用气体吹起来，督工，你能介绍一下另类的吹气施工方法吗？",
+      "question": "这么大的顶盖，没有使用大型吊车，完全用气体吹起来，督工，你能介绍一下另类的吹气施工方法吗？"
+    },
+    {
+      "chunk_file": "chunk-002.md",
+      "chunk_index": 2,
+      "heading": "气升顶技术和普通的吹气球有什么区别吗？",
+      "question": "气升顶技术和普通的吹气球有什么区别吗？"
+    }
+  ],
+  "date": "2023-09-08",
+  "date_source": "front_matter_fallback",
+  "description": "“解放军”的名字源于1947年,沿用70多年以后,很多人把这三个字看做整体专用名词,忽视了“解放”的本来意",
+  "episode_id": "main-101-200-183",
+  "keywords": [],
+  "source_path": "101-200/183.md",
+  "source_type": "main",
+  "title": "【睡前消息183】给台湾新党做科普，谈谈什么是”解放“"
+}

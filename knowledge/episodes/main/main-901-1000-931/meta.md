@@ -1,0 +1,12 @@
+# 【睡前消息931】高分报海关学院，图的是什么？
+
+- `episode_id`: main-901-1000-931
+- `source_type`: main
+- `date`: 2025-07-27
+- `date_source`: body_explicit
+- `source_path`: 901-1000/931.md
+- `description`: 海关总署每年从全社会招聘3000人，其中20%指定给海关学院和外经贸大学，这是海关学院分数线超高的原因。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息931】高分报海关学院，图的是什么？

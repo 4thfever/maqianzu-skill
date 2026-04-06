@@ -1,0 +1,21 @@
+# 临时文件
+/tmp/
+*.pyc
+__pycache__/
+.DS_Store
+
+# 本地数据库或缓存
+*.db
+*.sqlite
+
+# 构建中间产物
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# 环境
+.env
+venv/
+.venv/

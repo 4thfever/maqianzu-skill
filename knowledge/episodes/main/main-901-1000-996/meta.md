@@ -1,0 +1,12 @@
+# 【睡前消息996】8万消挂科 杨炜长的西安工商旅行社
+
+- `episode_id`: main-901-1000-996
+- `source_type`: main
+- `date`: 2025-12-26
+- `date_source`: body_explicit
+- `source_path`: 901-1000/996.md
+- `description`: 在西安工商学院消除挂科，需要交8万元参加“微留学”项目。稍微搜索一下公开报道，就知道这个说法太保守了！
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息996】8万消挂科 杨炜长的西安工商旅行社

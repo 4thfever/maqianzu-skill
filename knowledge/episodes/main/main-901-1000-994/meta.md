@@ -1,0 +1,12 @@
+# 【睡前消息994】越南缺房子 深圳缺垃圾
+
+- `episode_id`: main-901-1000-994
+- `source_type`: main
+- `date`: 2025-12-21
+- `date_source`: body_explicit
+- `source_path`: 901-1000/994.md
+- `description`: “中国垃圾不够烧”的说法流传了很久，但同时中国各地频繁在溶洞、山沟发现巨大的垃圾场。今天来解释这个矛盾。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息994】越南缺房子 深圳缺垃圾

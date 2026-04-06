@@ -1,0 +1,19 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息882】地球上最远的朋友",
+      "question": ""
+    }
+  ],
+  "date": "2025-03-31",
+  "date_source": "front_matter_fallback",
+  "description": "地球上相对的两点是“对跖点”。本期节目，我们邀请2万公里外的“对跖点朋友”走进演播室。",
+  "episode_id": "main-801-900-882",
+  "keywords": [],
+  "source_path": "801-900/882.md",
+  "source_type": "main",
+  "title": "【睡前消息882】地球上最远的朋友"
+}

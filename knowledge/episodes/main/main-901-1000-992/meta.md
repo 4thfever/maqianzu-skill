@@ -1,0 +1,12 @@
+# 【睡前消息992】香港人大陆买社保 逃税不是统战
+
+- `episode_id`: main-901-1000-992
+- `source_type`: main
+- `date`: 2025-12-16
+- `date_source`: body_explicit
+- `source_path`: 901-1000/992.md
+- `description`: 大陆富人到香港买商业保险，不是新鲜事，普遍有洗钱和转移资产的嫌疑。现在香港人普遍到大陆买社保，似乎也不是很合理。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息992】香港人大陆买社保 逃税不是统战

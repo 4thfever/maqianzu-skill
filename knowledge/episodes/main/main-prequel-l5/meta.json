@@ -1,0 +1,19 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【末条新闻5】12岁的杀人少年该死刑吗？",
+      "question": ""
+    }
+  ],
+  "date": "2023-01-25",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-prequel-l5",
+  "keywords": [],
+  "source_path": "prequel/l5.md",
+  "source_type": "main",
+  "title": "【末条新闻5】12岁的杀人少年该死刑吗？"
+}

@@ -1,0 +1,12 @@
+# 【睡前消息1001】增值电商税 聚变炼金术
+
+- `episode_id`: main-1001-1100-1001
+- `source_type`: main
+- `date`: 2026-01-04
+- `date_source`: body_explicit
+- `source_path`: 1001-1100/1001.md
+- `description`: “电商税”的概念，给一大批小业主带来了资金压力。但回顾“电商税”概念的历史，得说收税时机还有点晚。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息1001】增值电商税 聚变炼金术

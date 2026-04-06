@@ -1,0 +1,12 @@
+# 【睡前消息938】约谈英伟达 前门比后门重要
+
+- `episode_id`: main-901-1000-938
+- `source_type`: main
+- `date`: 2025-08-12
+- `date_source`: body_explicit
+- `source_path`: 901-1000/938.md
+- `description`: 英伟达10天三次回应中国政府质疑，声称H20芯片没有“后门”。逻辑上说，英伟达的声明可能是真的。但核心问题本来也不是“后门”。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息938】约谈英伟达 前门比后门重要

@@ -1,0 +1,12 @@
+# 【睡前消息368】寻找初心 新青年的“6+1”攻略
+
+- `episode_id`: main-301-400-368
+- `source_type`: main
+- `date`: 2023-08-24
+- `date_source`: front_matter_fallback
+- `source_path`: 301-400/368.md
+- `description`: 今年活动的主体是“新青年，新精神”，所以马督工做了一场最切题的演讲，直接回顾陈独秀的《新青年》发刊词，一起寻找新中国解放精神的源头。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息368】寻找初心 新青年的“6+1”攻略

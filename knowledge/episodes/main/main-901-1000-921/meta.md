@@ -1,0 +1,12 @@
+# 【睡前消息921】观众做了个AI产品 对我有威胁
+
+- `episode_id`: main-901-1000-921
+- `source_type`: main
+- `date`: 2025-07-08
+- `date_source`: front_matter_fallback
+- `source_path`: 901-1000/921.md
+- `description`: 2018年，有一位电动汽车行业的读者来访，我问他：电动汽车动摇燃油车的地位要几年？他说五年，我不以为然。 2025年，做AI创业的观众来访，我问他AI颠覆世界要几年？他给了一个同样的回答——五年。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息921】观众做了个AI产品 对我有威胁

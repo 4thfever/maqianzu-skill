@@ -1,0 +1,12 @@
+# 【睡前消息894】融创赖掉美元债 不还也挺好
+
+- `episode_id`: main-801-900-894
+- `source_type`: main
+- `date`: 2025-05-02
+- `date_source`: body_explicit
+- `source_path`: 801-900/894.md
+- `description`: 恒大在美国申请破产清算，国内房子可以烂尾，要优先偿还境外美元债。轮到融创清算，改成境外债务“债转股”。公平性有一点点进步。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息894】融创赖掉美元债 不还也挺好

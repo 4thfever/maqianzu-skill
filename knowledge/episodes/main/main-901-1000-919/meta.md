@@ -1,0 +1,12 @@
+# 【睡前消息919】70岁退休，丹麦人不抗议
+
+- `episode_id`: main-901-1000-919
+- `source_type`: main
+- `date`: 2025-06-29
+- `date_source`: body_explicit
+- `source_path`: 901-1000/919.md
+- `description`: 丹麦退休年龄延长到70岁，邓紫棋和霉霉都在争夺自己年轻时的版权，整个世界都在开发“存量”，然而最重要的是要有年轻人来创造。
+
+## Chunks
+
+- `chunk-001.md`: 【睡前消息919】70岁退休，丹麦人不抗议

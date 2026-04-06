@@ -1,0 +1,19 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "一个43岁资深小镇青年，如何消解世界的「残酷」",
+      "question": ""
+    }
+  ],
+  "date": "2025-06-18",
+  "date_source": "front_matter_fallback",
+  "description": "一个43岁资深小镇青年，如何消解世界的「残酷」",
+  "episode_id": "main-901-1000-2025interview-2",
+  "keywords": [],
+  "source_path": "901-1000/2025interview-2.md",
+  "source_type": "main",
+  "title": "一个43岁资深小镇青年，如何消解世界的「残酷」"
+}

@@ -1,0 +1,61 @@
+{
+  "chunk_count": 8,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "最近，剑桥大学发表了一篇论文《Sars-cov-2基因组的演化网络分析》（Phylogenetic network analysis of SARS-CoV-2 genomes）。很多媒体说，这篇文章证明了新冠病毒并不是中国原生，而是起源于美国和澳洲。督工，你怎么评价这种解读？",
+      "question": "最近，剑桥大学发表了一篇论文《Sars-cov-2基因组的演化网络分析》（Phylogenetic network analysis of SARS-CoV-2 genomes）。很多媒体说，这篇文章证明了新冠病毒并不是中国原生，而是起源于美国和澳洲。督工，你怎么评价这种解读？"
+    },
+    {
+      "chunk_file": "chunk-002.md",
+      "chunk_index": 2,
+      "heading": "那么督工，剑桥大学的文章到底作出了什么结论呢？",
+      "question": "那么督工，剑桥大学的文章到底作出了什么结论呢？"
+    },
+    {
+      "chunk_file": "chunk-003.md",
+      "chunk_index": 3,
+      "heading": "媒体错误引用科学论文不奇怪，专业的学术界对这篇论文有什么评价？",
+      "question": "媒体错误引用科学论文不奇怪，专业的学术界对这篇论文有什么评价？"
+    },
+    {
+      "chunk_file": "chunk-004.md",
+      "chunk_index": 4,
+      "heading": "督工，关于病毒传播问题，之前还有很多媒体报道，说新冠病毒相当稳定，突变很少，所以有可能是人造的生物武器。督工，你对这种说法怎么看？",
+      "question": "督工，关于病毒传播问题，之前还有很多媒体报道，说新冠病毒相当稳定，突变很少，所以有可能是人造的生物武器。督工，你对这种说法怎么看？"
+    },
+    {
+      "chunk_file": "chunk-005.md",
+      "chunk_index": 5,
+      "heading": "最近还有一个和生物学相关的新闻。据英国卫报报道，4月11日，\"生命游戏\"发明人，普林斯顿大学数学系教授约翰·康威(John H Conway)因新冠肺炎去世，享年83岁。督工，你对这个人了解吗？",
+      "question": "最近还有一个和生物学相关的新闻。据英国卫报报道，4月11日，\"生命游戏\"发明人，普林斯顿大学数学系教授约翰·康威(John H Conway)因新冠肺炎去世，享年83岁。督工，你对这个人了解吗？"
+    },
+    {
+      "chunk_file": "chunk-006.md",
+      "chunk_index": 6,
+      "heading": "督工你来给大家介绍一下\"生命游戏\"？",
+      "question": "督工你来给大家介绍一下\"生命游戏\"？"
+    },
+    {
+      "chunk_file": "chunk-007.md",
+      "chunk_index": 7,
+      "heading": "这个游戏看起来很有趣，但除了有趣之外，还有其他意义吗？",
+      "question": "这个游戏看起来很有趣，但除了有趣之外，还有其他意义吗？"
+    },
+    {
+      "chunk_file": "chunk-008.md",
+      "chunk_index": 8,
+      "heading": "康威是一个非常优秀的数学家，除了纯科学层面的探讨，\"生命游戏\"还有其他更贴近现实的用途吗？",
+      "question": "康威是一个非常优秀的数学家，除了纯科学层面的探讨，\"生命游戏\"还有其他更贴近现实的用途吗？"
+    }
+  ],
+  "date": "2020-04-17",
+  "date_source": "body_explicit",
+  "description": "",
+  "episode_id": "main-101-200-103",
+  "keywords": [],
+  "source_path": "101-200/103.md",
+  "source_type": "main",
+  "title": "【睡前消息103】“剑桥论文证明新冠病毒起源美国”这种说法是怎么来的？"
+}
