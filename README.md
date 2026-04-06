@@ -40,11 +40,6 @@ openclaw setup --workspace "$HOME\openclaw-workspaces\maqianzu" --wizard
 openclaw tui
 ```
 
-说明：
-
-- 当前版本的 OpenClaw 不支持 `openclaw --workspace ...` 这种启动方式，应先用 `openclaw setup --workspace ...` 配置默认 workspace，再用 `openclaw tui` 或其他入口进入会话。
-- 在 PowerShell 里更稳妥的写法是使用 `$HOME`；直接写 `~/...` 有些命令会把它当成字面路径，甚至在当前盘符下创建一个名为 `~` 的目录。
-
 进入 OpenClaw 后可以直接提问；如果想先确认 workspace 上下文是否正常，再检查：
 
 ```text
