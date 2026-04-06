@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/OpenClaw-Workspace-2F6FEB?style=for-the-badge" alt="OpenClaw Workspace" />
   <img src="https://img.shields.io/badge/Knowledge-Local%20First-0A7F5A?style=for-the-badge" alt="Local First" />
   <img src="https://img.shields.io/badge/Mode-Structured%20Analysis-8B5CF6?style=for-the-badge" alt="Structured Analysis" />
-  <img src="https://img.shields.io/badge/Status-Usable-success?style=for-the-badge" alt="Usable" />
   <img src="https://img.shields.io/badge/License-MIT-F2C94C?style=for-the-badge" alt="MIT License" />
 </p>
 
@@ -31,7 +30,7 @@
 
 </div>
 
-一个尽可能还原马前卒/睡前消息的问题分析方式、观点、态度、口吻和记忆的Skill。以 OpenClaw 为主要运行平台。
+一个以公开节目材料为基础、面向 OpenClaw 的本地分析型 workspace。
 
 ## 快速开始
 
@@ -42,7 +41,7 @@ git clone <your-repo-url> ~/openclaw-workspaces/maqianzu
 openclaw --workspace ~/openclaw-workspaces/maqianzu
 ```
 
-进入 OpenClaw 后先检查上下文：
+进入 OpenClaw 后可以直接提问；如果想先确认 workspace 上下文是否正常，再检查：
 
 ```text
 /context list
@@ -54,7 +53,7 @@ openclaw --workspace ~/openclaw-workspaces/maqianzu
 - `SOUL.md`
 - `TOOLS.md`
 
-如果还想确认 skill 入口已经被识别，可以执行：
+如果还想确认显式 skill 入口已经被识别，可以执行：
 
 ```bash
 openclaw skills list --workspace ~/openclaw-workspaces/maqianzu
@@ -156,16 +155,16 @@ python tools/build_all.py
 
 适合：
 
-- 想在 OpenClaw 中做本地、可追溯的分析型问答
-- 想复用“结构分析 -> 现实约束 -> 结论判断”的回答路径
-- 希望优先依赖本地知识文件，而不是外部向量库
-- 希望先缩小主题范围，再逐层进入节目材料
+- 本地分析、可追溯、带材料依据的问答
+- 复用“结构分析 -> 现实约束 -> 结论判断”的回答路径
+- 优先依赖本地知识文件，而不是外部向量库
+- 先缩小主题范围，再逐层进入节目材料
 
 不太适合：
 
-- 想直接把它当成联网实时问答工具
-- 想把它当成通用闲聊人格包
-- 不希望维护本地知识库文件
+- 联网实时问答
+- 通用闲聊人格包
+- 零维护使用
 
 ## 项目定位
 
@@ -175,6 +174,8 @@ python tools/build_all.py
 - 回答时优先缩小主题范围，再按需读取具体节目材料
 
 ## 仓库结构
+
+如果你第一次看这个仓库，优先关注下面这几个入口文件：
 
 ```text
 maqianzu-skill/
@@ -194,14 +195,9 @@ maqianzu-skill/
 └─ docs/                      # 补充文档与开发记录
 ```
 
-## 使用方式
+## 集成方式
 
-推荐把本仓库作为一个独立 workspace 使用。下面是一种常见示例：
-
-```bash
-git clone <your-repo-url> ~/.openclaw/workspaces/maqianzu
-openclaw --workspace ~/.openclaw/workspaces/maqianzu
-```
+本仓库既可以作为独立 workspace 直接运行，也保留了 `skills/maqianzu/SKILL.md` 作为显式 skill 入口。
 
 在 OpenClaw 以该目录作为 workspace 运行时，可优先配合以下文件使用：
 
@@ -209,11 +205,11 @@ openclaw --workspace ~/.openclaw/workspaces/maqianzu
 - `SOUL.md`
 - `TOOLS.md`
 
-而 `skills/maqianzu/SKILL.md` 会作为 skill 入口提供给 agent。
+而 `skills/maqianzu/SKILL.md` 会作为额外的显式入口提供给 agent。
 
 ## 工作流
 
-> 本仓库默认不是“先扫全库”，而是“先判断主题，再逐层下钻”。
+> 这个 workspace 的核心不是“全库搜索”，而是“先判断主题，再逐层下钻”。
 
 1. 先由 OpenClaw 注入 `AGENTS.md`、`SOUL.md`、`TOOLS.md`
 2. 再按需读取 `skills/maqianzu/SKILL.md`
@@ -244,6 +240,12 @@ python tools/build_all.py
 >
 > 若马督工本人或睡前消息官方认为本 repo 不合适，本人会将其下架。
 
+## 延伸阅读
+
+- [构建过程](docs/build-process.md)
+- [致谢说明](docs/acknowledgements.md)
+- [开发档案](docs/dev/README.md)
+
 ## 致谢
 
 感谢以下项目为本仓库提供基础结构或语料来源：
@@ -251,9 +253,3 @@ python tools/build_all.py
 - `therealXiaomanChu/ex-skill`
 - `bedtimenews/bedtimenews-archive-contents`
 - 马督工与睡前消息团队
-
-更完整的说明见 [docs/acknowledgements.md](docs/acknowledgements.md)。
-
-## 开发档案
-
-如需了解研究记录和开发过程，见 [docs/dev/README.md](docs/dev/README.md)。
