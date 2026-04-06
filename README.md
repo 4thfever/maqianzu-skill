@@ -2,15 +2,13 @@
 
 # 马前卒 Skill
 
-<table>
-  <tr>
-    <td>
-      <blockquote>
-        <h2>保卫我们的现代生活</h2>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+<tr>
+  <td>
+    <blockquote>
+      <h2>保卫我们的现代生活</h2>
+    </blockquote>
+  </td>
+</tr>
 
 <p>
   <img src="https://img.shields.io/badge/OpenClaw-Workspace-2F6FEB?style=for-the-badge" alt="OpenClaw Workspace" />
@@ -37,7 +35,7 @@
 如果你只是想把这个 skill 跑起来，最短路径如下：
 
 ```bash
-git clone <your-repo-url> ~/openclaw-workspaces/maqianzu
+git clone https://github.com/4thfever/maqianzu-skill ~/openclaw-workspaces/maqianzu
 openclaw --workspace ~/openclaw-workspaces/maqianzu
 ```
 
@@ -83,7 +81,7 @@ openclaw --help
 ### 2. 把仓库 clone 到本地
 
 ```bash
-git clone <your-repo-url> ~/openclaw-workspaces/maqianzu
+git clone https://github.com/4thfever/maqianzu-skill ~/openclaw-workspaces/maqianzu
 ```
 
 ### 3. 直接把这个仓库当成 workspace 启动
