@@ -1,5 +1,7 @@
 # 马前卒 Skill
 
+*"战无不胜的马督工降临在他忠诚的赛博临高"*
+
 一个以 OpenClaw 为主要运行平台的 `maqianzu` 本地分析型 skill/workspace。
 
 本仓库基于公开节目材料整理马前卒常见的分析路径、表达风格和知识索引，让 OpenClaw 能优先按“结构分析 -> 现实约束 -> 结论判断”的方式组织回答。
@@ -142,23 +144,12 @@ python tools/build_all.py
 
 如需查看构建细节，见 [docs/build-process.md](docs/build-process.md)。
 
-## 数据来源
-
-本项目主要使用以下来源：
-
-- `therealXiaomanChu/ex-skill`
-- `bedtimenews/bedtimenews-archive-contents`
-
-语料范围目前限定为：
-
-- `main`
-- `livestream`
-
-## 非官方声明
+## 声明
 
 本项目是一个基于公开材料整理的非官方 skill/workspace，不代表马前卒本人当前或未来的真实立场。
 
-本项目主要基于公开节目材料整理，目标是构建一种“马前卒式分析框架”的 OpenClaw skill。若相关方对项目内容提出合理异议，维护者会评估并处理下架请求。
+本项目主要基于公开节目材料整理，目标是构建一种“马前卒式分析框架”的 OpenClaw skill。
+若马督工本人或睡前消息官方认为本repo不合适，本人会将其下架。
 
 ## 致谢
 
@@ -166,6 +157,7 @@ python tools/build_all.py
 
 - `therealXiaomanChu/ex-skill`
 - `bedtimenews/bedtimenews-archive-contents`
+- 马督工与睡前消息团队
 
 更完整的说明见 [docs/acknowledgements.md](docs/acknowledgements.md)。
 
