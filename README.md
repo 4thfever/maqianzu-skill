@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# 马前卒 Skill
+# 马前卒.Skill
 
 <tr>
   <td>
