@@ -6,7 +6,7 @@
   <tr>
     <td>
       <blockquote>
-        <strong style="font-size: 32px; letter-spacing: 1px;">保卫我们的现代生活</strong>
+        <h2>保卫我们的现代生活</h2>
       </blockquote>
     </td>
   </tr>
