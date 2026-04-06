@@ -2,8 +2,6 @@
 
 # 马前卒 Skill
 
-<p><strong>把“结构分析 -> 现实约束 -> 结论判断”整理成一个可复用的 OpenClaw 本地分析型 workspace</strong></p>
-
 <p>
   <img src="https://img.shields.io/badge/OpenClaw-Workspace-2F6FEB?style=for-the-badge" alt="OpenClaw Workspace" />
   <img src="https://img.shields.io/badge/Knowledge-Local%20First-0A7F5A?style=for-the-badge" alt="Local First" />
@@ -12,7 +10,9 @@
   <img src="https://img.shields.io/badge/License-MIT-F2C94C?style=for-the-badge" alt="MIT License" />
 </p>
 
-<p><em>“战无不胜的马督工降临在他忠诚的赛博临高”</em></p>
+<p>
+  <strong style="font-size: 28px;">保卫我们的现代生活</strong>
+</p>
 
 <p>
   <a href="#快速开始">快速开始</a> ·
