@@ -2,7 +2,6 @@
 
 # 马前卒 Skill
 
-<table>
 <tr>
   <td>
     <blockquote>
@@ -10,7 +9,6 @@
     </blockquote>
   </td>
 </tr>
-</table>
 
 <p>
   <img src="https://img.shields.io/badge/OpenClaw-Workspace-2F6FEB?style=for-the-badge" alt="OpenClaw Workspace" />
