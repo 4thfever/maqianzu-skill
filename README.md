@@ -1,51 +1,69 @@
+<div align="center">
+
 # 马前卒 Skill
 
-> "战无不胜的马督工降临在他忠诚的赛博临高"
+<p><strong>把“结构分析 -> 现实约束 -> 结论判断”整理成一个可复用的 OpenClaw 本地分析型 workspace</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenClaw-Workspace-2F6FEB?style=for-the-badge" alt="OpenClaw Workspace" />
+  <img src="https://img.shields.io/badge/Knowledge-Local%20First-0A7F5A?style=for-the-badge" alt="Local First" />
+  <img src="https://img.shields.io/badge/Mode-Structured%20Analysis-8B5CF6?style=for-the-badge" alt="Structured Analysis" />
+  <img src="https://img.shields.io/badge/Status-Usable-success?style=for-the-badge" alt="Usable" />
+  <img src="https://img.shields.io/badge/License-MIT-F2C94C?style=for-the-badge" alt="MIT License" />
+</p>
+
+<p><em>“战无不胜的马督工降临在他忠诚的赛博临高”</em></p>
+
+<p>
+  <a href="#快速开始">快速开始</a> ·
+  <a href="#适用场景">适用场景</a> ·
+  <a href="#仓库结构">仓库结构</a> ·
+  <a href="#工作流">工作流</a> ·
+  <a href="#更新知识库">更新知识库</a> ·
+  <a href="#声明">声明</a>
+</p>
+
+</div>
 
 一个以 OpenClaw 为主要运行平台的 `maqianzu` 本地分析型 skill/workspace。
 
 本仓库基于公开节目材料整理马前卒常见的分析路径、表达风格和知识索引，让 OpenClaw 能优先按“结构分析 -> 现实约束 -> 结论判断”的方式组织回答。
 
-## 项目定位
+## 快速开始
 
-- 以 OpenClaw 为主要支持平台
-- 以本地文件知识库为基础，不依赖外部向量库
-- 重点放在分析框架、论证习惯和表达风格
-- 回答时优先缩小主题范围，再按需读取具体节目材料
-
-## 仓库结构
-
-- `AGENTS.md`：workspace 总规则
-- `SOUL.md`：高层人格与表达气质
-- `TOOLS.md`：工具使用与检索工作流
-- `skills/maqianzu/SKILL.md`：OpenClaw skill 入口
-- `prompts/`：更细的分析、人格、边界与检索规则
-- `knowledge/quickstart.md`：高频主题与快速入口
-- `knowledge/index.md`：知识总入口
-- `knowledge/topics/*.md`：主题索引
-- `knowledge/episodes/...`：节目级元数据与 chunk
-- `tools/`：语料抓取、标准化、切分、建索引、校验脚本
-
-## OpenClaw 使用
-
-推荐把本仓库作为一个独立 workspace 使用。下面是一种常见示例：
+如果你只是想把这个 skill 跑起来，最短路径如下：
 
 ```bash
-git clone <your-repo-url> ~/.openclaw/workspaces/maqianzu
-openclaw --workspace ~/.openclaw/workspaces/maqianzu
+git clone <your-repo-url> ~/openclaw-workspaces/maqianzu
+openclaw --workspace ~/openclaw-workspaces/maqianzu
 ```
 
-在 OpenClaw 以该目录作为 workspace 运行时，可优先配合以下文件使用：
+进入 OpenClaw 后先检查上下文：
+
+```text
+/context list
+```
+
+正常情况下，你应该能看到：
 
 - `AGENTS.md`
 - `SOUL.md`
 - `TOOLS.md`
 
-而 `skills/maqianzu/SKILL.md` 会作为 skill 入口提供给 agent。
+如果还想确认 skill 入口已经被识别，可以执行：
 
-## 傻瓜版指南
+```bash
+openclaw skills list --workspace ~/openclaw-workspaces/maqianzu
+```
 
-如果你只是想把这个 skill 跑起来，不想研究 OpenClaw 配置，可以直接按下面做：
+看到 `maqianzu` 后，就可以直接提问，例如：
+
+```text
+请用马前卒式分析，谈谈地方债问题。
+```
+
+<details>
+<summary>展开查看完整上手流程</summary>
 
 ### 1. 安装 OpenClaw
 
@@ -124,7 +142,70 @@ openclaw skills list --workspace ~/openclaw-workspaces/maqianzu
 python tools/build_all.py
 ```
 
-## 推荐读取顺序
+</details>
+
+## 适用场景
+
+适合：
+
+- 想在 OpenClaw 中做本地、可追溯的分析型问答
+- 想复用“结构分析 -> 现实约束 -> 结论判断”的回答路径
+- 希望优先依赖本地知识文件，而不是外部向量库
+- 希望先缩小主题范围，再逐层进入节目材料
+
+不太适合：
+
+- 想直接把它当成联网实时问答工具
+- 想把它当成通用闲聊人格包
+- 不希望维护本地知识库文件
+
+## 项目定位
+
+- 以 OpenClaw 为主要支持平台
+- 以本地文件知识库为基础，不依赖外部向量库
+- 重点放在分析框架、论证习惯和表达风格
+- 回答时优先缩小主题范围，再按需读取具体节目材料
+
+## 仓库结构
+
+```text
+maqianzu-skill/
+├─ AGENTS.md                  # workspace 总规则
+├─ SOUL.md                    # 高层人格与表达气质
+├─ TOOLS.md                   # 工具使用与检索工作流
+├─ skills/
+│  └─ maqianzu/
+│     └─ SKILL.md             # OpenClaw skill 入口
+├─ prompts/                   # 分析、人格、边界与检索规则
+├─ knowledge/
+│  ├─ quickstart.md           # 高频主题与快速入口
+│  ├─ index.md                # 知识总入口
+│  ├─ topics/                 # 主题索引
+│  └─ episodes/               # 节目级元数据与 chunk
+├─ tools/                     # 语料抓取、标准化、切分、建索引、校验脚本
+└─ docs/                      # 补充文档与开发记录
+```
+
+## 使用方式
+
+推荐把本仓库作为一个独立 workspace 使用。下面是一种常见示例：
+
+```bash
+git clone <your-repo-url> ~/.openclaw/workspaces/maqianzu
+openclaw --workspace ~/.openclaw/workspaces/maqianzu
+```
+
+在 OpenClaw 以该目录作为 workspace 运行时，可优先配合以下文件使用：
+
+- `AGENTS.md`
+- `SOUL.md`
+- `TOOLS.md`
+
+而 `skills/maqianzu/SKILL.md` 会作为 skill 入口提供给 agent。
+
+## 工作流
+
+> 本仓库默认不是“先扫全库”，而是“先判断主题，再逐层下钻”。
 
 1. 先由 OpenClaw 注入 `AGENTS.md`、`SOUL.md`、`TOOLS.md`
 2. 再按需读取 `skills/maqianzu/SKILL.md`
@@ -136,7 +217,7 @@ python tools/build_all.py
 
 ## 更新知识库
 
-如果你想同步上游最新语料，可以运行：
+平时问答不用跑构建。只有你想同步上游最新语料时，才运行：
 
 ```bash
 python tools/build_all.py
@@ -146,10 +227,10 @@ python tools/build_all.py
 
 ## 声明
 
-本项目是一个基于公开材料整理的非官方 skill/workspace，不代表马前卒本人当前或未来的真实立场。
-
-本项目主要基于公开节目材料整理，目标是构建一种“马前卒式分析框架”的 OpenClaw skill。
-若马督工本人或睡前消息官方认为本repo不合适，本人会将其下架。
+> [!IMPORTANT]
+> 本项目是一个基于公开材料整理的非官方 skill/workspace，不代表马前卒本人当前或未来的真实立场。
+> 本项目主要基于公开节目材料整理，目标是构建一种“马前卒式分析框架”的 OpenClaw skill。
+> 若马督工本人或睡前消息官方认为本 repo 不合适，本人会将其下架。
 
 ## 致谢
 
