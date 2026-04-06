@@ -60,10 +60,12 @@ openclaw --workspace ~/openclaw-workspaces/maqianzu
 openclaw skills list --workspace ~/openclaw-workspaces/maqianzu
 ```
 
-看到 `maqianzu` 后，就可以直接提问，例如：
+看到 `maqianzu` 后，说明 skill 入口已经被 OpenClaw 识别。
+
+在这个 workspace 里，日常提问默认就应按本仓库定义的分析路径回答，不需要每次显式写“请用马前卒式分析”。例如：
 
 ```text
-请用马前卒式分析，谈谈地方债问题。
+地方债问题的核心矛盾是什么？
 ```
 
 <details>
@@ -122,7 +124,7 @@ openclaw skills list --workspace ~/openclaw-workspaces/maqianzu
 例如：
 
 ```text
-请用马前卒式分析，谈谈地方债问题。
+地方债问题的核心矛盾是什么？
 ```
 
 正常情况下，OpenClaw 会先利用：
@@ -131,6 +133,8 @@ openclaw skills list --workspace ~/openclaw-workspaces/maqianzu
 - `SOUL.md`
 - `TOOLS.md`
 - `skills/maqianzu/SKILL.md`
+
+也就是说，`skills/maqianzu/SKILL.md` 是一个显式的 skill 入口，但这个 workspace 本身也已经默认按“马前卒式分析”的方向组织回答。
 
 再按需进入：
 
@@ -234,6 +238,7 @@ python tools/build_all.py
 > [!IMPORTANT]
 > 本项目是一个基于公开材料整理的非官方 skill/workspace，不代表马前卒本人当前或未来的真实立场。
 > 本项目主要基于公开节目材料整理，目标是构建一种“马前卒式分析框架”的 OpenClaw skill。
+> 本项目基于公开数据提供 AI 能力，仅供学习交流使用；如果在使用过程中涉及违法行为，由使用者本人负责，开发者对此不承担任何责任。
 > 若马督工本人或睡前消息官方认为本 repo 不合适，本人会将其下架。
 
 ## 致谢
