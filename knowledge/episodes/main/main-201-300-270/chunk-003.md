@@ -7,6 +7,8 @@ episode_id: main-201-300-270
 chunk_index: 3
 chunk_heading: 今天青年节，马督工不在，我们讨论一个和他这个资深青年相关的话题。 今年2月，云南和山东海关破获了一起走私案，案值超过10亿。他们走私的物品比较特殊，全都是人发，重量超过1200吨。 ![270-43.png](https://img.bedtime.news/2023/09/05/64f68ba4452c7.png) https://baijiahao.baidu.com/s?id=1690562206768365200&wfr=spider&for=pc ![270-44.png](https://img.bedtime.news/2023/09/05/64f68ba43bc0a.png) https://www.163.com/dy/article/G66UACHJ0512FOSV.html 海关人员解释，人发在国内外价差很大，能达到三四倍，走私能获暴利。为什么国内人发价格会这么贵？
 source_path: 201-300/270.md
+summary: 因为中国有全球最大的假发产业，产量占全球80%左右
+usage_hint: 适合在需要节目级细节时补充与“因为中国有全球最大的假发产业，产量占全球80%左右”相关的节目论据。
 ---
 
 # 今天青年节，马督工不在，我们讨论一个和他这个资深青年相关的话题。 今年2月，云南和山东海关破获了一起走私案，案值超过10亿。他们走私的物品比较特殊，全都是人发，重量超过1200吨。 ![270-43.png](https://img.bedtime.news/2023/09/05/64f68ba4452c7.png) https://baijiahao.baidu.com/s?id=1690562206768365200&wfr=spider&for=pc ![270-44.png](https://img.bedtime.news/2023/09/05/64f68ba43bc0a.png) https://www.163.com/dy/article/G66UACHJ0512FOSV.html 海关人员解释，人发在国内外价差很大，能达到三四倍，走私能获暴利。为什么国内人发价格会这么贵？

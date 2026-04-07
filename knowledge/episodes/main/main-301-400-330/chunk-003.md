@@ -7,6 +7,8 @@ episode_id: main-301-400-330
 chunk_index: 3
 chunk_heading: 这件事为什么会联系到中国？
 source_path: 301-400/330.md
+summary: 美国保险业和医药集团是最有实力的游说集团
+usage_hint: 适合在需要节目级细节时补充与“美国保险业和医药集团是最有实力的游说集团”相关的节目论据。
 ---
 
 # 这件事为什么会联系到中国？

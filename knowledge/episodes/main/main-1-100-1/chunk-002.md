@@ -7,6 +7,8 @@ episode_id: main-1-100-1
 chunk_index: 2
 chunk_heading: 那，教育局为什么还要临时修改规则呢？
 source_path: 1-100/1.md
+summary: 文件里说了，是为了遵守国务院最新的文件
+usage_hint: 适合在需要节目级细节时补充与“文件里说了，是为了遵守国务院最新的文件”相关的节目论据。
 ---
 
 # 那，教育局为什么还要临时修改规则呢？

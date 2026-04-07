@@ -7,6 +7,8 @@ episode_id: main-301-400-365
 chunk_index: 4
 chunk_heading: 督工你现在怎么看待远东集团事件。
 source_path: 301-400/365.md
+summary: 在做结论之前，我们回顾一下事件经过
+usage_hint: 适合在需要节目级细节时补充与“在做结论之前，我们回顾一下事件经过”相关的节目论据。
 ---
 
 # 督工你现在怎么看待远东集团事件。

@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息941】沙特去石油化 假打才能保命",
+      "question": "",
+      "summary": "7月31日，沙特阿拉伯财政部发布2025年第二季度预算报告",
+      "usage_hint": "适合在需要节目级细节时补充与“7月31日，沙特阿拉伯财政部发布2025年第二季度预算报告”相关的节目论据。"
+    }
+  ],
+  "date": "2025-08-19",
+  "date_source": "body_explicit",
+  "description": "伊朗统治集团，是少数认真发展本土工业的中东石油国家。但是，城市中产技术阶层的立场，天生和封建宗教集团对立，制造了遍布全国的反对派。沙特看到伊朗的例子，最理智的选择就是保持当前的腐朽落后状态。",
+  "episode_id": "main-901-1000-941",
+  "keywords": [],
+  "source_path": "901-1000/941.md",
+  "source_type": "main",
+  "summary": "伊朗统治集团，是少数认真发展本土工业的中东石油国家。但是，城市中产技术阶层的立场，天生和封建宗教集团对立，制造了遍布全国的反对派。沙特看到伊朗的例子，最理智的选择就是保持当前的腐朽落后状态。",
+  "title": "【睡前消息941】沙特去石油化 假打才能保命",
+  "topic_scores": {
+    "economy": 10,
+    "governance": 1,
+    "industry": 8,
+    "international": 6,
+    "media": 0,
+    "society": 3
+  },
+  "topics": [
+    "economy"
+  ]
+}

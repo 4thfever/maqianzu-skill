@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "暑假版",
+      "question": "",
+      "summary": "第2期**](./summerbreak/2.md) - [**第1期**](./summerbreak/1.md) {.links-list}",
+      "usage_hint": "适合在需要节目级细节时补充与“summerbreak/2.md) - [**第1期**](”相关的节目论据。"
+    }
+  ],
+  "date": "2023-06-24",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-summerbreak",
+  "keywords": [],
+  "source_path": "summerbreak.md",
+  "source_type": "main",
+  "summary": "第2期**](./summerbreak/2.md) - [**第1期**](./summerbreak/1.md) {.links-list}",
+  "title": "暑假版",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 0,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "society"
+  ]
+}

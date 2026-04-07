@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息927】关掉黑砖厂，奴隶工人怎么办？",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-07-18",
+  "date_source": "body_explicit",
+  "description": "上官正义一个月举报三家奴隶工厂，解救了25个奴隶。工厂关闭之后，这些奴隶的未来值得关注。",
+  "episode_id": "main-901-1000-927",
+  "keywords": [],
+  "source_path": "901-1000/927.md",
+  "source_type": "main",
+  "summary": "上官正义一个月举报三家奴隶工厂，解救了25个奴隶。工厂关闭之后，这些奴隶的未来值得关注。",
+  "title": "【睡前消息927】关掉黑砖厂，奴隶工人怎么办？",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 2,
+    "industry": 6,
+    "international": 0,
+    "media": 0,
+    "society": 2
+  },
+  "topics": [
+    "industry"
+  ]
+}

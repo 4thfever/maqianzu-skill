@@ -7,6 +7,8 @@ episode_id: main-101-200-103
 chunk_index: 1
 chunk_heading: 最近，剑桥大学发表了一篇论文《Sars-cov-2基因组的演化网络分析》（Phylogenetic network analysis of SARS-CoV-2 genomes）。很多媒体说，这篇文章证明了新冠病毒并不是中国原生，而是起源于美国和澳洲。督工，你怎么评价这种解读？
 source_path: 101-200/103.md
+summary: 中国媒体对这篇论文的解读是一个新闻学案例，每转载一次，就为了点击率修改一次标题，最后，科学新闻变成了立场新闻，一篇没有什么倾向性的论文，变成了朋友圈阴谋论的源头
+usage_hint: 适合在需要节目级细节时补充与“中国媒体对这篇论文的解读是一个新闻学案例，每转载一次，就为了”相关的节目论据。
 ---
 
 # 最近，剑桥大学发表了一篇论文《Sars-cov-2基因组的演化网络分析》（Phylogenetic network analysis of SARS-CoV-2 genomes）。很多媒体说，这篇文章证明了新冠病毒并不是中国原生，而是起源于美国和澳洲。督工，你怎么评价这种解读？

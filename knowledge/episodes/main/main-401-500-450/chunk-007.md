@@ -7,6 +7,8 @@ episode_id: main-401-500-450
 chunk_index: 7
 chunk_heading: "既然国企可以低价收购民企优质资产，普通民众为何不能以低价购买商品房？"
 source_path: 401-500/450.md
+summary: https://api3.cls.cn/share/article/1050223
+usage_hint: 适合在需要节目级细节时补充与“https://api3.cls.cn/share/arti”相关的节目论据。
 ---
 
 # "既然国企可以低价收购民企优质资产，普通民众为何不能以低价购买商品房？"

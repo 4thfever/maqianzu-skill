@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 7
 chunk_heading: 最近有没有写书的计划？
 source_path: 2023/1/7.md
+summary: 有人问我最近有没有写书的计划
+usage_hint: 适合在直播问答场景中核对与“有人问我最近有没有写书的计划”相关的节目级细节。
 ---
 
 # 最近有没有写书的计划？

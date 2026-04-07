@@ -7,6 +7,8 @@ episode_id: main-1-100-4
 chunk_index: 7
 chunk_heading: 英国人均GDP还是我们的4倍，为什么4G落后这么多？
 source_path: 1-100/4.md
+summary: 首先当然是我们这些年发展迅速，但也有个发展阶段问题
+usage_hint: 适合在需要节目级细节时补充与“首先当然是我们这些年发展迅速，但也有个发展阶段问题”相关的节目论据。
 ---
 
 # 英国人均GDP还是我们的4倍，为什么4G落后这么多？

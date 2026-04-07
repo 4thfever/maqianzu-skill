@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1004】伊朗、古巴、委内瑞拉 为什么是一家？",
+      "question": "",
+      "summary": "请静静介绍话题： > 去年10月19日，967期节目说到委内瑞拉问题，我们回顾一下你当时的评论的： > > > *从集结的兵力来看，还是从动机来看，特朗普政府并不打算对委内瑞拉政权发动全面进攻，最多是发动象征性的轰炸，进行政治投机",
+      "usage_hint": "适合在需要节目级细节时补充与“请静静介绍话题： > 去年10月19日，967期节目说到委内”相关的节目论据。"
+    }
+  ],
+  "date": "2026-01-11",
+  "date_source": "body_explicit",
+  "description": "伊朗、古巴、委内瑞拉，三个政权共同遇到内部危机，这不能简单地用“反美”来解释。",
+  "episode_id": "main-1001-1100-1004",
+  "keywords": [],
+  "source_path": "1001-1100/1004.md",
+  "source_type": "main",
+  "summary": "伊朗、古巴、委内瑞拉，三个政权共同遇到内部危机，这不能简单地用“反美”来解释。",
+  "title": "【睡前消息1004】伊朗、古巴、委内瑞拉 为什么是一家？",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 2,
+    "industry": 0,
+    "international": 10,
+    "media": 1,
+    "society": 1
+  },
+  "topics": [
+    "international"
+  ]
+}

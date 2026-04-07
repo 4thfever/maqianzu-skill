@@ -7,6 +7,8 @@ episode_id: main-1-100-79
 chunk_index: 2
 chunk_heading: 督工你怎么看这种形式的奖励？
 source_path: 1-100/79.md
+summary: 重奖援助武汉的医护人员，我绝对赞同
+usage_hint: 适合在需要节目级细节时补充与“重奖援助武汉的医护人员，我绝对赞同”相关的节目论据。
 ---
 
 # 督工你怎么看这种形式的奖励？

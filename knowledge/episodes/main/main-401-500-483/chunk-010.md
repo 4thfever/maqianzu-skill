@@ -7,6 +7,8 @@ episode_id: main-401-500-483
 chunk_index: 10
 chunk_heading: 静静帮我读一段
 source_path: 401-500/483.md
+summary: 这个十字路口，就是前面卡特和尼克松预测的转折时间点
+usage_hint: 适合在需要节目级细节时补充与“这个十字路口，就是前面卡特和尼克松预测的转折时间点”相关的节目论据。
 ---
 
 # 静静帮我读一段

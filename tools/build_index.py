@@ -157,6 +157,7 @@ class EpisodeRecord:
     date: str
     date_source: str
     description: str
+    summary: str
     source_path: str
     keywords: list[str]
     chunk_count: int
@@ -215,6 +216,7 @@ def load_episode_records(chunked_root: Path, published_root: Path) -> list[Episo
                 date=payload["date"],
                 date_source=payload.get("date_source", "unknown"),
                 description=payload.get("description", ""),
+                summary=payload.get("summary", ""),
                 source_path=payload["source_path"],
                 keywords=list(payload.get("keywords", [])),
                 chunk_count=int(payload.get("chunk_count", 0)),
@@ -286,6 +288,7 @@ def write_catalog(knowledge_root: Path, records: list[EpisodeRecord]) -> None:
                 "date": record.date,
                 "date_source": record.date_source,
                 "description": record.description,
+                "summary": record.summary,
                 "source_path": record.source_path,
                 "keywords": record.keywords,
                 "chunk_count": record.chunk_count,
@@ -314,13 +317,22 @@ def sync_published_episodes(chunked_root: Path, published_root: Path) -> None:
         for episode_dir in sorted(source_dir.iterdir()):
             if not episode_dir.is_dir():
                 continue
-            shutil.copytree(episode_dir, target_dir / episode_dir.name)
+            target_episode_dir = ensure_dir(target_dir / episode_dir.name)
+            for source_file in sorted(episode_dir.rglob("*")):
+                if source_file.is_dir():
+                    ensure_dir(target_episode_dir / source_file.relative_to(episode_dir))
+                    continue
+                destination = target_episode_dir / source_file.relative_to(episode_dir)
+                ensure_dir(destination.parent)
+                shutil.copy2(source_file, destination)
 
 
 def short_summary(record: EpisodeRecord) -> str:
     """Build a concise summary line for an episode."""
     if record.description:
         summary = record.description.strip()
+    elif record.summary:
+        summary = record.summary.strip()
     elif record.chunk_headings:
         summary = "；".join(record.chunk_headings[:3])
     else:
@@ -336,14 +348,21 @@ def write_root_index(knowledge_root: Path, records: list[EpisodeRecord]) -> None
     lines = [
         "# Knowledge Index",
         "",
-        "本文件是 OpenClaw 读取马前卒知识库时的总入口。",
+        "本文件是马前卒知识库的总入口，用于在主题不明确、问题跨域或需要查看整体分布时提供导航。",
         "",
         "建议读取顺序：",
         "",
         "1. 先读 `knowledge/quickstart.md`",
-        "2. 再按需回到本文件查看完整主题分布",
+        "2. 只有在单主题入口不够用时，再回到本文件查看完整主题分布",
         "3. 再读对应 `knowledge/topics/*.md`",
         "4. 最后按需读取 `knowledge/episodes/.../meta.md` 和具体 chunk",
+        "",
+        "## 什么时候应该读本页",
+        "",
+        "- 不确定问题最接近哪个主题",
+        "- 问题明显跨越多个主题",
+        "- 需要查看最近节目或整体分布",
+        "- 需要判断应从 `main` 还是 `livestream` 入手",
         "",
         "## 知识库概览",
         "",
@@ -479,6 +498,93 @@ def write_topic_indexes(knowledge_root: Path, records: list[EpisodeRecord]) -> N
         (topic_dir / f"{topic}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+def enrich_chunked_outputs(chunked_root: Path, records: list[EpisodeRecord]) -> None:
+    """Write Codex-friendly indexes under data/chunked and enrich chunk metadata."""
+    topic_dir = ensure_dir(chunked_root / "topics")
+    topic_payloads: dict[str, list[dict[str, object]]] = defaultdict(list)
+    catalog_episodes: list[dict[str, object]] = []
+
+    for record in records:
+        episode_dir = chunked_root / record.source_type / record.episode_id
+        meta_json_path = episode_dir / "meta.json"
+        if meta_json_path.exists():
+            payload = json.loads(meta_json_path.read_text(encoding="utf-8"))
+            payload["topics"] = record.topics
+            payload["topic_scores"] = record.topic_scores
+            payload["summary"] = payload.get("summary") or short_summary(record)
+            write_json(meta_json_path, payload)
+
+        chunk_entries: list[dict[str, object]] = []
+        for chunk_path in sorted(episode_dir.glob("chunk-*.md")):
+            chunk_entries.append(
+                {
+                    "chunk_file": chunk_path.name,
+                    "chunk_path": chunk_path.relative_to(repo_root()).as_posix(),
+                }
+            )
+            text = chunk_path.read_text(encoding="utf-8")
+            if not text.startswith("---\n"):
+                continue
+            _, front_matter, remainder = text.split("---", 2)
+            if "topics:" in front_matter:
+                continue
+            lines = ["---"]
+            lines.extend(front_matter.strip().splitlines())
+            lines.append(f"topics: {', '.join(record.topics)}")
+            if record.keywords:
+                lines.append(f"keywords: {', '.join(record.keywords[:8])}")
+            lines.append("---")
+            lines.append(remainder.lstrip("\n"))
+            chunk_path.write_text("\n".join(lines), encoding="utf-8")
+
+        episode_entry = {
+            "episode_id": record.episode_id,
+            "source_type": record.source_type,
+            "title": record.title,
+            "date": record.date,
+            "date_source": record.date_source,
+            "description": record.description,
+            "summary": short_summary(record),
+            "source_path": record.source_path,
+            "keywords": record.keywords,
+            "topics": record.topics,
+            "topic_scores": record.topic_scores,
+            "chunk_count": record.chunk_count,
+            "meta_path": (episode_dir / "meta.md").relative_to(repo_root()).as_posix(),
+            "meta_json_path": (episode_dir / "meta.json").relative_to(repo_root()).as_posix(),
+            "chunks": chunk_entries,
+        }
+        catalog_episodes.append(episode_entry)
+        for topic in record.topics:
+            topic_payloads[topic].append(episode_entry)
+
+    write_json(
+        chunked_root / "catalog.json",
+        {
+            "episode_count": len(records),
+            "topic_labels": TOPIC_LABELS,
+            "episodes": catalog_episodes,
+        },
+    )
+
+    for topic in TOPIC_LABELS:
+        episodes = sorted(
+            topic_payloads.get(topic, []),
+            key=lambda item: (item["date"], item["episode_id"]),
+            reverse=True,
+        )
+        write_json(
+            topic_dir / f"{topic}.json",
+            {
+                "topic": topic,
+                "label": TOPIC_LABELS[topic],
+                "question_scope": TOPIC_QUESTION_MAP[topic],
+                "episode_count": len(episodes),
+                "episodes": episodes,
+            },
+        )
+
+
 def main() -> None:
     """Build markdown and JSON indexes."""
     args = parse_args()
@@ -503,6 +609,7 @@ def main() -> None:
     write_catalog(knowledge_root, records)
     write_root_index(knowledge_root, records)
     write_topic_indexes(knowledge_root, records)
+    enrich_chunked_outputs(chunked_root, records)
 
     print(f"Knowledge indexes written to: {knowledge_root}")
     print(f"Episodes indexed: {len(records)}")

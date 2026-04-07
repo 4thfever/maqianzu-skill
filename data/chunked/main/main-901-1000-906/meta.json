@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息906】西班牙大停电 巴菲特赚日本",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-05-30",
+  "date_source": "body_explicit",
+  "description": "中国要实现2050年的新能源发电目标，每年只需要200G瓦的光伏。但是，如果中国光伏工业全力开动，每年可以生产1000 G瓦的光伏设备。中国新能源产业的最大限制不是光伏，不是太阳，而是储能强度。",
+  "episode_id": "main-901-1000-906",
+  "keywords": [],
+  "source_path": "901-1000/906.md",
+  "source_type": "main",
+  "summary": "中国要实现2050年的新能源发电目标，每年只需要200G瓦的光伏。但是，如果中国光伏工业全力开动，每年可以生产1000 G瓦的光伏设备。中国新能源产业的最大限制不是光伏，不是太阳，而是储能强度。",
+  "title": "【睡前消息906】西班牙大停电 巴菲特赚日本",
+  "topic_scores": {
+    "economy": 6,
+    "governance": 0,
+    "industry": 5,
+    "international": 3,
+    "media": 0,
+    "society": 2
+  },
+  "topics": [
+    "economy",
+    "industry"
+  ]
+}

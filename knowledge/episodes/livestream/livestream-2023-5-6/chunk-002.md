@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 2
 chunk_heading: 聊一下刚出的瓦格纳视频
 source_path: 2023/5/6.md
+summary: 刚出的视频有多刚出
+usage_hint: 适合在直播问答场景中核对与“刚出的视频有多刚出”相关的节目级细节。
 ---
 
 # 聊一下刚出的瓦格纳视频

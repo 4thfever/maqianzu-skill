@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息505】富士康流民步行返乡，防疫没有“预备队”",
+      "question": "",
+      "summary": "督工，最近多个地方的疫情再次出现反复，全国有上百个地区处于封城状态",
+      "usage_hint": "适合在需要节目级细节时补充与“督工，最近多个地方的疫情再次出现反复，全国有上百个地区处于封”相关的节目论据。"
+    }
+  ],
+  "date": "2022-11-01",
+  "date_source": "body_explicit",
+  "description": "几万人逃离河南富士康，缺衣少食，靠沿途群众接济才能步行回乡。这说明地方政府的防疫能力已经达到极限，随时可能导致局部地区进入无政府状态。防疫工作必须做到全国统筹",
+  "episode_id": "main-501-600-505",
+  "keywords": [],
+  "source_path": "501-600/505.md",
+  "source_type": "main",
+  "summary": "几万人逃离河南富士康，缺衣少食，靠沿途群众接济才能步行回乡。这说明地方政府的防疫能力已经达到极限，随时可能导致局部地区进入无政府状态。防疫工作必须做到全国统筹",
+  "title": "【睡前消息505】富士康流民步行返乡，防疫没有“预备队”",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 11,
+    "industry": 0,
+    "international": 0,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "governance"
+  ]
+}

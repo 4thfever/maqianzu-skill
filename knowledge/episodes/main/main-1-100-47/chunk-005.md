@@ -7,6 +7,8 @@ episode_id: main-1-100-47
 chunk_index: 5
 chunk_heading: 感觉最近的煤矿生产事故格外多，这个感觉对不对？
 source_path: 1-100/47.md
+summary: 的确最近连发了很多煤矿事故
+usage_hint: 适合在需要节目级细节时补充与“的确最近连发了很多煤矿事故”相关的节目论据。
 ---
 
 # 感觉最近的煤矿生产事故格外多，这个感觉对不对？

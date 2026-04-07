@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "督工你怎么看这个短暂的微博热搜？",
+      "question": "督工你怎么看这个短暂的微博热搜？",
+      "summary": "除了事件当事人，其他用户也分享了自己的经历，有的说本地文档被锁定，有的没有类似经历，但是上传的云文档被锁定是普遍现象",
+      "usage_hint": "适合在需要节目级细节时补充与“除了事件当事人，其他用户也分享了自己的经历，有的说本地文档被”相关的节目论据。"
+    }
+  ],
+  "date": "2022-08-05",
+  "date_source": "body_explicit",
+  "description": "北京要求隔离人员带手环、国产软件干预个人文件……继续回顾2022七月份的舆论场。",
+  "episode_id": "main-401-500-467",
+  "keywords": [],
+  "source_path": "401-500/467.md",
+  "source_type": "main",
+  "summary": "北京要求隔离人员带手环、国产软件干预个人文件……继续回顾2022七月份的舆论场。",
+  "title": "【睡前消息467】居家隔离带手环，关门码字被锁定（7月新闻回顾 中）",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 8,
+    "industry": 1,
+    "international": 0,
+    "media": 4,
+    "society": 0
+  },
+  "topics": [
+    "governance"
+  ]
+}

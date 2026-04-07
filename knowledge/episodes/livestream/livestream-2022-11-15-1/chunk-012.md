@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-1
 chunk_index: 12
 chunk_heading: 怎么敢不懂装懂做媒体？
 source_path: 2022/11/15-1.md
+summary: 有人说是怎么敢不懂装懂半瓶水的，没办法当主播
+usage_hint: 适合在直播问答场景中核对与“有人说是怎么敢不懂装懂半瓶水的，没办法当主播”相关的节目级细节。
 ---
 
 # 怎么敢不懂装懂做媒体？

@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息25】全球一半大工程来自中国？看看人均，还得造！",
+      "question": "",
+      "summary": "睡前消息国庆特别版 介绍一些国外的大工程 --- 大家好，欢迎在国庆假期继续关注睡前消息，今天是第25期",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息国庆特别版 介绍一些国外的大工程 --- 大家好，欢”相关的节目论据。"
+    }
+  ],
+  "date": "2025-11-02",
+  "date_source": "front_matter_fallback",
+  "description": "睡前消息国庆特别版：介绍一些国外的大工程",
+  "episode_id": "main-1-100-25",
+  "keywords": [],
+  "source_path": "1-100/25.md",
+  "source_type": "main",
+  "summary": "睡前消息国庆特别版：介绍一些国外的大工程",
+  "title": "【睡前消息25】全球一半大工程来自中国？看看人均，还得造！",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 0,
+    "industry": 5,
+    "international": 2,
+    "media": 0,
+    "society": 6
+  },
+  "topics": [
+    "industry",
+    "society"
+  ]
+}

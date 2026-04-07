@@ -7,6 +7,8 @@ episode_id: main-1-100-26
 chunk_index: 5
 chunk_heading: 9月24日，央视报道，浩吉铁路开通，是世界上最长的重载铁路。国庆报道了很多献礼工程，浩吉铁路好像镜头不多，督工你给大家说说？
 source_path: 1-100/26.md
+summary: 航拍浩吉铁路高架桥 [[http://v.ifeng.com/c/7noq0NH08U3]{.underline}](http://v.ifeng.com/c/7noq0NH08U3) 浩吉铁路航拍视频 浩吉铁路就是之前说的蒙华铁路，从内蒙
+usage_hint: 适合在需要节目级细节时补充与“航拍浩吉铁路高架桥 [[http://v.ifeng.com”相关的节目论据。
 ---
 
 # 9月24日，央视报道，浩吉铁路开通，是世界上最长的重载铁路。国庆报道了很多献礼工程，浩吉铁路好像镜头不多，督工你给大家说说？

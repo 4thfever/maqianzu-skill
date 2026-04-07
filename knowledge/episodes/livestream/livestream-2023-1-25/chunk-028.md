@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 28
 chunk_heading: 许家印最后什么命运？
 source_path: 2023/1/25.md
+summary: 有人问我，许家印最后什么命运，怎么说
+usage_hint: 适合在直播问答场景中核对与“有人问我，许家印最后什么命运，怎么说”相关的节目级细节。
 ---
 
 # 许家印最后什么命运？

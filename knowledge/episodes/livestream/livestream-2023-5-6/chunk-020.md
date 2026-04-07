@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 20
 chunk_heading: 怎么看待消费降级？
 source_path: 2023/5/6.md
+summary: 我从来没有见过消费降级
+usage_hint: 适合在直播问答场景中核对与“我从来没有见过消费降级”相关的节目级细节。
 ---
 
 # 怎么看待消费降级？

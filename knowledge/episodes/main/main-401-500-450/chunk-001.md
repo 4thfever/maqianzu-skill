@@ -7,6 +7,8 @@ episode_id: main-401-500-450
 chunk_index: 1
 chunk_heading: 郑州市宣布，部长冯献彬撤销党政职务，副部长张琳琳党内警告、政务降职，但两个人都保留了"同志"的称呼。
 source_path: 401-500/450.md
+summary: http://adimg.ce.cn/xwzx/gnsz/gdxw/202206/22/t20220622_37785039.shtml](http://adimg.ce.cn/xwzx/gnsz/gdxw/202206/22/t20220
+usage_hint: 适合在需要节目级细节时补充与“http://adimg.ce.cn/xwzx/gnsz/g”相关的节目论据。
 ---
 
 # 郑州市宣布，部长冯献彬撤销党政职务，副部长张琳琳党内警告、政务降职，但两个人都保留了"同志"的称呼。

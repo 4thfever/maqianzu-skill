@@ -1,13 +1,20 @@
 # Knowledge Index
 
-本文件是 OpenClaw 读取马前卒知识库时的总入口。
+本文件是马前卒知识库的总入口，用于在主题不明确、问题跨域或需要查看整体分布时提供导航。
 
 建议读取顺序：
 
 1. 先读 `knowledge/quickstart.md`
-2. 再按需回到本文件查看完整主题分布
+2. 只有在单主题入口不够用时，再回到本文件查看完整主题分布
 3. 再读对应 `knowledge/topics/*.md`
 4. 最后按需读取 `knowledge/episodes/.../meta.md` 和具体 chunk
+
+## 什么时候应该读本页
+
+- 不确定问题最接近哪个主题
+- 问题明显跨越多个主题
+- 需要查看最近节目或整体分布
+- 需要判断应从 `main` 还是 `livestream` 入手
 
 ## 知识库概览
 
@@ -18,11 +25,11 @@
 ## 主题入口
 
 - `economy` / 经济与财政：206 条相关节目，见 `knowledge/topics/economy.md`
-- `industry` / 工业与产业：164 条相关节目，见 `knowledge/topics/industry.md`
-- `governance` / 治理与政策执行：121 条相关节目，见 `knowledge/topics/governance.md`
+- `industry` / 工业与产业：163 条相关节目，见 `knowledge/topics/industry.md`
+- `governance` / 治理与政策执行：122 条相关节目，见 `knowledge/topics/governance.md`
 - `society` / 社会议题：250 条相关节目，见 `knowledge/topics/society.md`
 - `international` / 国际与地缘：162 条相关节目，见 `knowledge/topics/international.md`
-- `media` / 媒体与传播：144 条相关节目，见 `knowledge/topics/media.md`
+- `media` / 媒体与传播：145 条相关节目，见 `knowledge/topics/media.md`
 
 ## 常见问题到主题的映射
 

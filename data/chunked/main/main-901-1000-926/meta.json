@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息926】4个古城没水喝，我们有1000个",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-07-15",
+  "date_source": "body_explicit",
+  "description": "张家界地级市人口150万，主城区30万人，就有大庸古城、大庸府城、古庸城、大庸古街四个仿古项目。你去张家界，会去看吗？",
+  "episode_id": "main-901-1000-926",
+  "keywords": [],
+  "source_path": "901-1000/926.md",
+  "source_type": "main",
+  "summary": "张家界地级市人口150万，主城区30万人，就有大庸古城、大庸府城、古庸城、大庸古街四个仿古项目。你去张家界，会去看吗？",
+  "title": "【睡前消息926】4个古城没水喝，我们有1000个",
+  "topic_scores": {
+    "economy": 4,
+    "governance": 0,
+    "industry": 0,
+    "international": 0,
+    "media": 0,
+    "society": 1
+  },
+  "topics": [
+    "economy"
+  ]
+}

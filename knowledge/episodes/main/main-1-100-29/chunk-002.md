@@ -7,6 +7,8 @@ episode_id: main-1-100-29
 chunk_index: 2
 chunk_heading: 这八个城市这么团结，还有没有其他方面的合作？
 source_path: 1-100/29.md
+summary: 根据中国江苏网报道
+usage_hint: 适合在需要节目级细节时补充与“根据中国江苏网报道”相关的节目论据。
 ---
 
 # 这八个城市这么团结，还有没有其他方面的合作？

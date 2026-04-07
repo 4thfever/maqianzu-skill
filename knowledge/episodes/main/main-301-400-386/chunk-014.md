@@ -7,6 +7,8 @@ episode_id: main-301-400-386
 chunk_index: 14
 chunk_heading: 区分内卷和努力很重要。
 source_path: 301-400/386.md
+summary: 317期 【睡前消息317】出口钢铁加关税，不是对付美国](https://archive.bedtime.news/zh/main/301-400/317)16:30 17:00 8月20日，科技部宣布，即将对全国科研单位和科研人员征集建
+usage_hint: 适合在需要节目级细节时补充与“睡前消息317】出口钢铁加关税，不是对付美国](https:”相关的节目论据。
 ---
 
 # 区分内卷和努力很重要。

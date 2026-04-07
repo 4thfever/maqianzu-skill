@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息939】中央生育补贴，必须和地方反着来",
+      "question": "",
+      "summary": "夏天已经过去一半了，上半年的人口出生数据还不知道",
+      "usage_hint": "适合在需要节目级细节时补充与“夏天已经过去一半了，上半年的人口出生数据还不知道”相关的节目论据。"
+    }
+  ],
+  "date": "2025-08-15",
+  "date_source": "body_explicit",
+  "description": "过去几年，地方政府纷纷制订自己的生育补贴政策，动辄几万、几十万。而中央政府最新的政策，只是提供每年3600的现金补贴，和一年的保育费折扣。但从效果来说，中央这3600元，才是有效补贴的第一步。",
+  "episode_id": "main-901-1000-939",
+  "keywords": [],
+  "source_path": "901-1000/939.md",
+  "source_type": "main",
+  "summary": "过去几年，地方政府纷纷制订自己的生育补贴政策，动辄几万、几十万。而中央政府最新的政策，只是提供每年3600的现金补贴，和一年的保育费折扣。但从效果来说，中央这3600元，才是有效补贴的第一步。",
+  "title": "【睡前消息939】中央生育补贴，必须和地方反着来",
+  "topic_scores": {
+    "economy": 3,
+    "governance": 15,
+    "industry": 0,
+    "international": 0,
+    "media": 1,
+    "society": 8
+  },
+  "topics": [
+    "governance"
+  ]
+}

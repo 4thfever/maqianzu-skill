@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息533】2022新闻合订本（下）",
+      "question": "",
+      "summary": "### 封不住 九月份，缺电问题刚刚缓解，成都就进入了封控状态，9月1日成都要求全体居民居家隔离",
+      "usage_hint": "适合在需要节目级细节时补充与“封不住 九月份，缺电问题刚刚缓解，成都就进入了封控状态，9月”相关的节目论据。"
+    }
+  ],
+  "date": "2023-01-05",
+  "date_source": "front_matter_fallback",
+  "description": "2022的秋天和冬天，是新闻急转弯的时代。",
+  "episode_id": "main-501-600-533",
+  "keywords": [],
+  "source_path": "501-600/533.md",
+  "source_type": "main",
+  "summary": "2022的秋天和冬天，是新闻急转弯的时代。",
+  "title": "【睡前消息533】2022新闻合订本（下）",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 4,
+    "industry": 0,
+    "international": 0,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "governance"
+  ]
+}

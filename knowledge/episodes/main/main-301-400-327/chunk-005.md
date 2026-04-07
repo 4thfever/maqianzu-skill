@@ -7,6 +7,8 @@ episode_id: main-301-400-327
 chunk_index: 5
 chunk_heading: 上周，西安地铁保安扯掉乘客衣服的行为引发了争论，您怎么看待地铁或相关公共设施的执法权问题？
 source_path: 301-400/327.md
+summary: https://baijiahao.baidu.com/s
+usage_hint: 适合在需要节目级细节时补充与“https://baijiahao.baidu.com/s”相关的节目论据。
 ---
 
 # 上周，西安地铁保安扯掉乘客衣服的行为引发了争论，您怎么看待地铁或相关公共设施的执法权问题？

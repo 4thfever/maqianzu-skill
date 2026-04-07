@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息937】日本参政党 没当选的时候很激进",
+      "question": "",
+      "summary": "7月20日，日本结束了新一届参议院选举",
+      "usage_hint": "适合在需要节目级细节时补充与“7月20日，日本结束了新一届参议院选举”相关的节目论据。"
+    }
+  ],
+  "date": "2025-08-10",
+  "date_source": "body_explicit",
+  "description": "日本新民粹领袖神谷宗幣，喜欢说全世界都被犹太资本控制了，要带领日本反美，反犹太资本，反外国劳工。同样的言论换个主语，在中国互联网会有更多的支持者。  ---",
+  "episode_id": "main-901-1000-937",
+  "keywords": [],
+  "source_path": "901-1000/937.md",
+  "source_type": "main",
+  "summary": "日本新民粹领袖神谷宗幣，喜欢说全世界都被犹太资本控制了，要带领日本反美，反犹太资本，反外国劳工。同样的言论换个主语，在中国互联网会有更多的支持者。  ---",
+  "title": "【睡前消息937】日本参政党 没当选的时候很激进",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 1,
+    "industry": 0,
+    "international": 8,
+    "media": 0,
+    "society": 1
+  },
+  "topics": [
+    "international"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: main-201-300-270
 chunk_index: 1
 chunk_heading: 近期，印度爆发第二波新冠疫情大流行，很多国家和地区也再次限制印度旅客入境。 ![270-1.png](https://img.bedtime.news/2023/09/05/64f689fe2ec3c.png) ![270-2.png](https://img.bedtime.news/2023/09/05/64f689fe0ceaa.png) https://boi.gov.in/content/advisory-travel-and-visa-restrictions-related-covid-19-1 ![270-3.png](https://img.bedtime.news/2023/09/05/64f689fcad178.png) https://www.163.com/dy/article/G8TBLHJO0536CCS7.html?f=post2020_dy_recommends 印度是全球最大的海外劳工原籍国。印度政府原来一直在商讨尽快恢复国际航班，把工人重新送出去。现在国际旅行再次受限，会有什么影响？
 source_path: 201-300/270.md
+summary: 2019年12月，[第53期 李子柒的支持者和反对者，都搞错了什么
+usage_hint: 适合在需要节目级细节时补充与“2019年12月，[第53期 李子柒的支持者和反对者，都搞错”相关的节目论据。
 ---
 
 # 近期，印度爆发第二波新冠疫情大流行，很多国家和地区也再次限制印度旅客入境。 ![270-1.png](https://img.bedtime.news/2023/09/05/64f689fe2ec3c.png) ![270-2.png](https://img.bedtime.news/2023/09/05/64f689fe0ceaa.png) https://boi.gov.in/content/advisory-travel-and-visa-restrictions-related-covid-19-1 ![270-3.png](https://img.bedtime.news/2023/09/05/64f689fcad178.png) https://www.163.com/dy/article/G8TBLHJO0536CCS7.html?f=post2020_dy_recommends 印度是全球最大的海外劳工原籍国。印度政府原来一直在商讨尽快恢复国际航班，把工人重新送出去。现在国际旅行再次受限，会有什么影响？

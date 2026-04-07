@@ -7,6 +7,8 @@ episode_id: main-1-100-31
 chunk_index: 1
 chunk_heading: 我们的观众也在评论区提出疑问。督工你对这种歧视怎么看？
 source_path: 1-100/31.md
+summary: https://weibo.com/ttarticle/p/show
+usage_hint: 适合在需要节目级细节时补充与“https://weibo.com/ttarticle/p/”相关的节目论据。
 ---
 
 # 我们的观众也在评论区提出疑问。督工你对这种歧视怎么看？

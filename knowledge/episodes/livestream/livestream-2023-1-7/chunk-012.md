@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 12
 chunk_heading: 是不是现在人看书少了？
 source_path: 2023/1/7.md
+summary: 错，现在是能看书的人看书少了，但是能看书的人大大增加了
+usage_hint: 适合在直播问答场景中核对与“错，现在是能看书的人看书少了，但是能看书的人大大增加了”相关的节目级细节。
 ---
 
 # 是不是现在人看书少了？

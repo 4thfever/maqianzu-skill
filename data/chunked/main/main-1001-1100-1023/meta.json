@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1023】日本修宪容易 伊朗挨打有原因",
+      "question": "",
+      "summary": "2月8日，日本自民党在新一届众议院选举当中获得了创纪录的成绩，赢得465个席位当中的316个席位，占比超过三分之二",
+      "usage_hint": "适合在需要节目级细节时补充与“2月8日，日本自民党在新一届众议院选举当中获得了创纪录的成绩”相关的节目论据。"
+    }
+  ],
+  "date": "2026-03-01",
+  "date_source": "body_explicit",
+  "description": "日本修宪问题，一向被看做军国主义复兴的标志。本期节目讨论“标志”背后的干货。",
+  "episode_id": "main-1001-1100-1023",
+  "keywords": [],
+  "source_path": "1001-1100/1023.md",
+  "source_type": "main",
+  "summary": "日本修宪问题，一向被看做军国主义复兴的标志。本期节目讨论“标志”背后的干货。",
+  "title": "【睡前消息1023】日本修宪容易 伊朗挨打有原因",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 0,
+    "international": 17,
+    "media": 2,
+    "society": 1
+  },
+  "topics": [
+    "international"
+  ]
+}

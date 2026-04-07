@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 6
 chunk_heading: 小黛的分工问题？
 source_path: 2023/1/7.md
+summary: 其实我和小黛的分工并不是长短，小黛现在更多的是一个常态化的新闻本身的播报
+usage_hint: 适合在直播问答场景中核对与“其实我和小黛的分工并不是长短，小黛现在更多的是一个常态化的新”相关的节目级细节。
 ---
 
 # 小黛的分工问题？

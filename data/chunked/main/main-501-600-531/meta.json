@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息531】2022新闻合订本（上）",
+      "question": "",
+      "summary": "作为一个时事类节目，年底肯定要做全年回顾",
+      "usage_hint": "适合在需要节目级细节时补充与“作为一个时事类节目，年底肯定要做全年回顾”相关的节目论据。"
+    }
+  ],
+  "date": "2022-12-30",
+  "date_source": "body_explicit",
+  "description": "年终新闻回顾，一年前的中国，刚刚开始武汉全面疫情后的第二轮封城。",
+  "episode_id": "main-501-600-531",
+  "keywords": [],
+  "source_path": "501-600/531.md",
+  "source_type": "main",
+  "summary": "年终新闻回顾，一年前的中国，刚刚开始武汉全面疫情后的第二轮封城。",
+  "title": "【睡前消息531】2022新闻合订本（上）",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 2,
+    "industry": 1,
+    "international": 0,
+    "media": 2,
+    "society": 1
+  },
+  "topics": [
+    "governance",
+    "media"
+  ]
+}

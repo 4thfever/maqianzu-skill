@@ -7,6 +7,8 @@ episode_id: main-1-100-12
 chunk_index: 12
 chunk_heading: 如果不是内部矛盾，他们还能骗很久吧？
 source_path: 1-100/12.md
+summary: 很多专业人士早就在质疑AI编程的真实性
+usage_hint: 适合在需要节目级细节时补充与“很多专业人士早就在质疑AI编程的真实性”相关的节目论据。
 ---
 
 # 如果不是内部矛盾，他们还能骗很久吧？

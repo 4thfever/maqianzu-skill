@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息868】物流成本高，本溪编制大",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-02-25",
+  "date_source": "body_explicit",
+  "description": "2024年，社会物流总费用，占gdp的14.1，消耗了1/7的社会财富。同样也是2024年，辽宁本溪市一半预算靠上级补贴，想卖停车位都没人买。",
+  "episode_id": "main-801-900-868",
+  "keywords": [],
+  "source_path": "801-900/868.md",
+  "source_type": "main",
+  "summary": "2024年，社会物流总费用，占gdp的14.1，消耗了1/7的社会财富。同样也是2024年，辽宁本溪市一半预算靠上级补贴，想卖停车位都没人买。",
+  "title": "【睡前消息868】物流成本高，本溪编制大",
+  "topic_scores": {
+    "economy": 5,
+    "governance": 2,
+    "industry": 2,
+    "international": 3,
+    "media": 0,
+    "society": 4
+  },
+  "topics": [
+    "economy",
+    "society"
+  ]
+}

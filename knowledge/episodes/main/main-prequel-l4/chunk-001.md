@@ -7,13 +7,13 @@ episode_id: main-prequel-l4
 chunk_index: 1
 chunk_heading: 【末条新闻4】小户型学区房维权，也是争特权
 source_path: prequel/l4.md
+summary: 12月9日下午演讲底稿** 大家好，感谢持续关注末条消息
+usage_hint: 适合在需要节目级细节时补充与“12月9日下午演讲底稿** 大家好，感谢持续关注末条消息”相关的节目论据。
 ---
 
 # 【末条新闻4】小户型学区房维权，也是争特权
 
 ## 内容
-
-#
 
 **12月9日下午演讲底稿**
 

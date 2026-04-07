@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1018】摇摆县买百强榜 正处级一步副厅",
+      "question": "",
+      "summary": "1月底，中央纪委办公厅发布整治形式主义通报，点名辽宁鞍山下属的海城市2024年花了498万，跟某一个百强县榜单评价机构签署合同",
+      "usage_hint": "适合在需要节目级细节时补充与“1月底，中央纪委办公厅发布整治形式主义通报，点名辽宁鞍山下属”相关的节目论据。"
+    }
+  ],
+  "date": "2026-02-13",
+  "date_source": "body_explicit",
+  "description": "海城市投入498万财政资金，买到了百强县第93名的位置。除了对应的主官提升半级之外，省级还有2000万的资金奖励。无论怎么算，海城市官员都不亏。",
+  "episode_id": "main-1001-1100-1018",
+  "keywords": [],
+  "source_path": "1001-1100/1018.md",
+  "source_type": "main",
+  "summary": "海城市投入498万财政资金，买到了百强县第93名的位置。除了对应的主官提升半级之外，省级还有2000万的资金奖励。无论怎么算，海城市官员都不亏。",
+  "title": "【睡前消息1018】摇摆县买百强榜 正处级一步副厅",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 7,
+    "industry": 0,
+    "international": 0,
+    "media": 0,
+    "society": 4
+  },
+  "topics": [
+    "governance"
+  ]
+}

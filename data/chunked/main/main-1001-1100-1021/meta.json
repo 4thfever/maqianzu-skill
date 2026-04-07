@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1021】微塑料太多，还是你太胖？",
+      "question": "",
+      "summary": "2026年1月13日，英国《卫报》发表了一篇重磅调查报道，介绍2025年11月，《自然·医学》（Nature Medicine）期刊的内容",
+      "usage_hint": "适合在需要节目级细节时补充与“2026年1月13日，英国《卫报》发表了一篇重磅调查报道，介”相关的节目论据。"
+    }
+  ],
+  "date": "2026-02-23",
+  "date_source": "body_explicit",
+  "description": "以往的微塑料危害研究，经常用热解气相色谱质谱法测定塑料含量。但现在回头看，测到的大多数微塑料，很可能就是人体自己的脂肪……",
+  "episode_id": "main-1001-1100-1021",
+  "keywords": [],
+  "source_path": "1001-1100/1021.md",
+  "source_type": "main",
+  "summary": "以往的微塑料危害研究，经常用热解气相色谱质谱法测定塑料含量。但现在回头看，测到的大多数微塑料，很可能就是人体自己的脂肪……",
+  "title": "【睡前消息1021】微塑料太多，还是你太胖？",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 1,
+    "international": 0,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "industry"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息第924.5期】六周年回顾，坚持做“大”报",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-07-12",
+  "date_source": "body_explicit",
+  "description": "7月12日是开播纪念日，去年本来应该有五周年纪念，都合并到2025年了",
+  "episode_id": "main-901-1000-924-1",
+  "keywords": [],
+  "source_path": "901-1000/924-1.md",
+  "source_type": "main",
+  "summary": "7月12日是开播纪念日，去年本来应该有五周年纪念，都合并到2025年了",
+  "title": "【睡前消息第924.5期】六周年回顾，坚持做“大”报",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 2,
+    "international": 0,
+    "media": 2,
+    "society": 0
+  },
+  "topics": [
+    "industry",
+    "media"
+  ]
+}

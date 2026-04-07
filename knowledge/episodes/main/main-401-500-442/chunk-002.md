@@ -7,6 +7,8 @@ episode_id: main-401-500-442
 chunk_index: 2
 chunk_heading: 督工你怎么看待这件事？
 source_path: 401-500/442.md
+summary: 某些地方文化的确会有一些奇奇怪怪的禁忌
+usage_hint: 适合在需要节目级细节时补充与“某些地方文化的确会有一些奇奇怪怪的禁忌”相关的节目论据。
 ---
 
 # 督工你怎么看待这件事？

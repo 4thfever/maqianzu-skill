@@ -7,6 +7,8 @@ episode_id: main-501-600-563
 chunk_index: 1
 chunk_heading: 督工你怎么看待他们的态度？
 source_path: 501-600/563.md
+summary: 做选择是很难的事情，逃避问题就很轻松了
+usage_hint: 适合在需要节目级细节时补充与“做选择是很难的事情，逃避问题就很轻松了”相关的节目论据。
 ---
 
 # 督工你怎么看待他们的态度？

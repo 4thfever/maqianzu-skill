@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 8
 chunk_heading: 国际竞争
 source_path: 2023/5/6.md
+summary: 就目前的状态，中国和任何工业国都不可能有真正的好朋友
+usage_hint: 适合在直播问答场景中核对与“就目前的状态，中国和任何工业国都不可能有真正的好朋友”相关的节目级细节。
 ---
 
 # 国际竞争

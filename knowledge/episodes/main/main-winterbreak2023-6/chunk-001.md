@@ -7,6 +7,8 @@ episode_id: main-winterbreak2023-6
 chunk_index: 1
 chunk_heading: 纠结清明烧纸，毛主席的“礼”去哪了？
 source_path: winterbreak2023/6.md
+summary: 都2024年了，中国还在纠结清明烧纸问题，说明毛主席的路线没贯彻到底
+usage_hint: 适合在需要节目级细节时补充与“都2024年了，中国还在纠结清明烧纸问题，说明毛主席的路线没”相关的节目论据。
 ---
 
 # 纠结清明烧纸，毛主席的“礼”去哪了？

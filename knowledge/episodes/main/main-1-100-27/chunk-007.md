@@ -7,6 +7,8 @@ episode_id: main-1-100-27
 chunk_index: 7
 chunk_heading: QQ音乐服务器一度瘫痪。不到12小时，QQ音乐官微就宣布，销售额突破1500万元，这是不是说明中国人已经习惯付钱听音乐了？
 source_path: 1-100/27.md
+summary: https://www.thepaper.cn/newsDetail_forward_4455102]{.underline}](https://www.thepaper.cn/newsDetail_forward_4455102) 这次还
+usage_hint: 适合在需要节目级细节时补充与“https://www.thepaper.cn/newsDe”相关的节目论据。
 ---
 
 # QQ音乐服务器一度瘫痪。不到12小时，QQ音乐官微就宣布，销售额突破1500万元，这是不是说明中国人已经习惯付钱听音乐了？

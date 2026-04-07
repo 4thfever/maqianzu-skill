@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1017】18层楼锁电梯 柳州逼社区自治",
+      "question": "",
+      "summary": "柳州鱼峰区东悦佳苑小区有14栋楼，最高24层，最低18层",
+      "usage_hint": "适合在需要节目级细节时补充与“柳州鱼峰区东悦佳苑小区有14栋楼，最高24层，最低18层”相关的节目论据。"
+    }
+  ],
+  "date": "2026-02-10",
+  "date_source": "body_explicit",
+  "description": "老朋友柳州再次上新闻，借债的柳东新区、停建的轻轨、停滞的工业……依次出场。",
+  "episode_id": "main-1001-1100-1017",
+  "keywords": [],
+  "source_path": "1001-1100/1017.md",
+  "source_type": "main",
+  "summary": "老朋友柳州再次上新闻，借债的柳东新区、停建的轻轨、停滞的工业……依次出场。",
+  "title": "【睡前消息1017】18层楼锁电梯 柳州逼社区自治",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 3,
+    "industry": 1,
+    "international": 0,
+    "media": 1,
+    "society": 3
+  },
+  "topics": [
+    "governance",
+    "society"
+  ]
+}

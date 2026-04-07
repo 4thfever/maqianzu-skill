@@ -7,6 +7,8 @@ episode_id: main-301-400-329
 chunk_index: 3
 chunk_heading: 恒大和SOHO的未来会是什么样？
 source_path: 301-400/329.md
+summary: SOHO已经是一家养老型企业了，现在主要业务是收租，就算卖不掉，还是正常经营
+usage_hint: 适合在需要节目级细节时补充与“SOHO已经是一家养老型企业了，现在主要业务是收租，就算卖不”相关的节目论据。
 ---
 
 # 恒大和SOHO的未来会是什么样？

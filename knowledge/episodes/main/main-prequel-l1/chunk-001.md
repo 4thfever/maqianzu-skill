@@ -7,6 +7,8 @@ episode_id: main-prequel-l1
 chunk_index: 1
 chunk_heading: 【末条新闻1】从养猪养鱼聊到外太空
 source_path: prequel/l1.md
+summary: 无 {.is-info} 大家好，很荣幸今天给陈平老师做热场活动，时间宝贵，我直接说主题
+usage_hint: 适合在需要节目级细节时补充与“无 {.is-info} 大家好，很荣幸今天给陈平老师做热场”相关的节目论据。
 ---
 
 # 【末条新闻1】从养猪养鱼聊到外太空
@@ -15,8 +17,6 @@ source_path: prequel/l1.md
 
 > 无
 {.is-info}
-
-#
 
 大家好，很荣幸今天给陈平老师做热场活动，时间宝贵，我直接说主题。
 

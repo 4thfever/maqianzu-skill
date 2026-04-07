@@ -7,6 +7,8 @@ episode_id: main-101-200-103
 chunk_index: 2
 chunk_heading: 那么督工，剑桥大学的文章到底作出了什么结论呢？
 source_path: 101-200/103.md
+summary: 剑桥大学这篇文章是4月8日发表的，作者彼得·福斯特（Peter Forster）
+usage_hint: 适合在需要节目级细节时补充与“剑桥大学这篇文章是4月8日发表的，作者彼得·福斯特（Pete”相关的节目论据。
 ---
 
 # 那么督工，剑桥大学的文章到底作出了什么结论呢？

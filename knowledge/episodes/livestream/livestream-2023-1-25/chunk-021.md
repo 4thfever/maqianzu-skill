@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 21
 chunk_heading: 可以大幅降低基础建设吗？
 source_path: 2023/1/25.md
+summary: 有人说是不是可以大幅降低基础建设的特性
+usage_hint: 适合在直播问答场景中核对与“有人说是不是可以大幅降低基础建设的特性”相关的节目级细节。
 ---
 
 # 可以大幅降低基础建设吗？

@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息381】科幻颁奖 洪森传位",
+      "question": "",
+      "summary": "今天第一项内容是公布325期节目开始的科幻征文结果",
+      "usage_hint": "适合在需要节目级细节时补充与“今天第一项内容是公布325期节目开始的科幻征文结果”相关的节目论据。"
+    }
+  ],
+  "date": "2022-01-18",
+  "date_source": "body_explicit",
+  "description": "去年9月，睡前消息节目发起了一次科幻征文活动，在视频时代鼓励观众用文字表达想象力。我读过了每一篇有效投稿，现在给观众分享我的阅读惊喜。希望科幻文学能一直陪伴人类前行。",
+  "episode_id": "main-301-400-381",
+  "keywords": [],
+  "source_path": "301-400/381.md",
+  "source_type": "main",
+  "summary": "去年9月，睡前消息节目发起了一次科幻征文活动，在视频时代鼓励观众用文字表达想象力。我读过了每一篇有效投稿，现在给观众分享我的阅读惊喜。希望科幻文学能一直陪伴人类前行。",
+  "title": "【睡前消息381】科幻颁奖 洪森传位",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 0,
+    "media": 3,
+    "society": 0
+  },
+  "topics": [
+    "media"
+  ]
+}

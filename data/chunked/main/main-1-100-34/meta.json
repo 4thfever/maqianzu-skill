@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息34】德国高速公路不限速？你们还没见到开飞机的……",
+      "question": "",
+      "summary": "睡前消息1027 大连14岁少年杀害11岁女孩； 德国高速公路不限速； 日本军官登上中国“戚继光号”",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息1027 大连14岁少年杀害11岁女孩； 德国高速公”相关的节目论据。"
+    }
+  ],
+  "date": "2019-10-27",
+  "date_source": "body_explicit",
+  "description": "",
+  "episode_id": "main-1-100-34",
+  "keywords": [],
+  "source_path": "1-100/34.md",
+  "source_type": "main",
+  "summary": "睡前消息1027 大连14岁少年杀害11岁女孩； 德国高速公路不限速； 日本军官登上中国“戚继光号”",
+  "title": "【睡前消息34】德国高速公路不限速？你们还没见到开飞机的……",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 1,
+    "media": 2,
+    "society": 2
+  },
+  "topics": [
+    "media",
+    "society"
+  ]
+}

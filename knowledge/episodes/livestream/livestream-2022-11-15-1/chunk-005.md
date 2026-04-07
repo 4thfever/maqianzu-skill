@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-1
 chunk_index: 5
 chunk_heading: 如何看待大同的未来？
 source_path: 2022/11/15-1.md
+summary: 大同除了挖煤之外就靠北京吧
+usage_hint: 适合在直播问答场景中核对与“大同除了挖煤之外就靠北京吧”相关的节目级细节。
 ---
 
 # 如何看待大同的未来？

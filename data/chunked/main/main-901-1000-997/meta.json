@@ -1,0 +1,35 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息997】西芒杜铁矿 重载铁路出国",
+      "question": "",
+      "summary": "请静静介绍话题： 根据新华社报道，11月10日，中国副总理出访几内亚，代表国家元首出席西芒杜铁矿项目投产仪式",
+      "usage_hint": "适合在需要节目级细节时补充与“请静静介绍话题： 根据新华社报道，11月10日，中国副总理出”相关的节目论据。"
+    }
+  ],
+  "date": "2025-12-28",
+  "date_source": "body_explicit",
+  "description": "几内亚西芒杜铁矿的投产仪式，由中国副总理刘国中主持，规模和重要性不言而喻。",
+  "episode_id": "main-901-1000-997",
+  "keywords": [],
+  "source_path": "901-1000/997.md",
+  "source_type": "main",
+  "summary": "几内亚西芒杜铁矿的投产仪式，由中国副总理刘国中主持，规模和重要性不言而喻。",
+  "title": "【睡前消息997】西芒杜铁矿 重载铁路出国",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 2,
+    "international": 2,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "economy",
+    "industry",
+    "international"
+  ]
+}

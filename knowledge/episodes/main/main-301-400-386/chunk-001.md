@@ -7,6 +7,8 @@ episode_id: main-301-400-386
 chunk_index: 1
 chunk_heading: 所有人都觉得要下猛药的时候，肯定是病情拖得太久了。
 source_path: 301-400/386.md
+summary: 371期 【睡前消息371】买过正版CAD吗
+usage_hint: 适合在需要节目级细节时补充与“睡前消息371】买过正版CAD吗”相关的节目论据。
 ---
 
 # 所有人都觉得要下猛药的时候，肯定是病情拖得太久了。

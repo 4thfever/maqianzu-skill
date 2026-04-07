@@ -7,6 +7,8 @@ episode_id: main-201-300-226
 chunk_index: 6
 chunk_heading: 督工，这次的成就和几年前的阿尔法Go有关系吗？
 source_path: 201-300/226.md
+summary: 他们都是谷歌deepmind团队的成果
+usage_hint: 适合在需要节目级细节时补充与“他们都是谷歌deepmind团队的成果”相关的节目论据。
 ---
 
 # 督工，这次的成就和几年前的阿尔法Go有关系吗？

@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1014】越南产业升级 指望军队芯片厂",
+      "question": "",
+      "summary": "1月16日，越南第一个本土半导体芯片制造厂开始动工建设",
+      "usage_hint": "适合在需要节目级细节时补充与“1月16日，越南第一个本土半导体芯片制造厂开始动工建设”相关的节目论据。"
+    }
+  ],
+  "date": "2026-02-03",
+  "date_source": "body_explicit",
+  "description": "越南产业升级的希望，再次交给军队。通讯兵起家的越南军电，负责建设第一家芯片制造厂。控制军队经商越来越难。",
+  "episode_id": "main-1001-1100-1014",
+  "keywords": [],
+  "source_path": "1001-1100/1014.md",
+  "source_type": "main",
+  "summary": "越南产业升级的希望，再次交给军队。通讯兵起家的越南军电，负责建设第一家芯片制造厂。控制军队经商越来越难。",
+  "title": "【睡前消息1014】越南产业升级 指望军队芯片厂",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 20,
+    "international": 16,
+    "media": 2,
+    "society": 1
+  },
+  "topics": [
+    "industry"
+  ]
+}

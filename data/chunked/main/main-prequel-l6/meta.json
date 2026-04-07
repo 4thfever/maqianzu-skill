@@ -1,0 +1,35 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【末条新闻6】从深圳虐童事件看安全与隐私的矛盾",
+      "question": "",
+      "summary": "这两周就出现了典型案例",
+      "usage_hint": "适合在需要节目级细节时补充与“这两周就出现了典型案例”相关的节目论据。"
+    }
+  ],
+  "date": "2023-01-25",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-prequel-l6",
+  "keywords": [],
+  "source_path": "prequel/l6.md",
+  "source_type": "main",
+  "summary": "这两周就出现了典型案例",
+  "title": "【末条新闻6】从深圳虐童事件看安全与隐私的矛盾",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 2,
+    "industry": 0,
+    "international": 0,
+    "media": 2,
+    "society": 2
+  },
+  "topics": [
+    "governance",
+    "media",
+    "society"
+  ]
+}

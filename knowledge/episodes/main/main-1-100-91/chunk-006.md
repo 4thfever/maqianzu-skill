@@ -7,6 +7,8 @@ episode_id: main-1-100-91
 chunk_index: 6
 chunk_heading: **督工你对这件事怎么看？**
 source_path: 1-100/91.md
+summary: 事情发生在天津市红桥区彰武楼小区
+usage_hint: 适合在需要节目级细节时补充与“事情发生在天津市红桥区彰武楼小区”相关的节目论据。
 ---
 
 # **督工你对这件事怎么看？**

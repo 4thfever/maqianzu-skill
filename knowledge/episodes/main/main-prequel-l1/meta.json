@@ -5,7 +5,9 @@
       "chunk_file": "chunk-001.md",
       "chunk_index": 1,
       "heading": "【末条新闻1】从养猪养鱼聊到外太空",
-      "question": ""
+      "question": "",
+      "summary": "无 {.is-info} 大家好，很荣幸今天给陈平老师做热场活动，时间宝贵，我直接说主题",
+      "usage_hint": "适合在需要节目级细节时补充与“无 {.is-info} 大家好，很荣幸今天给陈平老师做热场”相关的节目论据。"
     }
   ],
   "date": "2023-01-25",
@@ -15,5 +17,6 @@
   "keywords": [],
   "source_path": "prequel/l1.md",
   "source_type": "main",
+  "summary": "无 {.is-info} 大家好，很荣幸今天给陈平老师做热场活动，时间宝贵，我直接说主题",
   "title": "【末条新闻1】从养猪养鱼聊到外太空"
 }

@@ -7,6 +7,8 @@ episode_id: main-winterbreak2023-4
 chunk_index: 1
 chunk_heading: 家财万贯 农夫山泉“带毛”不算
 source_path: winterbreak2023/4.md
+summary: 中国民间有句土话：“腰缠万贯，带毛的不算”，意思是资产除了要计算账面价值，还要考察抗风险能力和变现能力
+usage_hint: 适合在需要节目级细节时补充与“中国民间有句土话：“腰缠万贯，带毛的不算”，意思是资产除了要”相关的节目论据。
 ---
 
 # 家财万贯 农夫山泉“带毛”不算

@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息895】恢复一年兵役制，赖清德的儿子不算",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-05-04",
+  "date_source": "body_explicit",
+  "description": "台湾省经济规模一度相当于大陆的一半，因此大规模压缩军队规模，转向募兵制。2025年，台湾省经济规模已经落后于福建省，只相当于大陆的4.2%。",
+  "episode_id": "main-801-900-895",
+  "keywords": [],
+  "source_path": "801-900/895.md",
+  "source_type": "main",
+  "summary": "台湾省经济规模一度相当于大陆的一半，因此大规模压缩军队规模，转向募兵制。2025年，台湾省经济规模已经落后于福建省，只相当于大陆的4.2%。",
+  "title": "【睡前消息895】恢复一年兵役制，赖清德的儿子不算",
+  "topic_scores": {
+    "economy": 4,
+    "governance": 0,
+    "industry": 0,
+    "international": 1,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "economy"
+  ]
+}

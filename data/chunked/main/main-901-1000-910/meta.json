@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息910】定居上海 想生五个——观众自己的故事 之一",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-06-18",
+  "date_source": "front_matter_fallback",
+  "description": "互联网的媒体价值在于互动。从本期视频开始，我们尝试定期邀请观众进入演播室，共同生产内容，从更丰富的角度观察中国社会。欢迎更多的观众报名。",
+  "episode_id": "main-901-1000-910",
+  "keywords": [],
+  "source_path": "901-1000/910.md",
+  "source_type": "main",
+  "summary": "互联网的媒体价值在于互动。从本期视频开始，我们尝试定期邀请观众进入演播室，共同生产内容，从更丰富的角度观察中国社会。欢迎更多的观众报名。",
+  "title": "【睡前消息910】定居上海 想生五个——观众自己的故事 之一",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 0,
+    "industry": 0,
+    "international": 1,
+    "media": 5,
+    "society": 4
+  },
+  "topics": [
+    "media",
+    "society"
+  ]
+}

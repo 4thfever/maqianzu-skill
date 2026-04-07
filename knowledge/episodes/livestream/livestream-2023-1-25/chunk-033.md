@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 33
 chunk_heading: 蓝领工人生孩子
 source_path: 2023/1/25.md
+summary: 有人说现在蓝领技术工人达不到年薪二三十万，所以家长就不生
+usage_hint: 适合在直播问答场景中核对与“有人说现在蓝领技术工人达不到年薪二三十万，所以家长就不生”相关的节目级细节。
 ---
 
 # 蓝领工人生孩子

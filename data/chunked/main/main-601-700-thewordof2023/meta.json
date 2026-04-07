@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "睡前消息年度汉字：苔",
+      "question": "",
+      "summary": "因账号处于“冷静期”状态，睡前消息2023年度汉字并未发布视频版本",
+      "usage_hint": "适合在需要节目级细节时补充与“因账号处于“冷静期”状态，睡前消息2023年度汉字并未发布视”相关的节目论据。"
+    }
+  ],
+  "date": "2024-01-01",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-601-700-thewordof2023",
+  "keywords": [],
+  "source_path": "601-700/thewordof2023.md",
+  "source_type": "main",
+  "summary": "因账号处于“冷静期”状态，睡前消息2023年度汉字并未发布视频版本",
+  "title": "睡前消息年度汉字：苔",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 3,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "international"
+  ]
+}

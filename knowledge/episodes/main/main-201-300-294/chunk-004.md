@@ -7,6 +7,8 @@ episode_id: main-201-300-294
 chunk_index: 4
 chunk_heading: 最近几天，很多地方都传出了打疫苗给奖励的消息，而且每隔几天，奖励就会加码，鼓励剩下的居民去打疫苗。 https://baijiahao.baidu.com/s?id=1703686774590091942&wfr=spider&for=pc https://new.qq.com/omn/20210626/20210626A082ID00.html https://www.163.com/dy/article/GDIVGF660545AKND.html http://news.sina.com.cn/c/2021-06-22/doc-ikqcfnca2530770.shtml http://szsb.sznews.com/MB/content/202106/28/content_1052018.html https://bbs.saraba1st.com/2b/thread-2012350-1-1.html 有的人感慨早打疫苗亏了，有的人跨城去奖励比较高的地方打疫苗，督工你对这种现象怎么看？
 source_path: 201-300/294.md
+summary: 最近各地方政府都在抢人打疫苗，环北京地区的力度尤其大，前几天我坐火车回北方，下车就被两个区的工作人员拽住，往两个方向扯，过去火车站附近小旅馆和中巴车司机抢顾客都没这么卖力
+usage_hint: 适合在需要节目级细节时补充与“最近各地方政府都在抢人打疫苗，环北京地区的力度尤其大，前几天”相关的节目论据。
 ---
 
 # 最近几天，很多地方都传出了打疫苗给奖励的消息，而且每隔几天，奖励就会加码，鼓励剩下的居民去打疫苗。 https://baijiahao.baidu.com/s?id=1703686774590091942&wfr=spider&for=pc https://new.qq.com/omn/20210626/20210626A082ID00.html https://www.163.com/dy/article/GDIVGF660545AKND.html http://news.sina.com.cn/c/2021-06-22/doc-ikqcfnca2530770.shtml http://szsb.sznews.com/MB/content/202106/28/content_1052018.html https://bbs.saraba1st.com/2b/thread-2012350-1-1.html 有的人感慨早打疫苗亏了，有的人跨城去奖励比较高的地方打疫苗，督工你对这种现象怎么看？

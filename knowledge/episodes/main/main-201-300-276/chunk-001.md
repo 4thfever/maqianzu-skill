@@ -7,6 +7,8 @@ episode_id: main-201-300-276
 chunk_index: 1
 chunk_heading: 4月中旬，新华社主办的《半月谈》刊发了一篇北方某山区县的调研，全县每年一般公共预算收入1亿多，交通违章罚款3000多万元，占了地方可用财力的1/3。 https://baijiahao.baidu.com/s?id=1697273472298043107&wfr=spider&for=pc ![276-1.png](https://img.bedtime.news/2023/08/28/64ec8b7ae14a6.png) 《半月谈》的报道没有点名，督工你觉得这个县在哪里？
 source_path: 201-300/276.md
+summary: 根据《半月谈》提供的信息，我们用排除法找一下
+usage_hint: 适合在需要节目级细节时补充与“根据《半月谈》提供的信息，我们用排除法找一下”相关的节目论据。
 ---
 
 # 4月中旬，新华社主办的《半月谈》刊发了一篇北方某山区县的调研，全县每年一般公共预算收入1亿多，交通违章罚款3000多万元，占了地方可用财力的1/3。 https://baijiahao.baidu.com/s?id=1697273472298043107&wfr=spider&for=pc ![276-1.png](https://img.bedtime.news/2023/08/28/64ec8b7ae14a6.png) 《半月谈》的报道没有点名，督工你觉得这个县在哪里？

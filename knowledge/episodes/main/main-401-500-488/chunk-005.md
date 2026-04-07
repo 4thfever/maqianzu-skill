@@ -7,6 +7,8 @@ episode_id: main-401-500-488
 chunk_index: 5
 chunk_heading: 其次是DreamStudio。优点是可调节图片尺寸，可以调节画面与关键词的匹配度，还可以选择将已生成图片作为模板，因此图片质量较高。缺点就是要付费，就算会员每天也只能生成几十张图片。
 source_path: 401-500/488.md
+summary: 链接：<https://beta.dreamstudio.ai/dream>
+usage_hint: 适合在需要节目级细节时补充与“链接：”相关的节目论据。
 ---
 
 # 其次是DreamStudio。优点是可调节图片尺寸，可以调节画面与关键词的匹配度，还可以选择将已生成图片作为模板，因此图片质量较高。缺点就是要付费，就算会员每天也只能生成几十张图片。

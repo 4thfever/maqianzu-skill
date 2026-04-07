@@ -7,6 +7,8 @@ episode_id: livestream-2022-12-17
 chunk_index: 3
 chunk_heading: 对于大连怎么看？
 source_path: 2022/12/17.md
+summary: 大连当年是挺繁荣，一个血汗工厂密集的城市
+usage_hint: 适合在直播问答场景中核对与“大连当年是挺繁荣，一个血汗工厂密集的城市”相关的节目级细节。
 ---
 
 # 对于大连怎么看？

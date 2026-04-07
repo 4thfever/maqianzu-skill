@@ -7,6 +7,8 @@ episode_id: main-501-600-552
 chunk_index: 5
 chunk_heading: 督工，你前面提到了欧美金融资本正在做空印度阿达尼集团，还说这是印度自己固有的经济漏洞。这次做空到底是怎么一回事？
 source_path: 501-600/552.md
+summary: 1月24日，美国兴登堡研究（Hindenburg Research）发布了106页报告，针对印度阿达尼集团（Adani Group）做空
+usage_hint: 适合在需要节目级细节时补充与“1月24日，美国兴登堡研究（Hindenburg Resea”相关的节目论据。
 ---
 
 # 督工，你前面提到了欧美金融资本正在做空印度阿达尼集团，还说这是印度自己固有的经济漏洞。这次做空到底是怎么一回事？

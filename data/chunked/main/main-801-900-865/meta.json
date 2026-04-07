@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息865】江苏vs广东 有个直辖市很重要？",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-02-18",
+  "date_source": "body_explicit",
+  "description": "江苏GDP赶超广东省的话题，持续了很多年，但如果看gdp的具体构成，2017年之后，江苏工业规模就已经压倒广东。现在江苏0.85亿人，和广东1.27亿人的gdp总量差不多，人均差距接近1.5倍。其中的原因值得分析。",
+  "episode_id": "main-801-900-865",
+  "keywords": [],
+  "source_path": "801-900/865.md",
+  "source_type": "main",
+  "summary": "江苏GDP赶超广东省的话题，持续了很多年，但如果看gdp的具体构成，2017年之后，江苏工业规模就已经压倒广东。现在江苏0.85亿人，和广东1.27亿人的gdp总量差不多，人均差距接近1.5倍。其中的原因值得分析。",
+  "title": "【睡前消息865】江苏vs广东 有个直辖市很重要？",
+  "topic_scores": {
+    "economy": 10,
+    "governance": 0,
+    "industry": 2,
+    "international": 0,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "economy"
+  ]
+}

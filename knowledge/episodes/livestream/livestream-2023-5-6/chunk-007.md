@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 7
 chunk_heading: 湛江的房地产
 source_path: 2023/5/6.md
+summary: 这个我只能说离海南岛近的地方都有天生搞房产泡沫的潜质，对吧
+usage_hint: 适合在直播问答场景中核对与“这个我只能说离海南岛近的地方都有天生搞房产泡沫的潜质，对吧”相关的节目级细节。
 ---
 
 # 湛江的房地产

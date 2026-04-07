@@ -7,6 +7,8 @@ episode_id: main-301-400-386
 chunk_index: 11
 chunk_heading: 有的动物自己就是中医药材怎么办？
 source_path: 301-400/386.md
+summary: 310期 【睡前消息310】坐公交去北京 中国人的新玩法](https://archive.bedtime.news/zh/main/301-400/310)6:30 上面那张实测的长途线路总图也显示，可行的跨城线路基本上都绕过了江西，说明
+usage_hint: 适合在需要节目级细节时补充与“睡前消息310】坐公交去北京 中国人的新玩法](https:”相关的节目论据。
 ---
 
 # 有的动物自己就是中医药材怎么办？

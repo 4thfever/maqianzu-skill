@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-2
 chunk_index: 8
 chunk_heading: 怎么看新农村建设？
 source_path: 2022/11/15-2.md
+summary: 马上我们就要给农村收尾了，没有什么新农村了
+usage_hint: 适合在直播问答场景中核对与“马上我们就要给农村收尾了，没有什么新农村了”相关的节目级细节。
 ---
 
 # 怎么看新农村建设？

@@ -7,6 +7,8 @@ episode_id: main-101-200-114
 chunk_index: 3
 chunk_heading: 英国人为什么能忍BBC税这么多年呢？
 source_path: 101-200/114.md
+summary: 因为BBC的确拿这些钱做出了好东西
+usage_hint: 适合在需要节目级细节时补充与“因为BBC的确拿这些钱做出了好东西”相关的节目论据。
 ---
 
 # 英国人为什么能忍BBC税这么多年呢？

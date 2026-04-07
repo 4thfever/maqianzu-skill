@@ -7,6 +7,8 @@ episode_id: main-401-500-488
 chunk_index: 1
 chunk_heading: 督工，你怎么看待虚拟图片对新闻报道的影响？
 source_path: 401-500/488.md
+summary: https://weibo.com/3806438281/M2NJU3s2o>
+usage_hint: 适合在需要节目级细节时补充与“https://weibo.com/3806438281/M”相关的节目论据。
 ---
 
 # 督工，你怎么看待虚拟图片对新闻报道的影响？

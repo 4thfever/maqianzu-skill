@@ -7,6 +7,8 @@ episode_id: main-1-100-27
 chunk_index: 6
 chunk_heading: 他们最后还是要给佛朗哥迁坟，是什么原因？
 source_path: 1-100/27.md
+summary: 因为现在的政治斗争
+usage_hint: 适合在需要节目级细节时补充与“因为现在的政治斗争”相关的节目论据。
 ---
 
 # 他们最后还是要给佛朗哥迁坟，是什么原因？

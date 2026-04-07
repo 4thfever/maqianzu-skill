@@ -7,6 +7,8 @@ episode_id: main-301-400-386
 chunk_index: 9
 chunk_heading: 你都这么说了，这一条我就不评论了。
 source_path: 301-400/386.md
+summary: 296期 【睡前消息296】搞暑托班问题很多，不如取消寒暑假](https://archive.bedtime.news/zh/main/201-300/296)8:30 或许可以直接取消暑假，把寒假缩短成10天左右的春节假
+usage_hint: 适合在需要节目级细节时补充与“睡前消息296】搞暑托班问题很多，不如取消寒暑假](http”相关的节目论据。
 ---
 
 # 你都这么说了，这一条我就不评论了。

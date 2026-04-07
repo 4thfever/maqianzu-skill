@@ -7,6 +7,8 @@ episode_id: main-1-100-10
 chunk_index: 14
 chunk_heading: 这个修改，谁应该负责呢？
 source_path: 1-100/10.md
+summary: 按道理说是编剧来负责
+usage_hint: 适合在需要节目级细节时补充与“按道理说是编剧来负责”相关的节目论据。
 ---
 
 # 这个修改，谁应该负责呢？

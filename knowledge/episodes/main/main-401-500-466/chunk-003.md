@@ -7,6 +7,8 @@ episode_id: main-401-500-466
 chunk_index: 3
 chunk_heading: 督工你怎么看待这件事？
 source_path: 401-500/466.md
+summary: 我想回顾一下259期节目
+usage_hint: 适合在需要节目级细节时补充与“我想回顾一下259期节目”相关的节目论据。
 ---
 
 # 督工你怎么看待这件事？

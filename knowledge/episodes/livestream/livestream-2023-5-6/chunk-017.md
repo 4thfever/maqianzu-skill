@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 17
 chunk_heading: 读硕之路
 source_path: 2023/5/6.md
+summary: 我觉得任何时代都这样
+usage_hint: 适合在直播问答场景中核对与“我觉得任何时代都这样”相关的节目级细节。
 ---
 
 # 读硕之路

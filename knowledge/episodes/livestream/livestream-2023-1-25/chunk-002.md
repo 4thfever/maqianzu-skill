@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 2
 chunk_heading: 看没看今年新电影
 source_path: 2023/1/25.md
+summary: 我还没看到，现在不敢随便说
+usage_hint: 适合在直播问答场景中核对与“我还没看到，现在不敢随便说”相关的节目级细节。
 ---
 
 # 看没看今年新电影

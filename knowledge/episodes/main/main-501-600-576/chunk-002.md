@@ -7,6 +7,8 @@ episode_id: main-501-600-576
 chunk_index: 2
 chunk_heading: 与其同时，媒体报道，香港新冠保险索赔成功率达到94%。很多人说香港保险公司比大陆讲诚信，香港保险业监管更给力。 ![576-4.png](https://img.bedtime.news/2023/08/28/64ec490d6b752.png) https://cj.sina.com.cn/articles/view/1445876417/562e52c1019017hpr?sudaref=www.google.com&display=0&retcode=0 督工你怎么看待内地和香港的新冠险赔付差别？
 source_path: 501-600/576.md
+summary: 内地保险公司在“新冠病毒险”问题上，行为的确类似于抢劫
+usage_hint: 适合在需要节目级细节时补充与“内地保险公司在“新冠病毒险”问题上，行为的确类似于抢劫”相关的节目论据。
 ---
 
 # 与其同时，媒体报道，香港新冠保险索赔成功率达到94%。很多人说香港保险公司比大陆讲诚信，香港保险业监管更给力。 ![576-4.png](https://img.bedtime.news/2023/08/28/64ec490d6b752.png) https://cj.sina.com.cn/articles/view/1445876417/562e52c1019017hpr?sudaref=www.google.com&display=0&retcode=0 督工你怎么看待内地和香港的新冠险赔付差别？

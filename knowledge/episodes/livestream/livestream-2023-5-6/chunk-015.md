@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 15
 chunk_heading: 越来越严重的男女对立现象
 source_path: 2023/5/6.md
+summary: 我怎么没发现越来越严重的男女对立现象
+usage_hint: 适合在直播问答场景中核对与“我怎么没发现越来越严重的男女对立现象”相关的节目级细节。
 ---
 
 # 越来越严重的男女对立现象

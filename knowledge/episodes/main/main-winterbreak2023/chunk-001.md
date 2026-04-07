@@ -7,6 +7,8 @@ episode_id: main-winterbreak2023
 chunk_index: 1
 chunk_heading: 寒假版
 source_path: winterbreak2023.md
+summary: 纠结清明烧纸，毛主席的“礼”去哪了
+usage_hint: 适合在需要节目级细节时补充与“纠结清明烧纸，毛主席的“礼”去哪了”相关的节目论据。
 ---
 
 # 寒假版

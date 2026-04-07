@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息969】投资水氢汽车 南阳错过“巴铁”",
+      "question": "",
+      "summary": "睡前消息[第961期]节目，督工你介绍南阳市轻轨项目同时，还分析了南阳在文旅产业转型方面的尝试",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息[第961期]节目，督工你介绍南阳市轻轨项目同时，还”相关的节目论据。"
+    }
+  ],
+  "date": "2025-10-24",
+  "date_source": "body_explicit",
+  "description": "2018年，南阳市政府和青年汽车公司联合制造“水氢汽车”，被舆论嘲笑为“造永动机”。2025年回顾当初的技术设想，并不能简单地说南阳政府故意选择了伪科学项目。",
+  "episode_id": "main-901-1000-969",
+  "keywords": [],
+  "source_path": "901-1000/969.md",
+  "source_type": "main",
+  "summary": "2018年，南阳市政府和青年汽车公司联合制造“水氢汽车”，被舆论嘲笑为“造永动机”。2025年回顾当初的技术设想，并不能简单地说南阳政府故意选择了伪科学项目。",
+  "title": "【睡前消息969】投资水氢汽车 南阳错过“巴铁”",
+  "topic_scores": {
+    "economy": 9,
+    "governance": 6,
+    "industry": 14,
+    "international": 1,
+    "media": 3,
+    "society": 0
+  },
+  "topics": [
+    "industry"
+  ]
+}

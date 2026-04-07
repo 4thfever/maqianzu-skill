@@ -7,6 +7,8 @@ episode_id: main-301-400-329
 chunk_index: 1
 chunk_heading: 本周有两家著名房地产企业上了财经头条。9月10号，黑石集团宣布放弃收购SOHO中国，SOHO股价随后暴跌三分之一。 ![329-1.png](https://img.bedtime.news/2023/08/25/64e8bc39bf998.png) ![329-2.png](https://img.bedtime.news/2023/08/25/64e8bc384db1a.png) http://stock.10jqka.com.cn/usstock/20210914/c632684695.shtml ![329-3.png](https://img.bedtime.news/2023/08/25/64e8bc39895c3.png) ![329-4.png](https://img.bedtime.news/2023/08/25/64e8bc38ec152.png) 另外一条，大家应该都知道了，9月13号，恒大发表公告，承认公司陷入流动性困难。恒大系股票和债券价格本周都大幅下降。 恒大和SOHO都是有代表性的房地产企业，同一周爆发负面新闻，是不是遇到了类似的问题？
 source_path: 301-400/329.md
+summary: 恒大和SOHO的确有很多相似之处，都是著名房地产企业品牌，实际控制人都喜欢参加社会活动
+usage_hint: 适合在需要节目级细节时补充与“恒大和SOHO的确有很多相似之处，都是著名房地产企业品牌，实”相关的节目论据。
 ---
 
 # 本周有两家著名房地产企业上了财经头条。9月10号，黑石集团宣布放弃收购SOHO中国，SOHO股价随后暴跌三分之一。 ![329-1.png](https://img.bedtime.news/2023/08/25/64e8bc39bf998.png) ![329-2.png](https://img.bedtime.news/2023/08/25/64e8bc384db1a.png) http://stock.10jqka.com.cn/usstock/20210914/c632684695.shtml ![329-3.png](https://img.bedtime.news/2023/08/25/64e8bc39895c3.png) ![329-4.png](https://img.bedtime.news/2023/08/25/64e8bc38ec152.png) 另外一条，大家应该都知道了，9月13号，恒大发表公告，承认公司陷入流动性困难。恒大系股票和债券价格本周都大幅下降。 恒大和SOHO都是有代表性的房地产企业，同一周爆发负面新闻，是不是遇到了类似的问题？

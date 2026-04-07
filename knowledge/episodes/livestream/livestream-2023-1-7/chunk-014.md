@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 14
 chunk_heading: 如何看待考公务员？
 source_path: 2023/1/7.md
+summary: 我看弹幕有人说考公务员是一个什么道路
+usage_hint: 适合在直播问答场景中核对与“我看弹幕有人说考公务员是一个什么道路”相关的节目级细节。
 ---
 
 # 如何看待考公务员？

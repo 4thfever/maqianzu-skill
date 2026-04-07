@@ -7,6 +7,8 @@ episode_id: main-1-100-84
 chunk_index: 4
 chunk_heading: 百步亭社区的管理水平怎么样呢？
 source_path: 1-100/84.md
+summary: 至少不比中国平均水平差，某些方面明显有进步
+usage_hint: 适合在需要节目级细节时补充与“至少不比中国平均水平差，某些方面明显有进步”相关的节目论据。
 ---
 
 # 百步亭社区的管理水平怎么样呢？

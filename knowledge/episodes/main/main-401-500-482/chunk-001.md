@@ -7,6 +7,8 @@ episode_id: main-401-500-482
 chunk_index: 1
 chunk_heading: 督工，卡住中芯国际12英寸晶圆项目的CIM软件是什么东西？
 source_path: 401-500/482.md
+summary: 首先我们要理解什么是CIM软件
+usage_hint: 适合在需要节目级细节时补充与“首先我们要理解什么是CIM软件”相关的节目论据。
 ---
 
 # 督工，卡住中芯国际12英寸晶圆项目的CIM软件是什么东西？

@@ -7,6 +7,8 @@ episode_id: main-501-600-519
 chunk_index: 2
 chunk_heading: 修了几十年的乌鞘岭隧道，为什么不能绕过乌鞘岭呢？
 source_path: 501-600/519.md
+summary: 这需要从地图上来看
+usage_hint: 适合在需要节目级细节时补充与“这需要从地图上来看”相关的节目论据。
 ---
 
 # 修了几十年的乌鞘岭隧道，为什么不能绕过乌鞘岭呢？

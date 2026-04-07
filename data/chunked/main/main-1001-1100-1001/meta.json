@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1001】增值电商税 聚变炼金术",
+      "question": "",
+      "summary": "请静静介绍话题： 2025年底，网上有大量短视频UP主抱怨“电商难做”，表示中国征收“电商税”，让很多经营者亏钱",
+      "usage_hint": "适合在需要节目级细节时补充与“请静静介绍话题： 2025年底，网上有大量短视频UP主抱怨“”相关的节目论据。"
+    }
+  ],
+  "date": "2026-01-04",
+  "date_source": "body_explicit",
+  "description": "“电商税”的概念，给一大批小业主带来了资金压力。但回顾“电商税”概念的历史，得说收税时机还有点晚。",
+  "episode_id": "main-1001-1100-1001",
+  "keywords": [],
+  "source_path": "1001-1100/1001.md",
+  "source_type": "main",
+  "summary": "“电商税”的概念，给一大批小业主带来了资金压力。但回顾“电商税”概念的历史，得说收税时机还有点晚。",
+  "title": "【睡前消息1001】增值电商税 聚变炼金术",
+  "topic_scores": {
+    "economy": 33,
+    "governance": 1,
+    "industry": 1,
+    "international": 0,
+    "media": 2,
+    "society": 0
+  },
+  "topics": [
+    "economy"
+  ]
+}

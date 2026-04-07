@@ -7,6 +7,8 @@ episode_id: main-1-100-92
 chunk_index: 9
 chunk_heading: 马斯克并不是NASA的下属，他搞航天公司，为什么没有分散美国的航天资源呢？
 source_path: 1-100/92.md
+summary: 这就要说资本主义的优点了
+usage_hint: 适合在需要节目级细节时补充与“这就要说资本主义的优点了”相关的节目论据。
 ---
 
 # 马斯克并不是NASA的下属，他搞航天公司，为什么没有分散美国的航天资源呢？

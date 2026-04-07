@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 32
 chunk_heading: 怎么看待魏明子对我的攻击？
 source_path: 2023/1/25.md
+summary: 有人说怎么看待魏明子对我的攻击
+usage_hint: 适合在直播问答场景中核对与“有人说怎么看待魏明子对我的攻击”相关的节目级细节。
 ---
 
 # 怎么看待魏明子对我的攻击？

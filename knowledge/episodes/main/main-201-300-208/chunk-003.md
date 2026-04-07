@@ -7,6 +7,8 @@ episode_id: main-201-300-208
 chunk_index: 3
 chunk_heading: 除了牙膏，三七还有什么其它神话产业吗？
 source_path: 201-300/208.md
+summary: 三七是壮族医药的招牌药物
+usage_hint: 适合在需要节目级细节时补充与“三七是壮族医药的招牌药物”相关的节目论据。
 ---
 
 # 除了牙膏，三七还有什么其它神话产业吗？

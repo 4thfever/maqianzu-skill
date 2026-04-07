@@ -7,6 +7,8 @@ episode_id: main-1-100-47
 chunk_index: 4
 chunk_heading: *IS难民营中的一个孩子，面对采访表示，"我们将会屠杀你们"。*
 source_path: 1-100/47.md
+summary: 天空电视台视频素材：<https://www.youtube.com/watch
+usage_hint: 适合在需要节目级细节时补充与“天空电视台视频素材：<https://www.youtube”相关的节目论据。
 ---
 
 # *IS难民营中的一个孩子，面对采访表示，"我们将会屠杀你们"。*

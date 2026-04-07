@@ -7,6 +7,8 @@ episode_id: main-1-100-23
 chunk_index: 3
 chunk_heading: 埃及为什么要反对埃塞俄比亚修大坝呢？
 source_path: 1-100/23.md
+summary: 因为尼罗河的水就是埃及的命
+usage_hint: 适合在需要节目级细节时补充与“因为尼罗河的水就是埃及的命”相关的节目论据。
 ---
 
 # 埃及为什么要反对埃塞俄比亚修大坝呢？

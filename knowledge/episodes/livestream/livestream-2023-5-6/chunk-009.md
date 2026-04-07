@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 9
 chunk_heading: 你会一直坚持历史唯物主义的价值观吗？
 source_path: 2023/5/6.md
+summary: 历史唯物主义价值观，它能够解决问题
+usage_hint: 适合在直播问答场景中核对与“历史唯物主义价值观，它能够解决问题”相关的节目级细节。
 ---
 
 # 你会一直坚持历史唯物主义的价值观吗？

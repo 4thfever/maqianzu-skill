@@ -7,6 +7,8 @@ episode_id: main-201-300-229
 chunk_index: 2
 chunk_heading: 为什么在美国买土地会这么赚钱？
 source_path: 201-300/229.md
+summary: 因为美国农业就是赚钱
+usage_hint: 适合在需要节目级细节时补充与“因为美国农业就是赚钱”相关的节目论据。
 ---
 
 # 为什么在美国买土地会这么赚钱？

@@ -7,6 +7,8 @@ episode_id: main-601-700-660
 chunk_index: 1
 chunk_heading: 督工，你怎么看待尼日尔军事政变的性质?
 source_path: 601-700/660.md
+summary: 马里过渡总统宣布与布基纳法索和尼日尔建立萨赫勒国家联盟](https://www.guancha.cn/internation/2023_09_17_708862.shtml) > > [“御林军篡位”
+usage_hint: 适合在需要节目级细节时补充与“马里过渡总统宣布与布基纳法索和尼日尔建立萨赫勒国家联盟](h”相关的节目论据。
 ---
 
 # 督工，你怎么看待尼日尔军事政变的性质?

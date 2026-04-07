@@ -1,0 +1,20 @@
+{
+  "input_root": "E:\\projects\\maqianzu-skill\\data\\normalized",
+  "output_root": "E:\\projects\\maqianzu-skill\\data\\chunked",
+  "stats": {
+    "livestream": {
+      "chunks_written": 102,
+      "episodes_written": 6,
+      "skipped_empty_pages": 0,
+      "skipped_index_pages": 2,
+      "source_files": 8
+    },
+    "main": {
+      "chunks_written": 3584,
+      "episodes_written": 844,
+      "skipped_empty_pages": 11,
+      "skipped_index_pages": 12,
+      "source_files": 867
+    }
+  }
+}

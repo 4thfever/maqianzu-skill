@@ -7,6 +7,8 @@ episode_id: main-401-500-450
 chunk_index: 8
 chunk_heading: 6月19日，唐山疫情防控部门要求隔离人员必须服用连花清瘟，并且要把吃药视频拍下来做证明。督工你怎么评价唐山市的隔离政策？
 source_path: 401-500/450.md
+summary: http://zjnews.china.com.cn/yuanchuan/2022-06-21/345040.html](http://zjnews.china.com.cn/yuanchuan/2022-06-21/345040.html
+usage_hint: 适合在需要节目级细节时补充与“http://zjnews.china.com.cn/yua”相关的节目论据。
 ---
 
 # 6月19日，唐山疫情防控部门要求隔离人员必须服用连花清瘟，并且要把吃药视频拍下来做证明。督工你怎么评价唐山市的隔离政策？

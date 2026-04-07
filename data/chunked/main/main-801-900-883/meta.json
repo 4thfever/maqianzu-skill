@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息883】司马南、姜汝祥 “京圈”的21世纪",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-04-02",
+  "date_source": "body_explicit",
+  "description": "对马督工来说，司马南曾经是报纸上的名人；然后是现实聚会上的真实形象，最后是视频网站上的同行，人生多有交集。这次要从个人视角，介绍司马南的复杂人生。",
+  "episode_id": "main-801-900-883",
+  "keywords": [],
+  "source_path": "801-900/883.md",
+  "source_type": "main",
+  "summary": "对马督工来说，司马南曾经是报纸上的名人；然后是现实聚会上的真实形象，最后是视频网站上的同行，人生多有交集。这次要从个人视角，介绍司马南的复杂人生。",
+  "title": "【睡前消息883】司马南、姜汝祥 “京圈”的21世纪",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 0,
+    "international": 0,
+    "media": 5,
+    "society": 6
+  },
+  "topics": [
+    "media",
+    "society"
+  ]
+}

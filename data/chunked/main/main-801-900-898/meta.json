@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息898】广西旱灾怪桉树 二十年的错误记忆",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-05-11",
+  "date_source": "body_explicit",
+  "description": "每次南方旱灾，一定会有媒体重复“桉树抽水”，“桉树有毒”的警告，认为大面积种植桉树是生态灾难。这些观点虽然错误，但并非凭空编造。本期节目追溯20年前的金光集团毁林案，解释桉树话题的复杂性。",
+  "episode_id": "main-801-900-898",
+  "keywords": [],
+  "source_path": "801-900/898.md",
+  "source_type": "main",
+  "summary": "每次南方旱灾，一定会有媒体重复“桉树抽水”，“桉树有毒”的警告，认为大面积种植桉树是生态灾难。这些观点虽然错误，但并非凭空编造。本期节目追溯20年前的金光集团毁林案，解释桉树话题的复杂性。",
+  "title": "【睡前消息898】广西旱灾怪桉树 二十年的错误记忆",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 3,
+    "industry": 0,
+    "international": 0,
+    "media": 5,
+    "society": 1
+  },
+  "topics": [
+    "media"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息994】越南缺房子 深圳缺垃圾",
+      "question": "",
+      "summary": "请静静介绍话题： 媒体报道，最近两年越南房价暴涨",
+      "usage_hint": "适合在需要节目级细节时补充与“请静静介绍话题： 媒体报道，最近两年越南房价暴涨”相关的节目论据。"
+    }
+  ],
+  "date": "2025-12-21",
+  "date_source": "body_explicit",
+  "description": "“中国垃圾不够烧”的说法流传了很久，但同时中国各地频繁在溶洞、山沟发现巨大的垃圾场。今天来解释这个矛盾。",
+  "episode_id": "main-901-1000-994",
+  "keywords": [],
+  "source_path": "901-1000/994.md",
+  "source_type": "main",
+  "summary": "“中国垃圾不够烧”的说法流传了很久，但同时中国各地频繁在溶洞、山沟发现巨大的垃圾场。今天来解释这个矛盾。",
+  "title": "【睡前消息994】越南缺房子 深圳缺垃圾",
+  "topic_scores": {
+    "economy": 16,
+    "governance": 2,
+    "industry": 0,
+    "international": 17,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "economy",
+    "international"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 2
 chunk_heading: 关于制作短视频
 source_path: 2023/1/7.md
+summary: 我们 2023 年我还有个想法，我们打算做短视频
+usage_hint: 适合在直播问答场景中核对与“我们 2023 年我还有个想法，我们打算做短视频”相关的节目级细节。
 ---
 
 # 关于制作短视频

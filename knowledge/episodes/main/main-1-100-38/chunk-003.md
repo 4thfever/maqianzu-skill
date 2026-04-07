@@ -7,6 +7,8 @@ episode_id: main-1-100-38
 chunk_index: 3
 chunk_heading: 督工你家乡就在河北，对这两张图怎么看？
 source_path: 1-100/38.md
+summary: 根据个人经验来说，我是不信的
+usage_hint: 适合在需要节目级细节时补充与“根据个人经验来说，我是不信的”相关的节目论据。
 ---
 
 # 督工你家乡就在河北，对这两张图怎么看？

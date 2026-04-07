@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息990】学会本福特定律，你就是中国“最强X人组”",
+      "question": "",
+      "summary": "请静静介绍话题： 过去一周，从湖北竹溪县开始的“最强五人组”事件快速扩散",
+      "usage_hint": "适合在需要节目级细节时补充与“请静静介绍话题： 过去一周，从湖北竹溪县开始的“最强五人组””相关的节目论据。"
+    }
+  ],
+  "date": "2025-12-12",
+  "date_source": "body_explicit",
+  "description": "“最强五人组”事件遍布全国，说明造假群体藐视人民群众的智商，连一分钱的造假成本都不想出，直接照抄百度文件的免费部分。既然如此，让他们看看人民群众还有哪些科学打假工具。",
+  "episode_id": "main-901-1000-990",
+  "keywords": [],
+  "source_path": "901-1000/990.md",
+  "source_type": "main",
+  "summary": "“最强五人组”事件遍布全国，说明造假群体藐视人民群众的智商，连一分钱的造假成本都不想出，直接照抄百度文件的免费部分。既然如此，让他们看看人民群众还有哪些科学打假工具。",
+  "title": "【睡前消息990】学会本福特定律，你就是中国“最强X人组”",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 4,
+    "industry": 2,
+    "international": 0,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "governance"
+  ]
+}

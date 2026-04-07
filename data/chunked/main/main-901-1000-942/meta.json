@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息942】尿毒症工厂 劳动才有尊严",
+      "question": "",
+      "summary": "有一段时间没有跟进往期节目的后续发展了，今天我整理了一批新闻短讯，给之前的节目打补丁",
+      "usage_hint": "适合在需要节目级细节时补充与“有一段时间没有跟进往期节目的后续发展了，今天我整理了一批新闻”相关的节目论据。"
+    }
+  ],
+  "date": "2025-08-22",
+  "date_source": "body_explicit",
+  "description": "马克思说劳动是人的第一需要，听起来不太容易理解。今年8月，新京报做出了今年的最好深度内容：《缝纫机与透析机》，用“尿毒症工厂”的极端例子，证实了马克思的判断。",
+  "episode_id": "main-901-1000-942",
+  "keywords": [],
+  "source_path": "901-1000/942.md",
+  "source_type": "main",
+  "summary": "马克思说劳动是人的第一需要，听起来不太容易理解。今年8月，新京报做出了今年的最好深度内容：《缝纫机与透析机》，用“尿毒症工厂”的极端例子，证实了马克思的判断。",
+  "title": "【睡前消息942】尿毒症工厂 劳动才有尊严",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 3,
+    "international": 0,
+    "media": 6,
+    "society": 2
+  },
+  "topics": [
+    "media"
+  ]
+}

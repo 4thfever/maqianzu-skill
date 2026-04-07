@@ -7,6 +7,8 @@ episode_id: main-1-100-43
 chunk_index: 10
 chunk_heading: 为什么韩国总理换得这么勤快呢？
 source_path: 1-100/43.md
+summary: 因为韩国的总理是总统制下的畸形总理
+usage_hint: 适合在需要节目级细节时补充与“因为韩国的总理是总统制下的畸形总理”相关的节目论据。
 ---
 
 # 为什么韩国总理换得这么勤快呢？

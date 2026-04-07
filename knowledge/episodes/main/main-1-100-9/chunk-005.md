@@ -7,6 +7,8 @@ episode_id: main-1-100-9
 chunk_index: 5
 chunk_heading: 这400亿花到哪里去了呢？
 source_path: 1-100/9.md
+summary: 从理论上说，主要用来发展地方经济
+usage_hint: 适合在需要节目级细节时补充与“从理论上说，主要用来发展地方经济”相关的节目论据。
 ---
 
 # 这400亿花到哪里去了呢？

@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 11
 chunk_heading: 塑造我价值观的书
 source_path: 2023/5/6.md
+summary: 如果你要说一定要有，我倒是倾向于说我小时候看的一些画册，而这些或者说也不能叫画册
+usage_hint: 适合在直播问答场景中核对与“如果你要说一定要有，我倒是倾向于说我小时候看的一些画册，而这”相关的节目级细节。
 ---
 
 # 塑造我价值观的书

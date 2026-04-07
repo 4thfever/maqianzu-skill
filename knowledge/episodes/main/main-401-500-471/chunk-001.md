@@ -7,6 +7,8 @@ episode_id: main-401-500-471
 chunk_index: 1
 chunk_heading: 督工你怎么评价"滚蛋疗法"？
 source_path: 401-500/471.md
+summary: 滚蛋疗法"并不是最近的首创
+usage_hint: 适合在需要节目级细节时补充与“滚蛋疗法"并不是最近的首创”相关的节目论据。
 ---
 
 # 督工你怎么评价"滚蛋疗法"？

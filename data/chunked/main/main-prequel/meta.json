@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "前传",
+      "question": "",
+      "summary": "在睡前消息第1期之前马前卒的相关视频内容",
+      "usage_hint": "适合在需要节目级细节时补充与“在睡前消息第1期之前马前卒的相关视频内容”相关的节目论据。"
+    }
+  ],
+  "date": "2023-01-25",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-prequel",
+  "keywords": [],
+  "source_path": "prequel.md",
+  "source_type": "main",
+  "summary": "在睡前消息第1期之前马前卒的相关视频内容",
+  "title": "前传",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 0,
+    "media": 2,
+    "society": 0
+  },
+  "topics": [
+    "media"
+  ]
+}

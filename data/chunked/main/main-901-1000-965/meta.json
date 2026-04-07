@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息965】俄罗斯长寿科技 韩国检察厅改革",
+      "question": "",
+      "summary": "10月7日，俄罗斯总统普京度过了73岁生日",
+      "usage_hint": "适合在需要节目级细节时补充与“10月7日，俄罗斯总统普京度过了73岁生日”相关的节目论据。"
+    }
+  ],
+  "date": "2025-10-14",
+  "date_source": "body_explicit",
+  "description": "上个月，李在明得到国会支持，拆散了78年历史的检察厅，没有遇到任何阻力。同时，俄罗斯领导人在战争中迎来73岁的年龄坎，超过了俄国人口平均可预期寿命。苏联和俄罗斯的长寿科技储备，很快就要进行实战测试了。",
+  "episode_id": "main-901-1000-965",
+  "keywords": [],
+  "source_path": "901-1000/965.md",
+  "source_type": "main",
+  "summary": "上个月，李在明得到国会支持，拆散了78年历史的检察厅，没有遇到任何阻力。同时，俄罗斯领导人在战争中迎来73岁的年龄坎，超过了俄国人口平均可预期寿命。苏联和俄罗斯的长寿科技储备，很快就要进行实战测试了。",
+  "title": "【睡前消息965】俄罗斯长寿科技 韩国检察厅改革",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 2,
+    "industry": 0,
+    "international": 14,
+    "media": 1,
+    "society": 1
+  },
+  "topics": [
+    "international"
+  ]
+}

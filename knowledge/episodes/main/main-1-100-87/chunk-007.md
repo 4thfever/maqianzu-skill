@@ -7,6 +7,8 @@ episode_id: main-1-100-87
 chunk_index: 7
 chunk_heading: 2月26日，迪士尼举行了电影《花木兰》的内部试映会，迪士尼中国区高层看过样片，把电影中刘亦菲的吻戏剪掉了。理由是"中国人会觉得这样不对劲。"督工你对这个操作怎么看？
 source_path: 1-100/87.md
+summary: https://www.hollywoodreporter.com/features/inside-disneys-bold-200m-gamble-mulan-stakes-couldnt-be-higher-1280999]{.unde
+usage_hint: 适合在需要节目级细节时补充与“https://www.hollywoodreporter.”相关的节目论据。
 ---
 
 # 2月26日，迪士尼举行了电影《花木兰》的内部试映会，迪士尼中国区高层看过样片，把电影中刘亦菲的吻戏剪掉了。理由是"中国人会觉得这样不对劲。"督工你对这个操作怎么看？

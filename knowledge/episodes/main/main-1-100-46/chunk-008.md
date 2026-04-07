@@ -7,6 +7,8 @@ episode_id: main-1-100-46
 chunk_index: 8
 chunk_heading: 德国在这方面算是很先进吗？
 source_path: 1-100/46.md
+summary: 很先进，而且他们的设备尤其适合在城市使用
+usage_hint: 适合在需要节目级细节时补充与“很先进，而且他们的设备尤其适合在城市使用”相关的节目论据。
 ---
 
 # 德国在这方面算是很先进吗？

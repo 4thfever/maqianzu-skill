@@ -7,6 +7,8 @@ episode_id: livestream-2022-12-17
 chunk_index: 6
 chunk_heading: 城市死亡率
 source_path: 2022/12/17.md
+summary: 我们现在处于一个人类历史上从来没有过的阶段，就是 50% 的人出生在城市
+usage_hint: 适合在直播问答场景中核对与“我们现在处于一个人类历史上从来没有过的阶段，就是 50% 的”相关的节目级细节。
 ---
 
 # 城市死亡率

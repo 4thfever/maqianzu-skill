@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 16
 chunk_heading: 看春晚吗？
 source_path: 2023/1/7.md
+summary: 看这个是每年有时候带着回放也看，就像我看我自己的视频一样，捏着鼻子不想看也得看下去
+usage_hint: 适合在直播问答场景中核对与“看这个是每年有时候带着回放也看，就像我看我自己的视频一样，捏”相关的节目级细节。
 ---
 
 # 看春晚吗？

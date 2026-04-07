@@ -7,6 +7,8 @@ episode_id: main-1-100-77
 chunk_index: 3
 chunk_heading: 和广东省相比，江苏省为什么能做到各地区均衡发展呢？
 source_path: 1-100/77.md
+summary: 肯定和地理因素有关系
+usage_hint: 适合在需要节目级细节时补充与“肯定和地理因素有关系”相关的节目论据。
 ---
 
 # 和广东省相比，江苏省为什么能做到各地区均衡发展呢？

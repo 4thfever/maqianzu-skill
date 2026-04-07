@@ -7,6 +7,8 @@ episode_id: main-1-100-69
 chunk_index: 8
 chunk_heading: **静静：下次你什么时候再回流呢？**
 source_path: 1-100/69.md
+summary: 过年回成都就玩新出的8.3
+usage_hint: 适合在需要节目级细节时补充与“过年回成都就玩新出的8.3”相关的节目论据。
 ---
 
 # **静静：下次你什么时候再回流呢？**

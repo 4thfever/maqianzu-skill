@@ -7,6 +7,8 @@ episode_id: main-1-100-21
 chunk_index: 1
 chunk_heading: 9月9日，红星新闻报道，成都市草堂小学根据性别定制专属课程，女生"打毛线""织毛衣"，男生"做飞机""造火箭""装汽车"。督工你对这种安排怎么看？
 source_path: 1-100/21.md
+summary: https://static.cdsb.com/micropub/Articles/201909/542fadea38661f152af1644d92940e4a.html
+usage_hint: 适合在需要节目级细节时补充与“https://static.cdsb.com/microp”相关的节目论据。
 ---
 
 # 9月9日，红星新闻报道，成都市草堂小学根据性别定制专属课程，女生"打毛线""织毛衣"，男生"做飞机""造火箭""装汽车"。督工你对这种安排怎么看？

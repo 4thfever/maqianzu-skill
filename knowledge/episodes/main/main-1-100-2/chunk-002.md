@@ -7,6 +7,8 @@ episode_id: main-1-100-2
 chunk_index: 2
 chunk_heading: 为什么伊春过去要设这么多区呢？
 source_path: 1-100/2.md
+summary: 伊春是建国初期区划设置的一个典型代表
+usage_hint: 适合在需要节目级细节时补充与“伊春是建国初期区划设置的一个典型代表”相关的节目论据。
 ---
 
 # 为什么伊春过去要设这么多区呢？

@@ -7,6 +7,8 @@ episode_id: main-101-200-116
 chunk_index: 2
 chunk_heading: 50亿美元罚款，算是轻还是重？
 source_path: 101-200/116.md
+summary: 按照FTC与Facebook在2011年签署的协议，如果发现违规行为，Facebook每侵犯一个用户隐私，最高要支付4万美元罚款
+usage_hint: 适合在需要节目级细节时补充与“按照FTC与Facebook在2011年签署的协议，如果发现”相关的节目论据。
 ---
 
 # 50亿美元罚款，算是轻还是重？

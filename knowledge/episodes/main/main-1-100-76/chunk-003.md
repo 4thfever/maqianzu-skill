@@ -7,6 +7,8 @@ episode_id: main-1-100-76
 chunk_index: 3
 chunk_heading: 督工你的意思，是要以物质刺激为主吗？
 source_path: 1-100/76.md
+summary: 社会主义最讲利益，否则就不用讲阶级
+usage_hint: 适合在需要节目级细节时补充与“社会主义最讲利益，否则就不用讲阶级”相关的节目论据。
 ---
 
 # 督工你的意思，是要以物质刺激为主吗？

@@ -8,9 +8,6 @@ __pycache__/
 *.db
 *.sqlite
 
-# 构建中间产物
-data/
-
 # IDE
 .vscode/
 .idea/

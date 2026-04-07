@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 19
 chunk_heading: 心理学专业怎样看待这里？
 source_path: 2023/1/25.md
+summary: 有人问我说对心理学专业怎样看待这里
+usage_hint: 适合在直播问答场景中核对与“有人问我说对心理学专业怎样看待这里”相关的节目级细节。
 ---
 
 # 心理学专业怎样看待这里？

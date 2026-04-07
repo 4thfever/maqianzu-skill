@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 11
 chunk_heading: 未来文化会变宽松吗？
 source_path: 2023/1/25.md
+summary: 有人觉得未来文化会变宽松吗
+usage_hint: 适合在直播问答场景中核对与“有人觉得未来文化会变宽松吗”相关的节目级细节。
 ---
 
 # 未来文化会变宽松吗？

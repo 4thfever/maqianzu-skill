@@ -7,6 +7,8 @@ episode_id: main-1-100-19
 chunk_index: 17
 chunk_heading: 如果鱼（Fishes）的数量减少，对海洋生态系统产生什么样的影响？
 source_path: 1-100/19.md
+summary: A）Leopard将全部因缺乏食物而死亡
+usage_hint: 适合在需要节目级细节时补充与“A）Leopard将全部因缺乏食物而死亡”相关的节目论据。
 ---
 
 # 如果鱼（Fishes）的数量减少，对海洋生态系统产生什么样的影响？

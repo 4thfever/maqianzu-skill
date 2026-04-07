@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息59】年终盘点（上）：2019年，“特朗普三年”？",
+      "question": "",
+      "summary": "睡前消息2019年终盘点（上） 要盘点年终新闻，肯定绕不开美国；要谈美国，肯定绕不开特朗普",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息2019年终盘点（上） 要盘点年终新闻，肯定绕不开美”相关的节目论据。"
+    }
+  ],
+  "date": "2019-12-31",
+  "date_source": "body_explicit",
+  "description": "",
+  "episode_id": "main-1-100-59",
+  "keywords": [],
+  "source_path": "1-100/59.md",
+  "source_type": "main",
+  "summary": "睡前消息2019年终盘点（上） 要盘点年终新闻，肯定绕不开美国；要谈美国，肯定绕不开特朗普",
+  "title": "【睡前消息59】年终盘点（上）：2019年，“特朗普三年”？",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 11,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "international"
+  ]
+}

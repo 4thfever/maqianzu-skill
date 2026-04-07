@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息95】“老佛爷，我们又被收购了，这次是中国乡镇企业……”",
+      "question": "",
+      "summary": "睡前消息0329 中国敬业集团收购英国钢铁集团",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息0329 中国敬业集团收购英国钢铁集团”相关的节目论据。"
+    }
+  ],
+  "date": "2020-03-29",
+  "date_source": "body_explicit",
+  "description": "",
+  "episode_id": "main-1-100-95",
+  "keywords": [],
+  "source_path": "1-100/95.md",
+  "source_type": "main",
+  "summary": "睡前消息0329 中国敬业集团收购英国钢铁集团",
+  "title": "【睡前消息95】“老佛爷，我们又被收购了，这次是中国乡镇企业……”",
+  "topic_scores": {
+    "economy": 7,
+    "governance": 0,
+    "industry": 0,
+    "international": 0,
+    "media": 3,
+    "society": 2
+  },
+  "topics": [
+    "economy"
+  ]
+}

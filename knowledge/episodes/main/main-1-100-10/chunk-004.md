@@ -7,6 +7,8 @@ episode_id: main-1-100-10
 chunk_index: 4
 chunk_heading: 那，督工你觉得北大最初退档的决定合理吗？
 source_path: 1-100/10.md
+summary: 从程序上说，不算明显违反规定
+usage_hint: 适合在需要节目级细节时补充与“从程序上说，不算明显违反规定”相关的节目论据。
 ---
 
 # 那，督工你觉得北大最初退档的决定合理吗？

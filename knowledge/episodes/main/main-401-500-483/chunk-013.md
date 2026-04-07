@@ -7,6 +7,8 @@ episode_id: main-401-500-483
 chunk_index: 13
 chunk_heading: 帮我读一段原文：
 source_path: 401-500/483.md
+summary: 这在更高的层次上产生了一个两难矛盾
+usage_hint: 适合在需要节目级细节时补充与“这在更高的层次上产生了一个两难矛盾”相关的节目论据。
 ---
 
 # 帮我读一段原文：

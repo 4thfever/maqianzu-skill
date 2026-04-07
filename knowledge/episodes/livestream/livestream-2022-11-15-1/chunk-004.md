@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-1
 chunk_index: 4
 chunk_heading: 海南怎么样？
 source_path: 2022/11/15-1.md
+summary: 有人问我海南怎么样
+usage_hint: 适合在直播问答场景中核对与“有人问我海南怎么样”相关的节目级细节。
 ---
 
 # 海南怎么样？

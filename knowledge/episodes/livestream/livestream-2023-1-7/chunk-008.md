@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 8
 chunk_heading: 关于逆全球化问题
 source_path: 2023/1/7.md
+summary: 逆全球化问题，有人说哪里有什么逆全球化，我根本没有看到逆全球化
+usage_hint: 适合在直播问答场景中核对与“逆全球化问题，有人说哪里有什么逆全球化，我根本没有看到逆全球”相关的节目级细节。
 ---
 
 # 关于逆全球化问题

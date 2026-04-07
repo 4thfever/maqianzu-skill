@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息140】马前卒暴走，亲眼看看独山县怎么烧掉400亿！周年特辑（上）",
+      "question": "",
+      "summary": "本期视频已被删除 {.is-danger} > 原视频已被删除，以下为补档 {.is-danger} 1 路上 出发 2 前情提要 时间轴 为什么来独山【纯字幕】 3 到达独山 博物馆 4 博物馆内景 吐槽 5 博物馆B 没去成 （补充穆好",
+      "usage_hint": "适合在需要节目级细节时补充与“本期视频已被删除 {.is-danger} > 原视频已被删”相关的节目论据。"
+    }
+  ],
+  "date": "2023-09-08",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-101-200-140",
+  "keywords": [],
+  "source_path": "101-200/140.md",
+  "source_type": "main",
+  "summary": "本期视频已被删除 {.is-danger} > 原视频已被删除，以下为补档 {.is-danger} 1 路上 出发 2 前情提要 时间轴 为什么来独山【纯字幕】 3 到达独山 博物馆 4 博物馆内景 吐槽 5 博物馆B 没去成 （补充穆好",
+  "title": "【睡前消息140】马前卒暴走，亲眼看看独山县怎么烧掉400亿！周年特辑（上）",
+  "topic_scores": {
+    "economy": 4,
+    "governance": 2,
+    "industry": 1,
+    "international": 0,
+    "media": 3,
+    "society": 2
+  },
+  "topics": [
+    "economy",
+    "media"
+  ]
+}

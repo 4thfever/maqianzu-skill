@@ -7,6 +7,8 @@ episode_id: main-201-300-226
 chunk_index: 5
 chunk_heading: Alphafold会不会导致很多生物科研人员失业呢？
 source_path: 201-300/226.md
+summary: 暂时不用担心阿尔法折叠会取代结构生物学家，因为阿尔法折叠的工作模式是“端到端”（“end to end”），从氨基酸序列直接输出蛋白质最终结构
+usage_hint: 适合在需要节目级细节时补充与“暂时不用担心阿尔法折叠会取代结构生物学家，因为阿尔法折叠的工”相关的节目论据。
 ---
 
 # Alphafold会不会导致很多生物科研人员失业呢？

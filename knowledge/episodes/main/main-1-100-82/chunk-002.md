@@ -7,6 +7,8 @@ episode_id: main-1-100-82
 chunk_index: 2
 chunk_heading: 督工，你能介绍一下这个组织吗？
 source_path: 1-100/82.md
+summary: Boy Scouts直译成汉语，就是少年侦察兵
+usage_hint: 适合在需要节目级细节时补充与“Boy Scouts直译成汉语，就是少年侦察兵”相关的节目论据。
 ---
 
 # 督工，你能介绍一下这个组织吗？

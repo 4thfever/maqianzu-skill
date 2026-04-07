@@ -7,6 +7,8 @@ episode_id: main-101-200-194
 chunk_index: 1
 chunk_heading: **现在埃塞俄比亚的情况怎么样？**
 source_path: 101-200/194.md
+summary: 埃塞俄比亚目前情况非常危险
+usage_hint: 适合在需要节目级细节时补充与“埃塞俄比亚目前情况非常危险”相关的节目论据。
 ---
 
 # **现在埃塞俄比亚的情况怎么样？**

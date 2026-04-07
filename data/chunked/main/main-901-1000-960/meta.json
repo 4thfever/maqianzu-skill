@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息960】凭空造票vs花钱买票 国际乒联叕选话事人",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-10-03",
+  "date_source": "body_explicit",
+  "description": "卡塔尔人砸钱买体育协会的位置，是21世纪的常见现象，也是卡塔尔国家战略的一部分。最新一轮国际乒联选举，卡塔尔人卡里尔被自己的老盟友黑了。",
+  "episode_id": "main-901-1000-960",
+  "keywords": [],
+  "source_path": "901-1000/960.md",
+  "source_type": "main",
+  "summary": "卡塔尔人砸钱买体育协会的位置，是21世纪的常见现象，也是卡塔尔国家战略的一部分。最新一轮国际乒联选举，卡塔尔人卡里尔被自己的老盟友黑了。",
+  "title": "【睡前消息960】凭空造票vs花钱买票 国际乒联叕选话事人",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 9,
+    "media": 0,
+    "society": 2
+  },
+  "topics": [
+    "international"
+  ]
+}

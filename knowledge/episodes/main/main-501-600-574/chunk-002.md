@@ -7,6 +7,8 @@ episode_id: main-501-600-574
 chunk_index: 2
 chunk_heading: 我放心了，督工你和工作室的其他同事呢？
 source_path: 501-600/574.md
+summary: 去年这个时候的[424期 媒体十年纪念，拿以岭药业做个示范](https://archive.bedtime.news/zh/main/401-500/424)节目，我介绍过工作室的工作流程
+usage_hint: 适合在需要节目级细节时补充与“去年这个时候的[424期 媒体十年纪念，拿以岭药业做个示范]”相关的节目论据。
 ---
 
 # 我放心了，督工你和工作室的其他同事呢？

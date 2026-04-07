@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 10
 chunk_heading: 放出国签证
 source_path: 2023/1/25.md
+summary: 有人说全面开放出国签证就解决了，纯粹是一种可能连没有、连签证都没有办过的一种幼稚的幻想
+usage_hint: 适合在直播问答场景中核对与“有人说全面开放出国签证就解决了，纯粹是一种可能连没有、连签证”相关的节目级细节。
 ---
 
 # 放出国签证

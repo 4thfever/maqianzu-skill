@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1016】半月谈 中国新闻周刊 要看实体版",
+      "question": "",
+      "summary": "经常有观众在各个平台问我，类似于睡前消息，还有哪些中国媒体也关注中国问题",
+      "usage_hint": "适合在需要节目级细节时补充与“经常有观众在各个平台问我，类似于睡前消息，还有哪些中国媒体也”相关的节目论据。"
+    }
+  ],
+  "date": "2026-02-08",
+  "date_source": "body_explicit",
+  "description": "睡前消息并不孤独，起码还有两个前辈也在谈国内问题。",
+  "episode_id": "main-1001-1100-1016",
+  "keywords": [],
+  "source_path": "1001-1100/1016.md",
+  "source_type": "main",
+  "summary": "睡前消息并不孤独，起码还有两个前辈也在谈国内问题。",
+  "title": "【睡前消息1016】半月谈 中国新闻周刊 要看实体版",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 1,
+    "international": 0,
+    "media": 2,
+    "society": 0
+  },
+  "topics": [
+    "industry",
+    "media"
+  ]
+}

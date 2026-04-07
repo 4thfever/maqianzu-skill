@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息930】75公顷颐和园，1221个事业编",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-07-25",
+  "date_source": "body_explicit",
+  "description": "0.75平方公里的颐和园，需要1221个事业编制来管理。很多事情就怕多问一句“为什么会这样”？",
+  "episode_id": "main-901-1000-930",
+  "keywords": [],
+  "source_path": "901-1000/930.md",
+  "source_type": "main",
+  "summary": "0.75平方公里的颐和园，需要1221个事业编制来管理。很多事情就怕多问一句“为什么会这样”？",
+  "title": "【睡前消息930】75公顷颐和园，1221个事业编",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 0,
+    "media": 0,
+    "society": 3
+  },
+  "topics": [
+    "society"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: main-301-400-301
 chunk_index: 3
 chunk_heading: 督工你怎么评价他的观点？
 source_path: 301-400/301.md
+summary: 按这个说法，大多数公务员可以下岗了
+usage_hint: 适合在需要节目级细节时补充与“按这个说法，大多数公务员可以下岗了”相关的节目论据。
 ---
 
 # 督工你怎么评价他的观点？

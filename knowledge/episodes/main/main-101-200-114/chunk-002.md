@@ -7,6 +7,8 @@ episode_id: main-101-200-114
 chunk_index: 2
 chunk_heading: BBC的收税能力，比大多数国家的税务局都厉害。他们很缺钱吗？
 source_path: 101-200/114.md
+summary: BBC每年收入大约50亿英镑，其中四分之三是BBC税
+usage_hint: 适合在需要节目级细节时补充与“BBC每年收入大约50亿英镑，其中四分之三是BBC税”相关的节目论据。
 ---
 
 # BBC的收税能力，比大多数国家的税务局都厉害。他们很缺钱吗？

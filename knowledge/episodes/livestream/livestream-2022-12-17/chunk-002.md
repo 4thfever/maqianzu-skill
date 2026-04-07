@@ -7,6 +7,8 @@ episode_id: livestream-2022-12-17
 chunk_index: 2
 chunk_heading: 马督工名字由来
 source_path: 2022/12/17.md
+summary: 我过去当过包工头，所以马督工这名字就算是描述我自己
+usage_hint: 适合在直播问答场景中核对与“我过去当过包工头，所以马督工这名字就算是描述我自己”相关的节目级细节。
 ---
 
 # 马督工名字由来

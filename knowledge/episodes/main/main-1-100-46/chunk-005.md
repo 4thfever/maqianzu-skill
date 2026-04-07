@@ -7,6 +7,8 @@ episode_id: main-1-100-46
 chunk_index: 5
 chunk_heading: 那，到底中医要不要用现代临床医学的标准来衡量自己呢？
 source_path: 1-100/46.md
+summary: 这真的是个立场问题
+usage_hint: 适合在需要节目级细节时补充与“这真的是个立场问题”相关的节目论据。
 ---
 
 # 那，到底中医要不要用现代临床医学的标准来衡量自己呢？

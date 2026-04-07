@@ -7,6 +7,8 @@ episode_id: main-1-100-13
 chunk_index: 7
 chunk_heading: 罗布泊已经没什么居民了，为什么要建这么大的人工湖？
 source_path: 1-100/13.md
+summary: 因为中国要生产钾肥
+usage_hint: 适合在需要节目级细节时补充与“因为中国要生产钾肥”相关的节目论据。
 ---
 
 # 罗布泊已经没什么居民了，为什么要建这么大的人工湖？

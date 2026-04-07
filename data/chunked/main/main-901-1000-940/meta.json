@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息940】日本间谍渗透台积电，2纳米技术偷不来",
+      "question": "",
+      "summary": "近日，台湾媒体报道，台积电内部爆发泄密事件，涉案人数多达9人，职位分布在研发与生产线部门",
+      "usage_hint": "适合在需要节目级细节时补充与“近日，台湾媒体报道，台积电内部爆发泄密事件，涉案人数多达9人”相关的节目论据。"
+    }
+  ],
+  "date": "2025-08-17",
+  "date_source": "body_explicit",
+  "description": "日本商业间谍拿到了台积电上千张照片，同时日本企业也在推进自己的2纳米技术。如果两者有联系，那就太有趣了。",
+  "episode_id": "main-901-1000-940",
+  "keywords": [],
+  "source_path": "901-1000/940.md",
+  "source_type": "main",
+  "summary": "日本商业间谍拿到了台积电上千张照片，同时日本企业也在推进自己的2纳米技术。如果两者有联系，那就太有趣了。",
+  "title": "【睡前消息940】日本间谍渗透台积电，2纳米技术偷不来",
+  "topic_scores": {
+    "economy": 5,
+    "governance": 0,
+    "industry": 13,
+    "international": 9,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "industry"
+  ]
+}

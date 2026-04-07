@@ -7,6 +7,8 @@ episode_id: main-winterbreak2023-3
 chunk_index: 1
 chunk_heading: 春节高速免费 社会主义羊毛薅秃我自己
 source_path: winterbreak2023/3.md
+summary: 我平时住苏州，江苏省最南边；家乡在平泉市，河北省东北角
+usage_hint: 适合在需要节目级细节时补充与“我平时住苏州，江苏省最南边；家乡在平泉市，河北省东北角”相关的节目论据。
 ---
 
 # 春节高速免费 社会主义羊毛薅秃我自己

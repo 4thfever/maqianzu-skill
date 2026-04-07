@@ -7,6 +7,8 @@ episode_id: main-1-100-42
 chunk_index: 1
 chunk_heading: 对于这种社会现象，督工你怎么看？
 source_path: 1-100/42.md
+summary: 这件事，我不是旁观者，而是当事人
+usage_hint: 适合在需要节目级细节时补充与“这件事，我不是旁观者，而是当事人”相关的节目论据。
 ---
 
 # 对于这种社会现象，督工你怎么看？

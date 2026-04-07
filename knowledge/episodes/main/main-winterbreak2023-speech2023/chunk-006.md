@@ -7,6 +7,8 @@ episode_id: main-winterbreak2023-speech2023
 chunk_index: 6
 chunk_heading: 世界是个草台班子，但**我们**不是！
 source_path: winterbreak2023/speech2023.md
+summary: 历史经验证明，一群普通人、一批草台班子联合起来，互相利用对方的优点，发挥自己的创造力，也能做出伟大的作品
+usage_hint: 适合在需要节目级细节时补充与“历史经验证明，一群普通人、一批草台班子联合起来，互相利用对方”相关的节目论据。
 ---
 
 # 世界是个草台班子，但**我们**不是！

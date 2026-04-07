@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "纠结清明烧纸，毛主席的“礼”去哪了？",
+      "question": "",
+      "summary": "都2024年了，中国还在纠结清明烧纸问题，说明毛主席的路线没贯彻到底",
+      "usage_hint": "适合在需要节目级细节时补充与“都2024年了，中国还在纠结清明烧纸问题，说明毛主席的路线没”相关的节目论据。"
+    }
+  ],
+  "date": "2024-04-13",
+  "date_source": "front_matter_fallback",
+  "description": "马督公评价清明烧纸祭祀问题，文章刊载于“睡前人间”公众号。(https://mp.weixin.qq.com/s/ZrHL7bGxJqJvwHrw99y2xg)",
+  "episode_id": "main-winterbreak2023-6",
+  "keywords": [],
+  "source_path": "winterbreak2023/6.md",
+  "source_type": "main",
+  "summary": "马督公评价清明烧纸祭祀问题，文章刊载于“睡前人间”公众号。(https://mp.weixin.qq.com/s/ZrHL7bGxJqJvwHrw99y2xg)",
+  "title": "纠结清明烧纸，毛主席的“礼”去哪了？",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 0,
+    "international": 0,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "governance"
+  ]
+}

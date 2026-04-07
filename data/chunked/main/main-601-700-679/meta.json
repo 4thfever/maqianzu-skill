@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息679】人口第一县 幼儿园洗牌",
+      "question": "",
+      "summary": "11月中旬，多家媒体报道，中国人口第一大县——临泉县的幼儿园数量暴跌",
+      "usage_hint": "适合在需要节目级细节时补充与“11月中旬，多家媒体报道，中国人口第一大县——临泉县的幼儿园”相关的节目论据。"
+    }
+  ],
+  "date": "2023-12-05",
+  "date_source": "body_explicit",
+  "description": "全国户籍最多的县是安徽临泉，229万人口，超过很多地级市。临泉县关闭50家幼儿园，被看做中国人口变化的标志。但背后的深层原因，和看上去正好相反。",
+  "episode_id": "main-601-700-679",
+  "keywords": [],
+  "source_path": "601-700/679.md",
+  "source_type": "main",
+  "summary": "全国户籍最多的县是安徽临泉，229万人口，超过很多地级市。临泉县关闭50家幼儿园，被看做中国人口变化的标志。但背后的深层原因，和看上去正好相反。",
+  "title": "【睡前消息679】人口第一县 幼儿园洗牌",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 1,
+    "industry": 0,
+    "international": 0,
+    "media": 1,
+    "society": 16
+  },
+  "topics": [
+    "society"
+  ]
+}

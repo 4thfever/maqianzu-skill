@@ -7,6 +7,8 @@ episode_id: main-501-600-540
 chunk_index: 6
 chunk_heading: 什么是盐选作者？
 source_path: 501-600/540.md
+summary: 盐选作者即盐选专栏的签约作者
+usage_hint: 适合在需要节目级细节时补充与“盐选作者即盐选专栏的签约作者”相关的节目论据。
 ---
 
 # 什么是盐选作者？

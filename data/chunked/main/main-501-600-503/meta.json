@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息503】文化跟着经济走，10月资讯集锦",
+      "question": "",
+      "summary": "10月新闻多，漏过的更多，帮助观众做简要回顾",
+      "usage_hint": "适合在需要节目级细节时补充与“10月新闻多，漏过的更多，帮助观众做简要回顾”相关的节目论据。"
+    }
+  ],
+  "date": "2022-10-28",
+  "date_source": "body_explicit",
+  "description": "10月新闻多，漏过的更多，帮助观众做简要回顾。",
+  "episode_id": "main-501-600-503",
+  "keywords": [],
+  "source_path": "501-600/503.md",
+  "source_type": "main",
+  "summary": "10月新闻多，漏过的更多，帮助观众做简要回顾。",
+  "title": "【睡前消息503】文化跟着经济走，10月资讯集锦",
+  "topic_scores": {
+    "economy": 3,
+    "governance": 0,
+    "industry": 0,
+    "international": 0,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "economy"
+  ]
+}

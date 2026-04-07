@@ -7,6 +7,8 @@ episode_id: livestream-2022-12-17
 chunk_index: 1
 chunk_heading: 找猫公司
 source_path: 2022/12/17.md
+summary: 前两天找猫花了 7800 块钱， 把它在我离我房间差不多 100 米的地方找回来的
+usage_hint: 适合在直播问答场景中核对与“前两天找猫花了 7800 块钱， 把它在我离我房间差不多 1”相关的节目级细节。
 ---
 
 # 找猫公司

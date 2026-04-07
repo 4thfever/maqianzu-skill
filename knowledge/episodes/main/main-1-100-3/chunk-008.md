@@ -7,6 +7,8 @@ episode_id: main-1-100-3
 chunk_index: 8
 chunk_heading: 现在什么人守着台湾省国民党的利益？
 source_path: 1-100/3.md
+summary: 是一群台湾省全体人民都讨厌的老官僚
+usage_hint: 适合在需要节目级细节时补充与“是一群台湾省全体人民都讨厌的老官僚”相关的节目论据。
 ---
 
 # 现在什么人守着台湾省国民党的利益？

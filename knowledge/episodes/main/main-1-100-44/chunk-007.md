@@ -7,6 +7,8 @@ episode_id: main-1-100-44
 chunk_index: 7
 chunk_heading: 美国人为什么不喜欢坐火车呢？
 source_path: 1-100/44.md
+summary: 因为美铁公司的火车又慢又贵
+usage_hint: 适合在需要节目级细节时补充与“因为美铁公司的火车又慢又贵”相关的节目论据。
 ---
 
 # 美国人为什么不喜欢坐火车呢？

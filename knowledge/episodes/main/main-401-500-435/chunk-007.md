@@ -7,6 +7,8 @@ episode_id: main-401-500-435
 chunk_index: 7
 chunk_heading: 美国这两种重型火箭，哪一个影响更大呢？
 source_path: 401-500/435.md
+summary: 肯定是马斯克的星舰
+usage_hint: 适合在需要节目级细节时补充与“肯定是马斯克的星舰”相关的节目论据。
 ---
 
 # 美国这两种重型火箭，哪一个影响更大呢？

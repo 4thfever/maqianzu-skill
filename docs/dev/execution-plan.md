@@ -1,12 +1,15 @@
-# 马前卒 Skill 执行计划
+# 马前卒仓库执行计划
+
+> 说明：本文件主要记录项目早期的设计计划与实施思路，保留了当时的部分措辞和阶段目标。
+> 当前仓库的实际主入口与使用方式，请以顶层 `README.md`、`AGENTS.md` 和 `GETTING_STARTED.md` 为准。
 
 ## 1. 项目目标
 
 ### 1.1 目标定义
 
-本项目最初的目标，是将当前仓库重构为一个可供本地 agent 使用的 `maqianzu` skill。
+本项目最初的目标，是将当前仓库重构为一个可供本地 agent 使用的 `maqianzu` 分析仓库。
 
-该 skill 的核心能力是以马前卒本人的口吻回复问题。
+该仓库的核心能力是用更接近马前卒公开分析路径的方式回复问题。
 
 - 基于公开节目材料与整理后的知识库
 - 按照马前卒常见的分析路径组织思考
@@ -30,14 +33,14 @@
 
 ## 2. 当前仓库现状判断
 
-当前仓库来自 `therealXiaomanChu/ex-skill` 的复制版本，仍保留明显的原模板痕迹：
+项目早期的仓库来自 `therealXiaomanChu/ex-skill` 的复制版本，当时仍保留明显的原模板痕迹：
 
-- `SKILL.md` 仍然是“前任 skill 创建器”的触发逻辑与工具说明
+- 顶层 `SKILL.md` 当时仍然是“前任 skill 创建器”的触发逻辑与工具说明
 - `README.md` 仅做了表层替换，内容与当前目标不一致
-- `INSTALL.md`、`docs/PRD.md`、`docs/COMPLIANCE.md`、`prompts/session_summary.md` 等内容与目标不匹配
+- `INSTALL.md`、`docs/PRD.md`、`docs/COMPLIANCE.md`、`prompts/session_summary.md` 等内容当时与目标不匹配
 - `tools/` 目录为空，尚未建立可复用的数据处理流水线
 
-结论：本项目应视为“保留基础 skill 仓库壳子后的重建”，而不是“小修小改”。
+结论：项目当时应视为“保留基础 skill 仓库壳子后的重建”，而不是“小修小改”。
 
 ## 3. 总体实施路径
 

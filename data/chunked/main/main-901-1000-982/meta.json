@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息982】全球最佳机场 吓跑郑智化",
+      "question": "",
+      "summary": "11月25日，台湾歌手郑智化在深圳机场乘飞机",
+      "usage_hint": "适合在需要节目级细节时补充与“11月25日，台湾歌手郑智化在深圳机场乘飞机”相关的节目论据。"
+    }
+  ],
+  "date": "2025-11-23",
+  "date_source": "body_explicit",
+  "description": "今年3月，深圳机场向全国报喜讯。国际机场协会测评旅客体验，颁发年度机场服务质量（ASQ）大奖，深圳综合排名第一。郑智化作为见过大世面的旅客，很快就来评测深圳机场的服务质量。",
+  "episode_id": "main-901-1000-982",
+  "keywords": [],
+  "source_path": "901-1000/982.md",
+  "source_type": "main",
+  "summary": "今年3月，深圳机场向全国报喜讯。国际机场协会测评旅客体验，颁发年度机场服务质量（ASQ）大奖，深圳综合排名第一。郑智化作为见过大世面的旅客，很快就来评测深圳机场的服务质量。",
+  "title": "【睡前消息982】全球最佳机场 吓跑郑智化",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 2,
+    "international": 3,
+    "media": 7,
+    "society": 1
+  },
+  "topics": [
+    "media"
+  ]
+}

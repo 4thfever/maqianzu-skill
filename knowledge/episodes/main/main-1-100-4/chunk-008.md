@@ -7,6 +7,8 @@ episode_id: main-1-100-4
 chunk_index: 8
 chunk_heading: 这么说，5g时代又轮到他们抢跑了对吗？
 source_path: 1-100/4.md
+summary: 的确英国有这个想法，他们的5G网络已经试运行
+usage_hint: 适合在需要节目级细节时补充与“的确英国有这个想法，他们的5G网络已经试运行”相关的节目论据。
 ---
 
 # 这么说，5g时代又轮到他们抢跑了对吗？

@@ -7,6 +7,8 @@ episode_id: main-101-200-171
 chunk_index: 4
 chunk_heading: 特朗普对TikTok的态度，为什么忽然从消极无视，变成积极压制呢？
 source_path: 101-200/171.md
+summary: 事情的转折点发生今年6月20号
+usage_hint: 适合在需要节目级细节时补充与“事情的转折点发生今年6月20号”相关的节目论据。
 ---
 
 # 特朗普对TikTok的态度，为什么忽然从消极无视，变成积极压制呢？

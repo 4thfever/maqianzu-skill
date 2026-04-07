@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息40】巴西犯罪集团最怕谁？答：另一个犯罪集团",
+      "question": "",
+      "summary": "睡前消息1110： 一款争议药品； 四川乡镇合并； 巴西马瑙斯市犯罪问题",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息1110： 一款争议药品； 四川乡镇合并； 巴西马瑙”相关的节目论据。"
+    }
+  ],
+  "date": "2019-11-10",
+  "date_source": "body_explicit",
+  "description": "",
+  "episode_id": "main-1-100-40",
+  "keywords": [],
+  "source_path": "1-100/40.md",
+  "source_type": "main",
+  "summary": "睡前消息1110： 一款争议药品； 四川乡镇合并； 巴西马瑙斯市犯罪问题",
+  "title": "【睡前消息40】巴西犯罪集团最怕谁？答：另一个犯罪集团",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 1,
+    "international": 0,
+    "media": 1,
+    "society": 2
+  },
+  "topics": [
+    "industry",
+    "society"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息677】红米十年纪念+近期消息回顾",
+      "question": "",
+      "summary": "请静静介绍话题： 11月29日，红米品牌成立十周年，督工，我记得你之前也用过很久红米手机，你怎么评价这个品牌",
+      "usage_hint": "适合在需要节目级细节时补充与“请静静介绍话题： 11月29日，红米品牌成立十周年，督工，我”相关的节目论据。"
+    }
+  ],
+  "date": "2023-12-01",
+  "date_source": "body_explicit",
+  "description": "一周不见，睡前消息继续更新，带来内容丰富的一期。",
+  "episode_id": "main-601-700-677",
+  "keywords": [],
+  "source_path": "601-700/677.md",
+  "source_type": "main",
+  "summary": "一周不见，睡前消息继续更新，带来内容丰富的一期。",
+  "title": "【睡前消息677】红米十年纪念+近期消息回顾",
+  "topic_scores": {
+    "economy": 4,
+    "governance": 0,
+    "industry": 1,
+    "international": 0,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "economy"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: main-501-600-558
 chunk_index: 5
 chunk_heading: 督工你怎么看待他们的评价？
 source_path: 501-600/558.md
+summary: 我首先虚心接受这句话
+usage_hint: 适合在需要节目级细节时补充与“我首先虚心接受这句话”相关的节目论据。
 ---
 
 # 督工你怎么看待他们的评价？

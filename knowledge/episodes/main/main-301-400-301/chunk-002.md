@@ -7,6 +7,8 @@ episode_id: main-301-400-301
 chunk_index: 2
 chunk_heading: 督工你对这条评论怎么看？
 source_path: 301-400/301.md
+summary: 老观众喜欢把睡前消息称为“税前消息”
+usage_hint: 适合在需要节目级细节时补充与“老观众喜欢把睡前消息称为“税前消息””相关的节目论据。
 ---
 
 # 督工你对这条评论怎么看？

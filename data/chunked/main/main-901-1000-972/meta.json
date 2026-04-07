@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息972】用民进党打法 做国民党主席",
+      "question": "",
+      "summary": "10月18号，国民党主席选举结果出炉，前立法委员、国民党民意代表郑丽文当选",
+      "usage_hint": "适合在需要节目级细节时补充与“10月18号，国民党主席选举结果出炉，前立法委员、国民党民意”相关的节目论据。"
+    }
+  ],
+  "date": "2025-10-31",
+  "date_source": "body_explicit",
+  "description": "民进党“叛徒”郑丽文当选国民党主席。民众党的柯文哲和民进党不死不休。赖清德惹上了几个看着不爽，一时又干不掉的对手。",
+  "episode_id": "main-901-1000-972",
+  "keywords": [],
+  "source_path": "901-1000/972.md",
+  "source_type": "main",
+  "summary": "民进党“叛徒”郑丽文当选国民党主席。民众党的柯文哲和民进党不死不休。赖清德惹上了几个看着不爽，一时又干不掉的对手。",
+  "title": "【睡前消息972】用民进党打法 做国民党主席",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 4,
+    "industry": 0,
+    "international": 0,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "governance"
+  ]
+}

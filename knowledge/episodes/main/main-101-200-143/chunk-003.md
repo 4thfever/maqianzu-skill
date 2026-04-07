@@ -7,6 +7,8 @@ episode_id: main-101-200-143
 chunk_index: 3
 chunk_heading: **近些年很多中国人到欧洲旅行，对当地治安很不满意。现在警方破获了EncroChat，治安会好一点吗？**
 source_path: 101-200/143.md
+summary: 荷兰中央警察局局长古登说，EncroChat系统几乎是欧洲跨国犯罪的中枢神经
+usage_hint: 适合在需要节目级细节时补充与“荷兰中央警察局局长古登说，EncroChat系统几乎是欧洲跨”相关的节目论据。
 ---
 
 # **近些年很多中国人到欧洲旅行，对当地治安很不满意。现在警方破获了EncroChat，治安会好一点吗？**

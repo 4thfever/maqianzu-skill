@@ -7,6 +7,8 @@ episode_id: livestream-2022-12-17
 chunk_index: 4
 chunk_heading: 湖南的经济现状
 source_path: 2022/12/17.md
+summary: 有人让我评价一下湖南的经济现状，湖南、江西这算难兄难弟了
+usage_hint: 适合在直播问答场景中核对与“有人让我评价一下湖南的经济现状，湖南、江西这算难兄难弟了”相关的节目级细节。
 ---
 
 # 湖南的经济现状

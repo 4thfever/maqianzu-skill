@@ -7,6 +7,8 @@ episode_id: main-1-100-21
 chunk_index: 5
 chunk_heading: 乐高能在法律上打败盗版，是因为它的专利吗？
 source_path: 1-100/21.md
+summary: 乐高的软力量主要体现在两方面
+usage_hint: 适合在需要节目级细节时补充与“乐高的软力量主要体现在两方面”相关的节目论据。
 ---
 
 # 乐高能在法律上打败盗版，是因为它的专利吗？

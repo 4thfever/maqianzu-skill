@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 15
 chunk_heading: 公关公司
 source_path: 2023/1/7.md
+summary: 我嘲笑当中，因为是我们中国现在是个非常激强的公关
+usage_hint: 适合在直播问答场景中核对与“我嘲笑当中，因为是我们中国现在是个非常激强的公关”相关的节目级细节。
 ---
 
 # 公关公司

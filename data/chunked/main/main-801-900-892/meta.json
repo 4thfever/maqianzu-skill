@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息892】拆英国钢铁厂，印度比中国更专业",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-04-27",
+  "date_source": "body_explicit",
+  "description": "印度塔塔公司和中国敬业集团，拥有英国最后的两家钢铁厂。塔塔公司先跑为敬，以改造的名义关厂，把“英国最后钢铁工业”的荣誉留给了中国人。现在看来印度人的确更懂英国。",
+  "episode_id": "main-801-900-892",
+  "keywords": [],
+  "source_path": "801-900/892.md",
+  "source_type": "main",
+  "summary": "印度塔塔公司和中国敬业集团，拥有英国最后的两家钢铁厂。塔塔公司先跑为敬，以改造的名义关厂，把“英国最后钢铁工业”的荣誉留给了中国人。现在看来印度人的确更懂英国。",
+  "title": "【睡前消息892】拆英国钢铁厂，印度比中国更专业",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 5,
+    "industry": 1,
+    "international": 0,
+    "media": 2,
+    "society": 0
+  },
+  "topics": [
+    "governance"
+  ]
+}

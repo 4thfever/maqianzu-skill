@@ -7,6 +7,8 @@ episode_id: main-1-100-91
 chunk_index: 4
 chunk_heading: 督工你赞同我们也学习美国的相关规定吗？
 source_path: 1-100/91.md
+summary: 在这个问题上，我是赞同学习美国的
+usage_hint: 适合在需要节目级细节时补充与“在这个问题上，我是赞同学习美国的”相关的节目论据。
 ---
 
 # 督工你赞同我们也学习美国的相关规定吗？

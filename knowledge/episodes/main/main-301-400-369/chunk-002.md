@@ -7,6 +7,8 @@ episode_id: main-301-400-369
 chunk_index: 2
 chunk_heading: 督工你怎么看待这次罚款事件？
 source_path: 301-400/369.md
+summary: 我先给观众简单介绍一下霸州
+usage_hint: 适合在需要节目级细节时补充与“我先给观众简单介绍一下霸州”相关的节目论据。
 ---
 
 # 督工你怎么看待这次罚款事件？

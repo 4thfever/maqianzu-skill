@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 6
 chunk_heading: 将来烟大海底隧道会修吗？
 source_path: 2023/5/6.md
+summary: 我个人觉得不会修了
+usage_hint: 适合在直播问答场景中核对与“我个人觉得不会修了”相关的节目级细节。
 ---
 
 # 将来烟大海底隧道会修吗？

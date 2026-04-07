@@ -7,6 +7,8 @@ episode_id: main-201-300-222
 chunk_index: 3
 chunk_heading: 2020年12月23日和24日，山西省河曲县和浮山县分别召开干部大会，开展“人口小县机构改革试点”工作。 http://www.sxdygbjy.gov.cn/content/2020-12/25/3_302751.html http://www.fushan.gov.cn/contents/2876/718666.html 督工，这是全国的统一安排吗？
 source_path: 201-300/222.md
+summary: 这是山西省的自选动作，但很可能引发全国其他地区跟进
+usage_hint: 适合在需要节目级细节时补充与“这是山西省的自选动作，但很可能引发全国其他地区跟进”相关的节目论据。
 ---
 
 # 2020年12月23日和24日，山西省河曲县和浮山县分别召开干部大会，开展“人口小县机构改革试点”工作。 http://www.sxdygbjy.gov.cn/content/2020-12/25/3_302751.html http://www.fushan.gov.cn/contents/2876/718666.html 督工，这是全国的统一安排吗？

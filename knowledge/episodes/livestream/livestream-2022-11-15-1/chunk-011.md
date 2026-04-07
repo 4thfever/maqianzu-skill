@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-1
 chunk_index: 11
 chunk_heading: 赛博农业
 source_path: 2022/11/15-1.md
+summary: 有人问有没有可能把东南亚改造成我们国的粮仓，以后中国的粮仓弄不好在上海
+usage_hint: 适合在直播问答场景中核对与“有人问有没有可能把东南亚改造成我们国的粮仓，以后中国的粮仓弄”相关的节目级细节。
 ---
 
 # 赛博农业

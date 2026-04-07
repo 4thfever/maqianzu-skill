@@ -7,6 +7,8 @@ episode_id: main-1-100-24
 chunk_index: 1
 chunk_heading: （应该是1999年？）
 source_path: 1-100/24.md
+summary: 我是1981年生人，我对国庆节的记忆从35周年开始
+usage_hint: 适合在需要节目级细节时补充与“我是1981年生人，我对国庆节的记忆从35周年开始”相关的节目论据。
 ---
 
 # （应该是1999年？）

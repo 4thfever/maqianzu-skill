@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 24
 chunk_heading: 口腔行业
 source_path: 2023/5/6.md
+summary: 口腔行业你们现在不就得赚大钱吗
+usage_hint: 适合在直播问答场景中核对与“口腔行业你们现在不就得赚大钱吗”相关的节目级细节。
 ---
 
 # 口腔行业

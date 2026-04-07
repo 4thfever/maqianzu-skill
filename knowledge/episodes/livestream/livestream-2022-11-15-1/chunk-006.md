@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-1
 chunk_index: 6
 chunk_heading: 如何看待营口的未来？
 source_path: 2022/11/15-1.md
+summary: 我还真在营口生活过一段时间
+usage_hint: 适合在直播问答场景中核对与“我还真在营口生活过一段时间”相关的节目级细节。
 ---
 
 # 如何看待营口的未来？

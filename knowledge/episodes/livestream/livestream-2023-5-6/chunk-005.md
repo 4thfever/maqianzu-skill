@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 5
 chunk_heading: 产业升级
 source_path: 2023/5/6.md
+summary: 简单的说产业升级你才有生活不那么规律的选择，不再统一放假的选择
+usage_hint: 适合在直播问答场景中核对与“简单的说产业升级你才有生活不那么规律的选择，不再统一放假的选”相关的节目级细节。
 ---
 
 # 产业升级

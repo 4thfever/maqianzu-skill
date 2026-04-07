@@ -7,6 +7,8 @@ episode_id: main-501-600-572
 chunk_index: 2
 chunk_heading: 全宇元是怎么描述自己家族的？
 source_path: 501-600/572.md
+summary: 一句话概括，就是全斗焕家没好人
+usage_hint: 适合在需要节目级细节时补充与“一句话概括，就是全斗焕家没好人”相关的节目论据。
 ---
 
 # 全宇元是怎么描述自己家族的？

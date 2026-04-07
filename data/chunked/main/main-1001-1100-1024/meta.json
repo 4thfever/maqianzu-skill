@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1024】奔袭丽江 滇西三城轨道交通纪",
+      "question": "",
+      "summary": "老观众都知道，我最喜欢围观投资大、回报少的超级项目",
+      "usage_hint": "适合在需要节目级细节时补充与“老观众都知道，我最喜欢围观投资大、回报少的超级项目”相关的节目论据。"
+    }
+  ],
+  "date": "2026-03-17",
+  "date_source": "front_matter_fallback",
+  "description": "听说玉龙雪山观光火车2月12日停运，马督工扔下键盘冲出编辑部，路上抢到了去丽江的最早一班机票。",
+  "episode_id": "main-1001-1100-1024",
+  "keywords": [],
+  "source_path": "1001-1100/1024.md",
+  "source_type": "main",
+  "summary": "听说玉龙雪山观光火车2月12日停运，马督工扔下键盘冲出编辑部，路上抢到了去丽江的最早一班机票。",
+  "title": "【睡前消息1024】奔袭丽江 滇西三城轨道交通纪",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 4,
+    "international": 0,
+    "media": 5,
+    "society": 1
+  },
+  "topics": [
+    "industry",
+    "media"
+  ]
+}

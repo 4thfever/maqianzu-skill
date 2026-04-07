@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息921】观众做了个AI产品 对我有威胁",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-07-08",
+  "date_source": "front_matter_fallback",
+  "description": "2018年，有一位电动汽车行业的读者来访，我问他：电动汽车动摇燃油车的地位要几年？他说五年，我不以为然。 2025年，做AI创业的观众来访，我问他AI颠覆世界要几年？他给了一个同样的回答——五年。",
+  "episode_id": "main-901-1000-921",
+  "keywords": [],
+  "source_path": "901-1000/921.md",
+  "source_type": "main",
+  "summary": "2018年，有一位电动汽车行业的读者来访，我问他：电动汽车动摇燃油车的地位要几年？他说五年，我不以为然。 2025年，做AI创业的观众来访，我问他AI颠覆世界要几年？他给了一个同样的回答——五年。",
+  "title": "【睡前消息921】观众做了个AI产品 对我有威胁",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 2,
+    "international": 0,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "industry"
+  ]
+}

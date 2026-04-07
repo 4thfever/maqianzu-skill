@@ -7,6 +7,8 @@ episode_id: livestream-2022-12-17
 chunk_index: 5
 chunk_heading: 怎么看汕头？
 source_path: 2022/12/17.md
+summary: 怎么看汕头，我说潮汕可能也说了不是一天两天了，也不是一期两期节目了
+usage_hint: 适合在直播问答场景中核对与“怎么看汕头，我说潮汕可能也说了不是一天两天了，也不是一期两期”相关的节目级细节。
 ---
 
 # 怎么看汕头？

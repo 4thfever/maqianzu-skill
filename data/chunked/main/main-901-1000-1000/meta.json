@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1000】身后是一千，小目标是一万",
+      "question": "",
+      "summary": "睡前消息用了七年时间，终于做到了四位数期号，感谢各位观众的一路陪伴",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息用了七年时间，终于做到了四位数期号，感谢各位观众的一”相关的节目论据。"
+    }
+  ],
+  "date": "2026-01-01",
+  "date_source": "body_explicit",
+  "description": "1000期节目，跨越了7年时间。接下来，我们打算先做到一万期，再安排22世纪的工作时间表。",
+  "episode_id": "main-901-1000-1000",
+  "keywords": [],
+  "source_path": "901-1000/1000.md",
+  "source_type": "main",
+  "summary": "1000期节目，跨越了7年时间。接下来，我们打算先做到一万期，再安排22世纪的工作时间表。",
+  "title": "【睡前消息1000】身后是一千，小目标是一万",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 3,
+    "industry": 0,
+    "international": 0,
+    "media": 6,
+    "society": 1
+  },
+  "topics": [
+    "media"
+  ]
+}

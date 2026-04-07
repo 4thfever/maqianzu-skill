@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 17
 chunk_heading: 杭州未来的发展
 source_path: 2023/1/25.md
+summary: 有时候我总看杭州未来的发展，杭州怎么说
+usage_hint: 适合在直播问答场景中核对与“有时候我总看杭州未来的发展，杭州怎么说”相关的节目级细节。
 ---
 
 # 杭州未来的发展

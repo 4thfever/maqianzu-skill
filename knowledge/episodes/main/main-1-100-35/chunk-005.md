@@ -7,6 +7,8 @@ episode_id: main-1-100-35
 chunk_index: 5
 chunk_heading: 中国在这方面做的怎么样？
 source_path: 1-100/35.md
+summary: 有很多制度上的障碍，但也有我们的优势
+usage_hint: 适合在需要节目级细节时补充与“有很多制度上的障碍，但也有我们的优势”相关的节目论据。
 ---
 
 # 中国在这方面做的怎么样？

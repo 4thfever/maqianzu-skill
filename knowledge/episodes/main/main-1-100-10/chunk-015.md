@@ -7,6 +7,8 @@ episode_id: main-1-100-10
 chunk_index: 15
 chunk_heading: 就是说，你想让江南背上100%的责任？
 source_path: 1-100/10.md
+summary: 如果没有鹿晗，江南肯定要全面负责了
+usage_hint: 适合在需要节目级细节时补充与“如果没有鹿晗，江南肯定要全面负责了”相关的节目论据。
 ---
 
 # 就是说，你想让江南背上100%的责任？

@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息665】惠州房价过山车 背后半部当代史（中）——冷战打手统一教",
+      "question": "",
+      "summary": "文字稿内容",
+      "usage_hint": "适合在需要节目级细节时补充与“文字稿内容”相关的节目论据。"
+    }
+  ],
+  "date": "2023-11-11",
+  "date_source": "front_matter_fallback",
+  "description": "各国保守右翼在意识形态方面有共同点，但要联合起来，还需要一支跨越政治和文化领域的粘合剂。文鲜明体验过朝韩冷战前线的政治压力，接受过日本教育，熟悉基督教文化，成为跨国统一教的领袖，有必然性。",
+  "episode_id": "main-601-700-665",
+  "keywords": [],
+  "source_path": "601-700/665.md",
+  "source_type": "main",
+  "summary": "各国保守右翼在意识形态方面有共同点，但要联合起来，还需要一支跨越政治和文化领域的粘合剂。文鲜明体验过朝韩冷战前线的政治压力，接受过日本教育，熟悉基督教文化，成为跨国统一教的领袖，有必然性。",
+  "title": "【睡前消息665】惠州房价过山车 背后半部当代史（中）——冷战打手统一教",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 0,
+    "international": 1,
+    "media": 0,
+    "society": 1
+  },
+  "topics": [
+    "economy",
+    "international"
+  ]
+}

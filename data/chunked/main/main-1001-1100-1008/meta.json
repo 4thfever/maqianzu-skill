@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1008】2025全年盘点（上 国内部分）",
+      "question": "",
+      "summary": "关注我们的朋友都知道，每到年底，睡前消息都会做一次全年新闻回顾",
+      "usage_hint": "适合在需要节目级细节时补充与“关注我们的朋友都知道，每到年底，睡前消息都会做一次全年新闻回”相关的节目论据。"
+    }
+  ],
+  "date": "2026-01-20",
+  "date_source": "body_explicit",
+  "description": "从2022年开始，年终盘点传统一直保持。今年依旧是迟到但不缺席。",
+  "episode_id": "main-1001-1100-1008",
+  "keywords": [],
+  "source_path": "1001-1100/1008.md",
+  "source_type": "main",
+  "summary": "从2022年开始，年终盘点传统一直保持。今年依旧是迟到但不缺席。",
+  "title": "【睡前消息1008】2025全年盘点（上 国内部分）",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 1,
+    "international": 0,
+    "media": 1,
+    "society": 2
+  },
+  "topics": [
+    "industry",
+    "society"
+  ]
+}

@@ -30,6 +30,12 @@ DATE_SEARCH_NOISE_RE = re.compile(
     r"# Tabs \{\.tabset\}.*?\n#\n|<iframe.*?</iframe>|<div.*?>|</div>",
     re.DOTALL | re.IGNORECASE,
 )
+GENERIC_SUMMARY_PATTERNS = (
+    re.compile(r"^大家好[，,\s]"),
+    re.compile(r"^欢迎收看"),
+    re.compile(r"^今天[我们咱]"),
+    re.compile(r"^本期[我们咱]"),
+)
 
 
 @dataclass
@@ -44,6 +50,57 @@ class Episode:
     body: str
     description: str
     episode_id: str
+
+
+def derive_content_summary(text: str, max_len: int = 120) -> str:
+    """Build a short single-line summary from chunk or episode content."""
+    cleaned = re.sub(r"\s+", " ", text).strip()
+    cleaned = re.sub(r"^(#\s*)+", "", cleaned)
+    cleaned = re.sub(r"^\W+", "", cleaned)
+    if not cleaned:
+        return ""
+    sentences = [part.strip() for part in SENTENCE_SPLIT_RE.split(cleaned) if part.strip()]
+    summary = ""
+    for candidate in sentences[:6]:
+        if is_generic_summary(candidate):
+            continue
+        if len(candidate) < 8 and len(sentences) > 1:
+            continue
+        summary = candidate
+        break
+    if not summary:
+        summary = sentences[0] if sentences else cleaned
+    return summary[:max_len].rstrip("，,；;。 ")
+
+
+def derive_usage_hint(source_type: str, heading: str, summary: str) -> str:
+    """Build a lightweight usage hint for chunk-level citation."""
+    basis = summary if summary and not is_generic_summary(summary) else heading
+    basis = cleanup_hint_basis(basis)
+    if not basis:
+        return "适合在需要节目级细节时作为补充证据读取。"
+    if source_type == "livestream":
+        return f"适合在直播问答场景中核对与“{basis[:30]}”相关的节目级细节。"
+    return f"适合在需要节目级细节时补充与“{basis[:30]}”相关的节目论据。"
+
+
+def is_generic_summary(text: str) -> bool:
+    """Return whether a summary candidate is likely just an intro line."""
+    cleaned = re.sub(r"\s+", "", text).strip("，,；;。:： ")
+    if not cleaned:
+        return True
+    if re.fullmatch(r"[#\-*]+", cleaned):
+        return True
+    return any(pattern.search(cleaned) for pattern in GENERIC_SUMMARY_PATTERNS)
+
+
+def cleanup_hint_basis(text: str) -> str:
+    """Remove noisy wrappers from usage-hint display text."""
+    cleaned = cleanup_inline_text(text)
+    cleaned = re.sub(r"^【[^】]{0,20}\d+】", "", cleaned).strip()
+    cleaned = re.sub(r"^第?\d+期[:：]?", "", cleaned).strip()
+    cleaned = re.sub(r"^\W+", "", cleaned)
+    return cleaned
 
 
 def parse_args() -> argparse.Namespace:
@@ -271,6 +328,7 @@ def cleanup_chunk_text(text: str) -> str:
     cleaned = re.sub(r"\*\*遵循著作人.*", "", cleaned)
     cleaned = re.sub(r"^# Tabs \{\.tabset\}\n.*?(?=\n#\n|\n> |\n-\s-\s-\n|\n---\n|\Z)", "", cleaned, flags=re.DOTALL | re.MULTILINE)
     cleaned = re.sub(r"^##\s.*$", "", cleaned, flags=re.MULTILINE)
+    cleaned = re.sub(r"(?m)^\s*#{1,6}\s*$", "", cleaned)
     cleaned = re.sub(r"^<http[^>]+>$", "", cleaned, flags=re.MULTILINE)
     cleaned = re.sub(r"^https?://\S+$", "", cleaned, flags=re.MULTILINE)
     cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
@@ -317,6 +375,11 @@ def write_episode_output(output_root: Path, episode: Episode, chunks: list[dict[
     for stale_chunk in episode_dir.glob("chunk-*.md"):
         stale_chunk.unlink()
     keywords = extract_episode_keywords(episode)
+    chunk_summaries = [derive_content_summary(str(chunk["content"])) for chunk in chunks]
+    episode_summary = episode.description or next(
+        (summary for summary in chunk_summaries if summary),
+        derive_content_summary(episode.body, max_len=160),
+    )
 
     meta_lines = [
         f"# {episode.title}",
@@ -329,6 +392,8 @@ def write_episode_output(output_root: Path, episode: Episode, chunks: list[dict[
     ]
     if episode.description:
         meta_lines.append(f"- `description`: {episode.description}")
+    if episode_summary:
+        meta_lines.append(f"- `summary`: {episode_summary}")
     if keywords:
         meta_lines.append(f"- `keywords`: {', '.join(keywords)}")
 
@@ -345,9 +410,22 @@ def write_episode_output(output_root: Path, episode: Episode, chunks: list[dict[
                 "chunk_index": index,
                 "heading": chunk["heading"],
                 "question": chunk["question"],
+                "summary": derive_content_summary(str(chunk["content"])),
+                "usage_hint": derive_usage_hint(
+                    episode.source_type,
+                    str(chunk["heading"]),
+                    derive_content_summary(str(chunk["content"])),
+                ),
             }
         )
         meta_lines.append(f"- `{chunk_name}`: {chunk['heading']}")
+
+        chunk_summary = chunk_summaries[index - 1]
+        usage_hint = derive_usage_hint(
+            episode.source_type,
+            str(chunk["heading"]),
+            chunk_summary,
+        )
 
         chunk_lines = [
             "---",
@@ -359,6 +437,8 @@ def write_episode_output(output_root: Path, episode: Episode, chunks: list[dict[
             f"chunk_index: {index}",
             f"chunk_heading: {chunk['heading']}",
             f"source_path: {episode.relative_path.as_posix()}",
+            f"summary: {chunk_summary}",
+            f"usage_hint: {usage_hint}",
             "---",
             "",
             f"# {chunk['heading']}",
@@ -378,6 +458,7 @@ def write_episode_output(output_root: Path, episode: Episode, chunks: list[dict[
             "date": episode.date,
             "date_source": episode.date_source,
             "description": episode.description,
+            "summary": episode_summary,
             "source_path": episode.relative_path.as_posix(),
             "keywords": keywords,
             "chunk_count": len(chunk_manifest),

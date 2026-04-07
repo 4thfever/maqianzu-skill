@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 5
 chunk_heading: 评价一下关于土木就业的事情
 source_path: 2023/1/7.md
+summary: 让我评价一下关于土木就业的事情
+usage_hint: 适合在直播问答场景中核对与“让我评价一下关于土木就业的事情”相关的节目级细节。
 ---
 
 # 评价一下关于土木就业的事情

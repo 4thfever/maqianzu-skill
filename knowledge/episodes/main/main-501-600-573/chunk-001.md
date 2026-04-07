@@ -7,6 +7,8 @@ episode_id: main-501-600-573
 chunk_index: 1
 chunk_heading: 3月1日，四川省乐山法院判决一起滥伐林木刑事附带民事公益诉讼案，三名被告人无证采伐并出售林木，共计木材76.72吨，非法获利3.9万。 本来是普通的案件，但乐山市法院引入“双碳”修复理念，引导三名被告人从四川联合环境交易所有限公司认购林业碳汇30吨，然后获得缓刑。 ![573-1.png](https://img.bedtime.news/2023/08/28/64ec51aded4cf.png) https://news.ifeng.com/c/8Nndq4ACMNl https://leshan.scol.com.cn/ts/202302/58822248.html http://lsszy.scssfw.gov.cn/article/detail/2023/02/id/7165477.shtml 3月12日，湖北媒体也报道了类似的判罚，襄阳一起非法采伐案，罪犯购买碳汇之后得到获缓刑 http://news.cnhubei.com/content/2023-03/12/content_15568918.html https://baijiahao.baidu.com/s?id=1760839151902705964 督工，为什么买“碳汇”可以缓刑？
 source_path: 501-600/573.md
+summary: 不太严重的刑事案件，积极赔偿受害人，获得谅解，是符合缓刑条件的
+usage_hint: 适合在需要节目级细节时补充与“不太严重的刑事案件，积极赔偿受害人，获得谅解，是符合缓刑条件”相关的节目论据。
 ---
 
 # 3月1日，四川省乐山法院判决一起滥伐林木刑事附带民事公益诉讼案，三名被告人无证采伐并出售林木，共计木材76.72吨，非法获利3.9万。 本来是普通的案件，但乐山市法院引入“双碳”修复理念，引导三名被告人从四川联合环境交易所有限公司认购林业碳汇30吨，然后获得缓刑。 ![573-1.png](https://img.bedtime.news/2023/08/28/64ec51aded4cf.png) https://news.ifeng.com/c/8Nndq4ACMNl https://leshan.scol.com.cn/ts/202302/58822248.html http://lsszy.scssfw.gov.cn/article/detail/2023/02/id/7165477.shtml 3月12日，湖北媒体也报道了类似的判罚，襄阳一起非法采伐案，罪犯购买碳汇之后得到获缓刑 http://news.cnhubei.com/content/2023-03/12/content_15568918.html https://baijiahao.baidu.com/s?id=1760839151902705964 督工，为什么买“碳汇”可以缓刑？

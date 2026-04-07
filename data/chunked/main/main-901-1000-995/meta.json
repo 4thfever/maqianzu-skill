@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息995】伪中产的担心 封存吸毒记录",
+      "question": "",
+      "summary": "请静静介绍话题： 最近，《治安管理处罚法》修改，136条规定： *“违反治安管理的记录应当予以封存，不得向任何单位和个人提供或者公开，但有关国家机关为办案需要或者有关单位根据国家规定进行查询的除外",
+      "usage_hint": "适合在需要节目级细节时补充与“请静静介绍话题： 最近，《治安管理处罚法》修改，136条规定”相关的节目论据。"
+    }
+  ],
+  "date": "2025-12-23",
+  "date_source": "body_explicit",
+  "description": "封存吸毒记录的争议持续很久，始终没人用马克思主义做分析。本期节目填补缺口。",
+  "episode_id": "main-901-1000-995",
+  "keywords": [],
+  "source_path": "901-1000/995.md",
+  "source_type": "main",
+  "summary": "封存吸毒记录的争议持续很久，始终没人用马克思主义做分析。本期节目填补缺口。",
+  "title": "【睡前消息995】伪中产的担心 封存吸毒记录",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 1,
+    "international": 0,
+    "media": 2,
+    "society": 1
+  },
+  "topics": [
+    "governance",
+    "media"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-2
 chunk_index: 7
 chunk_heading: 对国内工业发展怎么看？
 source_path: 2022/11/15-2.md
+summary: 现在看来，国家明确划出边界，咱们国家的工业还是很有活力的
+usage_hint: 适合在直播问答场景中核对与“现在看来，国家明确划出边界，咱们国家的工业还是很有活力的”相关的节目级细节。
 ---
 
 # 对国内工业发展怎么看？

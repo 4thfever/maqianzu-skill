@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息413】一起读《半月谈》",
+      "question": "",
+      "summary": "今年2月18日第395期节目，战争爆发之前，我做了一期化肥相关内容",
+      "usage_hint": "适合在需要节目级细节时补充与“今年2月18日第395期节目，战争爆发之前，我做了一期化肥相”相关的节目论据。"
+    }
+  ],
+  "date": "2022-04-01",
+  "date_source": "body_explicit",
+  "description": "黄浦江以东的上海停止了运转，睡前消息编辑部也处于半休假状态，马督工一个人出镜讲近期资讯。",
+  "episode_id": "main-401-500-413",
+  "keywords": [],
+  "source_path": "401-500/413.md",
+  "source_type": "main",
+  "summary": "黄浦江以东的上海停止了运转，睡前消息编辑部也处于半休假状态，马督工一个人出镜讲近期资讯。",
+  "title": "【睡前消息413】一起读《半月谈》",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 3,
+    "international": 4,
+    "media": 2,
+    "society": 1
+  },
+  "topics": [
+    "industry",
+    "international"
+  ]
+}

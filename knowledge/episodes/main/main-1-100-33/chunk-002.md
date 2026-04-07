@@ -7,6 +7,8 @@ episode_id: main-1-100-33
 chunk_index: 2
 chunk_heading: 智利骚乱的深层原因是什么？
 source_path: 1-100/33.md
+summary: 往下深挖，第一层原因是学生的负担太沉重
+usage_hint: 适合在需要节目级细节时补充与“往下深挖，第一层原因是学生的负担太沉重”相关的节目论据。
 ---
 
 # 智利骚乱的深层原因是什么？

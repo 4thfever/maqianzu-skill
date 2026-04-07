@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息65】伊朗的事说明未来战争靠无人机，中国：哪个牌子？",
+      "question": "",
+      "summary": "睡前消息0112 无人机在战争中的发展； 美国第二大教派分裂； 南京研究生自杀",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息0112 无人机在战争中的发展； 美国第二大教派分裂”相关的节目论据。"
+    }
+  ],
+  "date": "2025-11-02",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-1-100-65",
+  "keywords": [],
+  "source_path": "1-100/65.md",
+  "source_type": "main",
+  "summary": "睡前消息0112 无人机在战争中的发展； 美国第二大教派分裂； 南京研究生自杀",
+  "title": "【睡前消息65】伊朗的事说明未来战争靠无人机，中国：哪个牌子？",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 8,
+    "media": 2,
+    "society": 0
+  },
+  "topics": [
+    "international"
+  ]
+}

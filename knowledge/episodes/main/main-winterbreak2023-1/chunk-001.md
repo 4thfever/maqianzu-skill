@@ -7,6 +7,8 @@ episode_id: main-winterbreak2023-1
 chunk_index: 1
 chunk_heading: 人人都说哈尔滨“泼天富贵”，建议到此为止
 source_path: winterbreak2023/1.md
+summary: 哈尔滨是2024第一个网红城市
+usage_hint: 适合在需要节目级细节时补充与“哈尔滨是2024第一个网红城市”相关的节目论据。
 ---
 
 # 人人都说哈尔滨“泼天富贵”，建议到此为止

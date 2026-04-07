@@ -7,6 +7,8 @@ episode_id: main-501-600-589
 chunk_index: 10
 chunk_heading: 督工你认为公证机构应该改革，才能提升公信力呢？
 source_path: 501-600/589.md
+summary: 第500期](https://archive.bedtime.news/zh/main/401-500/500)节目的标题是《划清一条线，解析新中国》，当时我用一张图说明了我的基本方法论
+usage_hint: 适合在需要节目级细节时补充与“https://archive.bedtime.news/z”相关的节目论据。
 ---
 
 # 督工你认为公证机构应该改革，才能提升公信力呢？

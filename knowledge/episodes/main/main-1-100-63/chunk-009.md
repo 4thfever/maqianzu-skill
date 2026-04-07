@@ -7,6 +7,8 @@ episode_id: main-1-100-63
 chunk_index: 9
 chunk_heading: 500彩票网的计划有成功希望吗？
 source_path: 1-100/63.md
+summary: 就算这次行贿不暴露，难度也有点大
+usage_hint: 适合在需要节目级细节时补充与“就算这次行贿不暴露，难度也有点大”相关的节目论据。
 ---
 
 # 500彩票网的计划有成功希望吗？

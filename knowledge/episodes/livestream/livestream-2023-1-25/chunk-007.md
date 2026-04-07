@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 7
 chunk_heading: 中国核电站
 source_path: 2023/1/25.md
+summary: 有人说中国核电站还是太少
+usage_hint: 适合在直播问答场景中核对与“有人说中国核电站还是太少”相关的节目级细节。
 ---
 
 # 中国核电站

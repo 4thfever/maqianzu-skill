@@ -7,6 +7,8 @@ episode_id: main-winterbreak2023-speech2023
 chunk_index: 4
 chunk_heading: 从来就没有什么救世主， > 也不靠神仙皇帝， > 要创造人类的幸福， > 全靠我们自己。
 source_path: winterbreak2023/speech2023.md
+summary: 只要有足够的自信，完美神话破产并不影响普通人创造繁荣的文化
+usage_hint: 适合在需要节目级细节时补充与“只要有足够的自信，完美神话破产并不影响普通人创造繁荣的文化”相关的节目论据。
 ---
 
 # 从来就没有什么救世主， > 也不靠神仙皇帝， > 要创造人类的幸福， > 全靠我们自己。

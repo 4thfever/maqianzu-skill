@@ -7,6 +7,8 @@ episode_id: main-601-700-649
 chunk_index: 1
 chunk_heading: 【睡前消息649】小镇青年看《天空之城》
 source_path: 601-700/649.md
+summary: 与[暑假版第二期](/main/summerbreak/2.md)一致 {.is-info} 大家好，2023年9月29日星期四（五），欢迎收看649期睡前消息
+usage_hint: 适合在需要节目级细节时补充与“与[暑假版第二期](/main/summerbreak/2.”相关的节目论据。
 ---
 
 # 【睡前消息649】小镇青年看《天空之城》
@@ -15,8 +17,6 @@ source_path: 601-700/649.md
 
 > 与[暑假版第二期](/main/summerbreak/2.md)一致
 {.is-info}
-
-#
 
 大家好，2023年9月29日星期四（五），欢迎收看649期睡前消息。
 

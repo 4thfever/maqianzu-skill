@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1011】治愈乙肝 跨国企业未必能赚钱",
+      "question": "",
+      "summary": "请静静介绍话题： 新年7日，英国制药公司葛兰素史克宣布，正在研究的一款乙肝疗法完成三期临床试验，证实有效",
+      "usage_hint": "适合在需要节目级细节时补充与“请静静介绍话题： 新年7日，英国制药公司葛兰素史克宣布，正在”相关的节目论据。"
+    }
+  ],
+  "date": "2026-01-27",
+  "date_source": "body_explicit",
+  "description": "吉列德公司开发丙肝特效药，因为治愈了所有患者，长期效果是股价下跌。现在葛兰素史克开发了乙肝特效药。",
+  "episode_id": "main-1001-1100-1011",
+  "keywords": [],
+  "source_path": "1001-1100/1011.md",
+  "source_type": "main",
+  "summary": "吉列德公司开发丙肝特效药，因为治愈了所有患者，长期效果是股价下跌。现在葛兰素史克开发了乙肝特效药。",
+  "title": "【睡前消息1011】治愈乙肝 跨国企业未必能赚钱",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 2,
+    "industry": 0,
+    "international": 1,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "economy",
+    "governance"
+  ]
+}

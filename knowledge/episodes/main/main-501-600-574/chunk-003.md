@@ -7,6 +7,8 @@ episode_id: main-501-600-574
 chunk_index: 3
 chunk_heading: 刚才督工你说ChatGPT也有使用门槛，怎样才能让ChatGPT提供更准确的信息？
 source_path: 501-600/574.md
+summary: GPT的全称是：生成型预训练翻译器，（Generative Pre-trained Transformer）一个能通过预先积累资料，理解人类自然语言的翻译器
+usage_hint: 适合在需要节目级细节时补充与“GPT的全称是：生成型预训练翻译器，（Generative ”相关的节目论据。
 ---
 
 # 刚才督工你说ChatGPT也有使用门槛，怎样才能让ChatGPT提供更准确的信息？

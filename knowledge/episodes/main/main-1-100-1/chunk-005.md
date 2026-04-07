@@ -7,6 +7,8 @@ episode_id: main-1-100-1
 chunk_index: 5
 chunk_heading: 村医集体辞职，那农村医疗怎么办呢？
 source_path: 1-100/1.md
+summary: 这次事件，不应该定义为辞职
+usage_hint: 适合在需要节目级细节时补充与“这次事件，不应该定义为辞职”相关的节目论据。
 ---
 
 # 村医集体辞职，那农村医疗怎么办呢？

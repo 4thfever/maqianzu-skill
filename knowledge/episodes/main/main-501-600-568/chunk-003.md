@@ -7,6 +7,8 @@ episode_id: main-501-600-568
 chunk_index: 3
 chunk_heading: 督工你怎么看这两场文化批判？
 source_path: 501-600/568.md
+summary: 我先回顾一下事实经过
+usage_hint: 适合在需要节目级细节时补充与“我先回顾一下事实经过”相关的节目论据。
 ---
 
 # 督工你怎么看这两场文化批判？

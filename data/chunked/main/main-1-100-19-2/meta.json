@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息19.5】中国工程师动作太快，语文地理老师追不上了",
+      "question": "",
+      "summary": "5000年前的天坛 祖先在黄河岸边仰望星空》 大家好，欢迎收看睡前消息",
+      "usage_hint": "适合在需要节目级细节时补充与“5000年前的天坛 祖先在黄河岸边仰望星空》 大家好，欢迎收”相关的节目论据。"
+    }
+  ],
+  "date": "2022-12-02",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-1-100-19-2",
+  "keywords": [],
+  "source_path": "1-100/19-2.md",
+  "source_type": "main",
+  "summary": "5000年前的天坛 祖先在黄河岸边仰望星空》 大家好，欢迎收看睡前消息",
+  "title": "【睡前消息19.5】中国工程师动作太快，语文地理老师追不上了",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 2,
+    "international": 0,
+    "media": 0,
+    "society": 1
+  },
+  "topics": [
+    "governance",
+    "industry"
+  ]
+}

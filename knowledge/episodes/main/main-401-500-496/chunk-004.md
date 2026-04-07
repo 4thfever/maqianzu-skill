@@ -7,6 +7,8 @@ episode_id: main-401-500-496
 chunk_index: 4
 chunk_heading: 发电厂是要使用几十年的，信实电力不给尾款，中国企业拒绝提供维护保养服务怎么办？
 source_path: 401-500/496.md
+summary: 表 1. Sasan Ultra Mega Power Plant 的主要设备供应商 作为富可敌国的企业，信实集团本来不会在乎一两亿美元
+usage_hint: 适合在需要节目级细节时补充与“表 1. Sasan Ultra Mega Power Pl”相关的节目论据。
 ---
 
 # 发电厂是要使用几十年的，信实电力不给尾款，中国企业拒绝提供维护保养服务怎么办？

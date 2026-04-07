@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息985】秦岭鳌太线死人 深圳七娘山也死人？",
+      "question": "",
+      "summary": "我们继续回顾往期节目后续",
+      "usage_hint": "适合在需要节目级细节时补充与“我们继续回顾往期节目后续”相关的节目论据。"
+    }
+  ],
+  "date": "2025-11-30",
+  "date_source": "body_explicit",
+  "description": "深圳总面积不到2000平方公里，相当于一个中等县的大小。但在80天之内，七娘山景区连续有三个游客失踪死亡，其中一具尸体两个月后才找到。当地的大鹏半岛公园管理部门强调，七娘山部分地区没有手机信号，谨慎进入。",
+  "episode_id": "main-901-1000-985",
+  "keywords": [],
+  "source_path": "901-1000/985.md",
+  "source_type": "main",
+  "summary": "深圳总面积不到2000平方公里，相当于一个中等县的大小。但在80天之内，七娘山景区连续有三个游客失踪死亡，其中一具尸体两个月后才找到。当地的大鹏半岛公园管理部门强调，七娘山部分地区没有手机信号，谨慎进入。",
+  "title": "【睡前消息985】秦岭鳌太线死人 深圳七娘山也死人？",
+  "topic_scores": {
+    "economy": 4,
+    "governance": 1,
+    "industry": 1,
+    "international": 0,
+    "media": 3,
+    "society": 2
+  },
+  "topics": [
+    "economy",
+    "media"
+  ]
+}

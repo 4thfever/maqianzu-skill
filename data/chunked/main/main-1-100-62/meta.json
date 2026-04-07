@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息62】中国首获别国矿产勘探授权，为何是卢旺达？",
+      "question": "",
+      "summary": "睡前消息0105第62期 温州成立破产法庭； 中国获卢旺达矿产勘探授权",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息0105第62期 温州成立破产法庭； 中国获卢旺达矿”相关的节目论据。"
+    }
+  ],
+  "date": "2020-01-05",
+  "date_source": "body_explicit",
+  "description": "",
+  "episode_id": "main-1-100-62",
+  "keywords": [],
+  "source_path": "1-100/62.md",
+  "source_type": "main",
+  "summary": "睡前消息0105第62期 温州成立破产法庭； 中国获卢旺达矿产勘探授权",
+  "title": "【睡前消息62】中国首获别国矿产勘探授权，为何是卢旺达？",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 2,
+    "industry": 0,
+    "international": 0,
+    "media": 0,
+    "society": 1
+  },
+  "topics": [
+    "governance",
+    "society"
+  ]
+}

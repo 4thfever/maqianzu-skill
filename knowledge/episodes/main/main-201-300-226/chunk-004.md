@@ -7,6 +7,8 @@ episode_id: main-201-300-226
 chunk_index: 4
 chunk_heading: [216期 年终盘点·2020流水账（下）](https://archive.bedtime.news/zh/main/201-300/216)，在科技领域，督工你首先介绍了谷歌Deepmind团队制造了一款深度学习软件，可以预测蛋白质结构，这个软件未来有什么作用呢？
 source_path: 201-300/226.md
+summary: Deepmind团队，就是之前开发阿尔法GO程序，打败所有围棋选手的的团队
+usage_hint: 适合在需要节目级细节时补充与“Deepmind团队，就是之前开发阿尔法GO程序，打败所有围”相关的节目论据。
 ---
 
 # [216期 年终盘点·2020流水账（下）](https://archive.bedtime.news/zh/main/201-300/216)，在科技领域，督工你首先介绍了谷歌Deepmind团队制造了一款深度学习软件，可以预测蛋白质结构，这个软件未来有什么作用呢？

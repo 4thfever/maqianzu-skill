@@ -7,6 +7,8 @@ episode_id: main-101-200-120
 chunk_index: 4
 chunk_heading: 今年4月，国际著名学术出版集团施普林格（Springer）旗下期刊，《多媒体工具和应用》（Multimedia Tools and Applications）批量撤销33篇论文，加上该期刊近两年撤下的另8篇论文，总共有41篇论文被撤，其中39篇论文的主要作者来自中国。你怎么看这次学术不端事件？
 source_path: 101-200/120.md
+summary: 这次事件的性质很恶劣，但影响有限
+usage_hint: 适合在需要节目级细节时补充与“这次事件的性质很恶劣，但影响有限”相关的节目论据。
 ---
 
 # 今年4月，国际著名学术出版集团施普林格（Springer）旗下期刊，《多媒体工具和应用》（Multimedia Tools and Applications）批量撤销33篇论文，加上该期刊近两年撤下的另8篇论文，总共有41篇论文被撤，其中39篇论文的主要作者来自中国。你怎么看这次学术不端事件？

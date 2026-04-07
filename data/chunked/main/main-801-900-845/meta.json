@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息845】汇报，我这一年干了啥",
+      "question": "",
+      "summary": "督工，睡前消息已经800多期了，但是往前翻视频列表，很快就到了600多期，中间有一年没更新",
+      "usage_hint": "适合在需要节目级细节时补充与“督工，睡前消息已经800多期了，但是往前翻视频列表，很快就到”相关的节目论据。"
+    }
+  ],
+  "date": "2024-12-24",
+  "date_source": "body_explicit",
+  "description": "睡前消息的期数忽然跳到800多期，很多观众好奇马督工过去这一年干了点啥。今天让他自己给观众汇报。",
+  "episode_id": "main-801-900-845",
+  "keywords": [],
+  "source_path": "801-900/845.md",
+  "source_type": "main",
+  "summary": "睡前消息的期数忽然跳到800多期，很多观众好奇马督工过去这一年干了点啥。今天让他自己给观众汇报。",
+  "title": "【睡前消息845】汇报，我这一年干了啥",
+  "topic_scores": {
+    "economy": 6,
+    "governance": 6,
+    "industry": 1,
+    "international": 0,
+    "media": 4,
+    "society": 0
+  },
+  "topics": [
+    "economy",
+    "governance"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 1
 chunk_heading: 关于蛋卷俱乐部
 source_path: 2023/1/7.md
+summary: 我现在想 2022 年我们搞了一个叫蛋卷俱乐部这么一个观众的组织，想和观众一起做节目
+usage_hint: 适合在直播问答场景中核对与“我现在想 2022 年我们搞了一个叫蛋卷俱乐部这么一个观众的”相关的节目级细节。
 ---
 
 # 关于蛋卷俱乐部

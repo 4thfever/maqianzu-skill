@@ -7,6 +7,8 @@ episode_id: main-prequel-0
 chunk_index: 1
 chunk_heading: 《睡前消息》预告
 source_path: prequel/0.md
+summary: 从第四年开始，我开始写媒体人日记，记录一些对新闻事件的个人想法，后来就成了《睡前消息》栏目，已经连续更新两年了
+usage_hint: 适合在需要节目级细节时补充与“从第四年开始，我开始写媒体人日记，记录一些对新闻事件的个人想”相关的节目论据。
 ---
 
 # 《睡前消息》预告

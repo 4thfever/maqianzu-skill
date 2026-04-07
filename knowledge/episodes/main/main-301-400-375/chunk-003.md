@@ -7,6 +7,8 @@ episode_id: main-301-400-375
 chunk_index: 3
 chunk_heading: [301期](https://archive.bedtime.news/zh/main/301-400/301)节目，督工你借着瑞士的频繁公投制度，介绍了公投制度的历史和影响，现在台湾民进党凭借自己的政绩和组织优势，塑造了和民众观点相反的公投结果。督工你怎么评价？
 source_path: 301-400/375.md
+summary: 301期](https://archive.bedtime.news/zh/main/301-400/301)节目，我也说，国家日常运行要体现民主性，必然还是要搞代议制，因为政治是一种专业活动，不能逼着每个人时时刻刻都当政治动物，公投只能是
+usage_hint: 适合在需要节目级细节时补充与“https://archive.bedtime.news/z”相关的节目论据。
 ---
 
 # [301期](https://archive.bedtime.news/zh/main/301-400/301)节目，督工你借着瑞士的频繁公投制度，介绍了公投制度的历史和影响，现在台湾民进党凭借自己的政绩和组织优势，塑造了和民众观点相反的公投结果。督工你怎么评价？

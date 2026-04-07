@@ -1,0 +1,35 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息999】2025年终汉字 砼",
+      "question": "",
+      "summary": "拆字 大家好，2025年12月31日星期三，欢迎收看999期睡前消息",
+      "usage_hint": "适合在需要节目级细节时补充与“拆字 大家好，2025年12月31日星期三，欢迎收看999期”相关的节目论据。"
+    }
+  ],
+  "date": "2025-12-31",
+  "date_source": "body_explicit",
+  "description": "年度汉字的传统已经延续到第四年，下一个目标是四十年。",
+  "episode_id": "main-901-1000-999",
+  "keywords": [],
+  "source_path": "901-1000/999.md",
+  "source_type": "main",
+  "summary": "年度汉字的传统已经延续到第四年，下一个目标是四十年。",
+  "title": "【睡前消息999】2025年终汉字 砼",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 1,
+    "international": 0,
+    "media": 0,
+    "society": 1
+  },
+  "topics": [
+    "governance",
+    "industry",
+    "society"
+  ]
+}

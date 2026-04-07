@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 14
 chunk_heading: 未来核心竞争力什么？
 source_path: 2023/1/25.md
+summary: 有人说未来核心竞争力什么
+usage_hint: 适合在直播问答场景中核对与“有人说未来核心竞争力什么”相关的节目级细节。
 ---
 
 # 未来核心竞争力什么？

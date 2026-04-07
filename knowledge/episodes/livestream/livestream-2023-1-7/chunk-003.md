@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 3
 chunk_heading: 关于正负新闻筛选
 source_path: 2023/1/7.md
+summary: 有人说每做 10 期负面新闻，能做一期正面新闻，我们不会按这个比例来的
+usage_hint: 适合在直播问答场景中核对与“有人说每做 10 期负面新闻，能做一期正面新闻，我们不会按这”相关的节目级细节。
 ---
 
 # 关于正负新闻筛选

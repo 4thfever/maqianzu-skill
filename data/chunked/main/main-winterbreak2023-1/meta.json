@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "人人都说哈尔滨“泼天富贵”，建议到此为止",
+      "question": "",
+      "summary": "哈尔滨是2024第一个网红城市",
+      "usage_hint": "适合在需要节目级细节时补充与“哈尔滨是2024第一个网红城市”相关的节目论据。"
+    }
+  ],
+  "date": "2024-02-10",
+  "date_source": "front_matter_fallback",
+  "description": "马督公评价近期哈尔滨“泼天富贵”事件，文章刊登于“睡前人间”公众号。(https://mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw)",
+  "episode_id": "main-winterbreak2023-1",
+  "keywords": [],
+  "source_path": "winterbreak2023/1.md",
+  "source_type": "main",
+  "summary": "马督公评价近期哈尔滨“泼天富贵”事件，文章刊登于“睡前人间”公众号。(https://mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw)",
+  "title": "人人都说哈尔滨“泼天富贵”，建议到此为止",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 1,
+    "international": 0,
+    "media": 3,
+    "society": 2
+  },
+  "topics": [
+    "economy",
+    "media"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: main-1-100-32
 chunk_index: 7
 chunk_heading: 王选是怎么消灭这个瓶颈的呢？
 source_path: 1-100/32.md
+summary: 这个需要谈谈现代排版技术的发展
+usage_hint: 适合在需要节目级细节时补充与“这个需要谈谈现代排版技术的发展”相关的节目论据。
 ---
 
 # 王选是怎么消灭这个瓶颈的呢？

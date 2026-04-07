@@ -7,6 +7,8 @@ episode_id: main-1-100-61
 chunk_index: 5
 chunk_heading: 我直接请大家看图，就不一一介绍了。
 source_path: 1-100/61.md
+summary: 今年最魔幻的段子，还是我们河北省的
+usage_hint: 适合在需要节目级细节时补充与“今年最魔幻的段子，还是我们河北省的”相关的节目论据。
 ---
 
 # 我直接请大家看图，就不一一介绍了。

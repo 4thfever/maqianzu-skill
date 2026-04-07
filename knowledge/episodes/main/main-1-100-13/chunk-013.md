@@ -7,6 +7,8 @@ episode_id: main-1-100-13
 chunk_index: 13
 chunk_heading: 为什么日本右翼要和文在寅过不去呢？
 source_path: 1-100/13.md
+summary: 我们先看这次贸易战的起因
+usage_hint: 适合在需要节目级细节时补充与“我们先看这次贸易战的起因”相关的节目论据。
 ---
 
 # 为什么日本右翼要和文在寅过不去呢？

@@ -7,6 +7,8 @@ episode_id: main-201-300-280
 chunk_index: 1
 chunk_heading: 督公，西安一直想用城际铁路辐射整个关中平原，但是，今年4月份，陕西发改委正式回复群众来信，表示陕西的城际铁路网计划已经停止推进。 https://www.163.com/dy/article/G7P9SFGT05373OE4.html ![280-1.jpeg](https://img.bedtime.news/2023/08/28/64ec7d6f0e573.png) ![280-2.jpeg](https://img.bedtime.news/2023/08/28/64ec7d6ec062e.png) **连接四川泸州和贵州遵义的泸遵高铁之前一直盛传要按照350公里时速建设。** https://www.163.com/dy/article/FPDQ0O1L054403ZR.html **今年4月份，四川群众也给泸州市交通局发信，询问泸遵高铁工程的进度。当地交通局回复，说“积极对上协调，全力争取按照时速350公里高标准规划建设。”言外之意，铁路总公司和中央政府并不希望建设350公里时速高铁。** https://www.thepaper.cn/newsDetail_forward_12161277 陕西和贵州两个西部省份的铁路建设都在放缓，是什么原因？
 source_path: 201-300/280.md
+summary: 从地图上看，泸州和遵义周边的铁路网密度已经不算低了，泸州要去遵义，从宜宾和遵义方向都能过去
+usage_hint: 适合在需要节目级细节时补充与“从地图上看，泸州和遵义周边的铁路网密度已经不算低了，泸州要去”相关的节目论据。
 ---
 
 # 督公，西安一直想用城际铁路辐射整个关中平原，但是，今年4月份，陕西发改委正式回复群众来信，表示陕西的城际铁路网计划已经停止推进。 https://www.163.com/dy/article/G7P9SFGT05373OE4.html ![280-1.jpeg](https://img.bedtime.news/2023/08/28/64ec7d6f0e573.png) ![280-2.jpeg](https://img.bedtime.news/2023/08/28/64ec7d6ec062e.png) **连接四川泸州和贵州遵义的泸遵高铁之前一直盛传要按照350公里时速建设。** https://www.163.com/dy/article/FPDQ0O1L054403ZR.html **今年4月份，四川群众也给泸州市交通局发信，询问泸遵高铁工程的进度。当地交通局回复，说“积极对上协调，全力争取按照时速350公里高标准规划建设。”言外之意，铁路总公司和中央政府并不希望建设350公里时速高铁。** https://www.thepaper.cn/newsDetail_forward_12161277 陕西和贵州两个西部省份的铁路建设都在放缓，是什么原因？

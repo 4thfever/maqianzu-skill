@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1013】埃尔多安最得意的一年",
+      "question": "",
+      "summary": "去年年底土耳其宣布，从2026年开始，对中国公民实行入境免签政策",
+      "usage_hint": "适合在需要节目级细节时补充与“去年年底土耳其宣布，从2026年开始，对中国公民实行入境免签”相关的节目论据。"
+    }
+  ],
+  "date": "2026-02-01",
+  "date_source": "body_explicit",
+  "description": "2025年至今，土耳其在利比亚、叙利亚、东非都拿到了地盘，地理上有重建奥斯曼帝国的势头。",
+  "episode_id": "main-1001-1100-1013",
+  "keywords": [],
+  "source_path": "1001-1100/1013.md",
+  "source_type": "main",
+  "summary": "2025年至今，土耳其在利比亚、叙利亚、东非都拿到了地盘，地理上有重建奥斯曼帝国的势头。",
+  "title": "【睡前消息1013】埃尔多安最得意的一年",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 3,
+    "industry": 0,
+    "international": 3,
+    "media": 0,
+    "society": 1
+  },
+  "topics": [
+    "governance",
+    "international"
+  ]
+}

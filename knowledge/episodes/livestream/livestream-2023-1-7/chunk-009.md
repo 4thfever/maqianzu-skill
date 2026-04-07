@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 9
 chunk_heading: 回忆大学生活
 source_path: 2023/1/7.md
+summary: 原来我们大学宿舍一个宿舍一开始只有一台电脑
+usage_hint: 适合在直播问答场景中核对与“原来我们大学宿舍一个宿舍一开始只有一台电脑”相关的节目级细节。
 ---
 
 # 回忆大学生活

@@ -1,0 +1,5678 @@
+{
+  "episode_count": 145,
+  "episodes": [
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1001-1100-1031/chunk-001.md"
+        }
+      ],
+      "date": "2026-03-20",
+      "date_source": "body_explicit",
+      "description": "《一战再战》刚刚拿到奥斯卡最佳影片奖、最佳导演奖，但全球票房锁定在2亿美元，扣除宣传费用，甚至无法覆盖拍摄成本。这是可以用革命政治解释的商业现象。",
+      "episode_id": "main-1001-1100-1031",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1001-1100-1031/meta.json",
+      "meta_path": "data/chunked/main/main-1001-1100-1031/meta.md",
+      "source_path": "1001-1100/1031.md",
+      "source_type": "main",
+      "summary": "《一战再战》刚刚拿到奥斯卡最佳影片奖、最佳导演奖，但全球票房锁定在2亿美元，扣除宣传费用，甚至无法覆盖拍摄成本。这是可以用革命政治解释的商业现象。",
+      "title": "【睡前消息1031】一战再战红灯记 奥斯卡奖样板戏",
+      "topic_scores": {
+        "economy": 3,
+        "governance": 0,
+        "industry": 0,
+        "international": 2,
+        "media": 11,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1001-1100-1024/chunk-001.md"
+        }
+      ],
+      "date": "2026-03-17",
+      "date_source": "front_matter_fallback",
+      "description": "听说玉龙雪山观光火车2月12日停运，马督工扔下键盘冲出编辑部，路上抢到了去丽江的最早一班机票。",
+      "episode_id": "main-1001-1100-1024",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1001-1100-1024/meta.json",
+      "meta_path": "data/chunked/main/main-1001-1100-1024/meta.md",
+      "source_path": "1001-1100/1024.md",
+      "source_type": "main",
+      "summary": "听说玉龙雪山观光火车2月12日停运，马督工扔下键盘冲出编辑部，路上抢到了去丽江的最早一班机票。",
+      "title": "【睡前消息1024】奔袭丽江 滇西三城轨道交通纪",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 0,
+        "industry": 4,
+        "international": 0,
+        "media": 5,
+        "society": 1
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1001-1100-1028/chunk-001.md"
+        }
+      ],
+      "date": "2026-03-13",
+      "date_source": "body_explicit",
+      "description": "2023年的《中药注册管理专门规定》，给出了三年缓冲期，之后不允许中成药再说副作用“尚不明确”。研究规定条款之后，我对中成药的前景依然不乐观。",
+      "episode_id": "main-1001-1100-1028",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1001-1100-1028/meta.json",
+      "meta_path": "data/chunked/main/main-1001-1100-1028/meta.md",
+      "source_path": "1001-1100/1028.md",
+      "source_type": "main",
+      "summary": "2023年的《中药注册管理专门规定》，给出了三年缓冲期，之后不允许中成药再说副作用“尚不明确”。研究规定条款之后，我对中成药的前景依然不乐观。",
+      "title": "【睡前消息1028】删掉“尚不明确”，救不了中成药",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 4,
+        "industry": 0,
+        "international": 0,
+        "media": 3,
+        "society": 0
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1001-1100-1016/chunk-001.md"
+        }
+      ],
+      "date": "2026-02-08",
+      "date_source": "body_explicit",
+      "description": "睡前消息并不孤独，起码还有两个前辈也在谈国内问题。",
+      "episode_id": "main-1001-1100-1016",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1001-1100-1016/meta.json",
+      "meta_path": "data/chunked/main/main-1001-1100-1016/meta.md",
+      "source_path": "1001-1100/1016.md",
+      "source_type": "main",
+      "summary": "睡前消息并不孤独，起码还有两个前辈也在谈国内问题。",
+      "title": "【睡前消息1016】半月谈 中国新闻周刊 要看实体版",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 1,
+        "international": 0,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1001-1100-1003/chunk-001.md"
+        }
+      ],
+      "date": "2026-01-09",
+      "date_source": "body_explicit",
+      "description": "索马里兰的第一个邦交国是以色列。随着人口压力的增长，长期固化的非洲国界，已经开始消亡了。",
+      "episode_id": "main-1001-1100-1003",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1001-1100-1003/meta.json",
+      "meta_path": "data/chunked/main/main-1001-1100-1003/meta.md",
+      "source_path": "1001-1100/1003.md",
+      "source_type": "main",
+      "summary": "索马里兰的第一个邦交国是以色列。随着人口压力的增长，长期固化的非洲国界，已经开始消亡了。",
+      "title": "【睡前消息1003】以色列出兵、阿联酋出钱，伺候索马里兰",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 1,
+        "industry": 1,
+        "international": 1,
+        "media": 2,
+        "society": 1
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1001-1100-1002/chunk-001.md"
+        }
+      ],
+      "date": "2026-01-06",
+      "date_source": "body_explicit",
+      "description": "2025年末，河北过冬取暖问题终于得到了久违的关注。我的家乡平泉市，今晚零下15度，天然气6块钱一立方米。",
+      "episode_id": "main-1001-1100-1002",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1001-1100-1002/meta.json",
+      "meta_path": "data/chunked/main/main-1001-1100-1002/meta.md",
+      "source_path": "1001-1100/1002.md",
+      "source_type": "main",
+      "summary": "2025年末，河北过冬取暖问题终于得到了久违的关注。我的家乡平泉市，今晚零下15度，天然气6块钱一立方米。",
+      "title": "【睡前消息1002】河北抗冻上热榜 因为已经管不住",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 6,
+        "industry": 0,
+        "international": 1,
+        "media": 6,
+        "society": 3
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-1000/chunk-001.md"
+        }
+      ],
+      "date": "2026-01-01",
+      "date_source": "body_explicit",
+      "description": "1000期节目，跨越了7年时间。接下来，我们打算先做到一万期，再安排22世纪的工作时间表。",
+      "episode_id": "main-901-1000-1000",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-1000/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-1000/meta.md",
+      "source_path": "901-1000/1000.md",
+      "source_type": "main",
+      "summary": "1000期节目，跨越了7年时间。接下来，我们打算先做到一万期，再安排22世纪的工作时间表。",
+      "title": "【睡前消息1000】身后是一千，小目标是一万",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 3,
+        "industry": 0,
+        "international": 0,
+        "media": 6,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-995/chunk-001.md"
+        }
+      ],
+      "date": "2025-12-23",
+      "date_source": "body_explicit",
+      "description": "封存吸毒记录的争议持续很久，始终没人用马克思主义做分析。本期节目填补缺口。",
+      "episode_id": "main-901-1000-995",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-995/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-995/meta.md",
+      "source_path": "901-1000/995.md",
+      "source_type": "main",
+      "summary": "封存吸毒记录的争议持续很久，始终没人用马克思主义做分析。本期节目填补缺口。",
+      "title": "【睡前消息995】伪中产的担心 封存吸毒记录",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 1,
+        "international": 0,
+        "media": 2,
+        "society": 1
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-991/chunk-001.md"
+        }
+      ],
+      "date": "2025-12-14",
+      "date_source": "body_explicit",
+      "description": "药店歧视医保付费，已经是长期的潜规则。用现金买药是一个价格，用医保是另一个价格。但这也怪不得药店，因为医保拖欠付款，占用药店流动资金，无形中把自己玩“贬值”了。",
+      "episode_id": "main-901-1000-991",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-991/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-991/meta.md",
+      "source_path": "901-1000/991.md",
+      "source_type": "main",
+      "summary": "药店歧视医保付费，已经是长期的潜规则。用现金买药是一个价格，用医保是另一个价格。但这也怪不得药店，因为医保拖欠付款，占用药店流动资金，无形中把自己玩“贬值”了。",
+      "title": "【睡前消息991】还没到缺钱的时候，医保就卡住了",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 3,
+        "industry": 0,
+        "international": 0,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-989/chunk-001.md"
+        }
+      ],
+      "date": "2025-12-09",
+      "date_source": "body_explicit",
+      "description": "办公室同事每天早晨6点半起来打卡，参与群聊，花了一个月时间，才有机会到微信群“卧底”，得到听取核心内容的资格。而只要有熟人介绍，各位的父母一秒钟就能入选。这就是神医赚钱的道理。",
+      "episode_id": "main-901-1000-989",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-989/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-989/meta.md",
+      "source_path": "901-1000/989.md",
+      "source_type": "main",
+      "summary": "办公室同事每天早晨6点半起来打卡，参与群聊，花了一个月时间，才有机会到微信群“卧底”，得到听取核心内容的资格。而只要有熟人介绍，各位的父母一秒钟就能入选。这就是神医赚钱的道理。",
+      "title": "【睡前消息989】卧底一个月 偷听神医孙晓楠",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 1,
+        "society": 1
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-987/chunk-001.md"
+        }
+      ],
+      "date": "2025-12-09",
+      "date_source": "front_matter_fallback",
+      "description": "老人的退休金，甚至是房产，都被保健品行业快速吸走，这是中小城市常见的经济现象。借助10000%的利润率，从业人员可以轻松拿到百万甚至上千万的年薪。但如果简单地把保健品讲师看做骗子，用法律手段去对付，问题就永远不会解决。",
+      "episode_id": "main-901-1000-987",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-987/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-987/meta.md",
+      "source_path": "901-1000/987.md",
+      "source_type": "main",
+      "summary": "老人的退休金，甚至是房产，都被保健品行业快速吸走，这是中小城市常见的经济现象。借助10000%的利润率，从业人员可以轻松拿到百万甚至上千万的年薪。但如果简单地把保健品讲师看做骗子，用法律手段去对付，问题就永远不会解决。",
+      "title": "【睡前消息987】学习老年保健品 保卫父母退休金",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 2,
+        "society": 1
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-986/chunk-001.md"
+        }
+      ],
+      "date": "2025-12-02",
+      "date_source": "body_explicit",
+      "description": "全世界高层住宅严重火灾只有四起。除了上海教师公寓事故，其他三场火灾的起火房龄分别是40年、42年、43年。中国现在大多数高层住宅房龄不到十年，还有30年时间做准备。",
+      "episode_id": "main-901-1000-986",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-986/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-986/meta.md",
+      "source_path": "901-1000/986.md",
+      "source_type": "main",
+      "summary": "全世界高层住宅严重火灾只有四起。除了上海教师公寓事故，其他三场火灾的起火房龄分别是40年、42年、43年。中国现在大多数高层住宅房龄不到十年，还有30年时间做准备。",
+      "title": "【睡前消息986】香港火灾生死预警 你的房子40岁也渡劫",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 3,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-985/chunk-001.md"
+        }
+      ],
+      "date": "2025-11-30",
+      "date_source": "body_explicit",
+      "description": "深圳总面积不到2000平方公里，相当于一个中等县的大小。但在80天之内，七娘山景区连续有三个游客失踪死亡，其中一具尸体两个月后才找到。当地的大鹏半岛公园管理部门强调，七娘山部分地区没有手机信号，谨慎进入。",
+      "episode_id": "main-901-1000-985",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-985/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-985/meta.md",
+      "source_path": "901-1000/985.md",
+      "source_type": "main",
+      "summary": "深圳总面积不到2000平方公里，相当于一个中等县的大小。但在80天之内，七娘山景区连续有三个游客失踪死亡，其中一具尸体两个月后才找到。当地的大鹏半岛公园管理部门强调，七娘山部分地区没有手机信号，谨慎进入。",
+      "title": "【睡前消息985】秦岭鳌太线死人 深圳七娘山也死人？",
+      "topic_scores": {
+        "economy": 4,
+        "governance": 1,
+        "industry": 1,
+        "international": 0,
+        "media": 3,
+        "society": 2
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-982/chunk-001.md"
+        }
+      ],
+      "date": "2025-11-23",
+      "date_source": "body_explicit",
+      "description": "今年3月，深圳机场向全国报喜讯。国际机场协会测评旅客体验，颁发年度机场服务质量（ASQ）大奖，深圳综合排名第一。郑智化作为见过大世面的旅客，很快就来评测深圳机场的服务质量。",
+      "episode_id": "main-901-1000-982",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-982/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-982/meta.md",
+      "source_path": "901-1000/982.md",
+      "source_type": "main",
+      "summary": "今年3月，深圳机场向全国报喜讯。国际机场协会测评旅客体验，颁发年度机场服务质量（ASQ）大奖，深圳综合排名第一。郑智化作为见过大世面的旅客，很快就来评测深圳机场的服务质量。",
+      "title": "【睡前消息982】全球最佳机场 吓跑郑智化",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 2,
+        "international": 3,
+        "media": 7,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 2,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-72/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-1-100-72/chunk-002.md"
+        }
+      ],
+      "date": "2025-11-02",
+      "date_source": "front_matter_fallback",
+      "description": "",
+      "episode_id": "main-1-100-72",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-72/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-72/meta.md",
+      "source_path": "1-100/72.md",
+      "source_type": "main",
+      "summary": "温州市到武汉的直线距离有700公里，和到冲绳岛的距离差不多，温州怎么会比湖北的普通地级市还严重",
+      "title": "【睡前消息72】为什么总是红十字会？",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 1,
+        "society": 2
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-954/chunk-001.md"
+        }
+      ],
+      "date": "2025-09-19",
+      "date_source": "body_explicit",
+      "description": "2008年开始连载的网络小说《凡人修仙传》，到2025年还能再次改编成电视剧和动画，登上视频热榜。它的成功不是因为“修仙”，而是因为“凡人”。",
+      "episode_id": "main-901-1000-954",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-954/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-954/meta.md",
+      "source_path": "901-1000/954.md",
+      "source_type": "main",
+      "summary": "2008年开始连载的网络小说《凡人修仙传》，到2025年还能再次改编成电视剧和动画，登上视频热榜。它的成功不是因为“修仙”，而是因为“凡人”。",
+      "title": "【睡前消息954】2008年的凡人 在地铁上学修仙",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 3,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-942/chunk-001.md"
+        }
+      ],
+      "date": "2025-08-22",
+      "date_source": "body_explicit",
+      "description": "马克思说劳动是人的第一需要，听起来不太容易理解。今年8月，新京报做出了今年的最好深度内容：《缝纫机与透析机》，用“尿毒症工厂”的极端例子，证实了马克思的判断。",
+      "episode_id": "main-901-1000-942",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-942/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-942/meta.md",
+      "source_path": "901-1000/942.md",
+      "source_type": "main",
+      "summary": "马克思说劳动是人的第一需要，听起来不太容易理解。今年8月，新京报做出了今年的最好深度内容：《缝纫机与透析机》，用“尿毒症工厂”的极端例子，证实了马克思的判断。",
+      "title": "【睡前消息942】尿毒症工厂 劳动才有尊严",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 3,
+        "international": 0,
+        "media": 6,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-936/chunk-001.md"
+        }
+      ],
+      "date": "2025-08-08",
+      "date_source": "body_explicit",
+      "description": "爱康国宾的癌症筛查体检，未能预报具体患者的肾癌。这暴露的核心问题，不是体检行业太乱，而是中国人得到的医疗保险服务太少。",
+      "episode_id": "main-901-1000-936",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-936/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-936/meta.md",
+      "source_path": "901-1000/936.md",
+      "source_type": "main",
+      "summary": "爱康国宾的癌症筛查体检，未能预报具体患者的肾癌。这暴露的核心问题，不是体检行业太乱，而是中国人得到的医疗保险服务太少。",
+      "title": "【睡前消息936】体检漏癌症不赔 只有保险公司能管",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 1,
+        "international": 1,
+        "media": 2,
+        "society": 3
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-933/chunk-001.md"
+        }
+      ],
+      "date": "2025-08-03",
+      "date_source": "front_matter_fallback",
+      "description": "做了几十期中医药节目，态度以批判为主。今天有一位名门正派的中医走进演播室，现场为马督工诊脉。但是，本期最震撼的内容，还在中医药话题之外。",
+      "episode_id": "main-901-1000-933",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-933/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-933/meta.md",
+      "source_path": "901-1000/933.md",
+      "source_type": "main",
+      "summary": "做了几十期中医药节目，态度以批判为主。今天有一位名门正派的中医走进演播室，现场为马督工诊脉。但是，本期最震撼的内容，还在中医药话题之外。",
+      "title": "【睡前消息933】学中医 给马督工诊脉，当律师 被患者“打黑”",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 1,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-925/chunk-001.md"
+        }
+      ],
+      "date": "2025-07-13",
+      "date_source": "body_explicit",
+      "description": "B站市值90亿美元， Onlyfans要价只有80亿，便宜还是贵了？",
+      "episode_id": "main-901-1000-925",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-925/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-925/meta.md",
+      "source_path": "901-1000/925.md",
+      "source_type": "main",
+      "summary": "B站市值90亿美元， Onlyfans要价只有80亿，便宜还是贵了？",
+      "title": "【睡前消息925】全球最强成人平台，比B站便宜？",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 4,
+        "media": 9,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-924-1/chunk-001.md"
+        }
+      ],
+      "date": "2025-07-12",
+      "date_source": "body_explicit",
+      "description": "7月12日是开播纪念日，去年本来应该有五周年纪念，都合并到2025年了",
+      "episode_id": "main-901-1000-924-1",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-924-1/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-924-1/meta.md",
+      "source_path": "901-1000/924-1.md",
+      "source_type": "main",
+      "summary": "7月12日是开播纪念日，去年本来应该有五周年纪念，都合并到2025年了",
+      "title": "【睡前消息第924.5期】六周年回顾，坚持做“大”报",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 2,
+        "international": 0,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-917/chunk-001.md"
+        }
+      ],
+      "date": "2025-07-12",
+      "date_source": "front_matter_fallback",
+      "description": "全世界都知道美国只有19架B2轰炸机，平时有一半要接受维护。但美国也知道全世界知道什么。所以，对伊朗的轰炸，是一场借助自媒体力量的公开情报战。",
+      "episode_id": "main-901-1000-917",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-917/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-917/meta.md",
+      "source_path": "901-1000/917.md",
+      "source_type": "main",
+      "summary": "全世界都知道美国只有19架B2轰炸机，平时有一半要接受维护。但美国也知道全世界知道什么。所以，对伊朗的轰炸，是一场借助自媒体力量的公开情报战。",
+      "title": "【睡前消息917】B2骗过全世界，给伊朗留下七个洞",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 7,
+        "media": 6,
+        "society": 0
+      },
+      "topics": [
+        "international",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-918/chunk-001.md"
+        }
+      ],
+      "date": "2025-06-27",
+      "date_source": "body_explicit",
+      "description": "敦煌藏经洞的故事，让日本人来中国，拍出了最好的古代战争电影。现在《归唐》再次选取了类似的题材，我希望能看到普通人的好故事。",
+      "episode_id": "main-901-1000-918",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-918/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-918/meta.md",
+      "source_path": "901-1000/918.md",
+      "source_type": "main",
+      "summary": "敦煌藏经洞的故事，让日本人来中国，拍出了最好的古代战争电影。现在《归唐》再次选取了类似的题材，我希望能看到普通人的好故事。",
+      "title": "【睡前消息918】普通玩家，设想普通人的《归唐》",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 0,
+        "international": 1,
+        "media": 3,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-917-1/chunk-001.md"
+        }
+      ],
+      "date": "2025-06-26",
+      "date_source": "front_matter_fallback",
+      "description": "我们上个月更新了四川保路运动充电视频，上下两集，一共90分钟，但川汉铁路这条现代之路故事远远超过民国史范畴，所以今天我们将四川保路运动充电视频中最有趣最核心的部分免费放出，让观众理解民国史与今天的关系。",
+      "episode_id": "main-901-1000-917-1",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-917-1/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-917-1/meta.md",
+      "source_path": "901-1000/917-1.md",
+      "source_type": "main",
+      "summary": "我们上个月更新了四川保路运动充电视频，上下两集，一共90分钟，但川汉铁路这条现代之路故事远远超过民国史范畴，所以今天我们将四川保路运动充电视频中最有趣最核心的部分免费放出，让观众理解民国史与今天的关系。",
+      "title": "【睡前消息917.5】一条铁路，连接100年",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 3,
+        "international": 0,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-910/chunk-001.md"
+        }
+      ],
+      "date": "2025-06-18",
+      "date_source": "front_matter_fallback",
+      "description": "互联网的媒体价值在于互动。从本期视频开始，我们尝试定期邀请观众进入演播室，共同生产内容，从更丰富的角度观察中国社会。欢迎更多的观众报名。",
+      "episode_id": "main-901-1000-910",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-910/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-910/meta.md",
+      "source_path": "901-1000/910.md",
+      "source_type": "main",
+      "summary": "互联网的媒体价值在于互动。从本期视频开始，我们尝试定期邀请观众进入演播室，共同生产内容，从更丰富的角度观察中国社会。欢迎更多的观众报名。",
+      "title": "【睡前消息910】定居上海 想生五个——观众自己的故事 之一",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 0,
+        "international": 1,
+        "media": 5,
+        "society": 4
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-2025interview-1/chunk-001.md"
+        }
+      ],
+      "date": "2025-06-18",
+      "date_source": "front_matter_fallback",
+      "description": "一个激进的中年男性，如何理解自己和世界的关系",
+      "episode_id": "main-901-1000-2025interview-1",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-2025interview-1/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-2025interview-1/meta.md",
+      "source_path": "901-1000/2025interview-1.md",
+      "source_type": "main",
+      "summary": "一个激进的中年男性，如何理解自己和世界的关系",
+      "title": "当一个激进的中年男性，试着理解自己和世界的关联",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 3,
+        "international": 0,
+        "media": 4,
+        "society": 4
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-907/chunk-001.md"
+        }
+      ],
+      "date": "2025-06-01",
+      "date_source": "body_explicit",
+      "description": "从“赢学”水平来看，小泉纯一郎是莫迪的前辈，派出几个美女“刺客”就能颠覆自民党的派阀政治。但莫迪拥有更丰富的“演出题材”，从宗教到中国再到永远的巴基斯坦。所以小泉纯一郎做了5年首相，而莫迪能做十几年总理。",
+      "episode_id": "main-901-1000-907",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-907/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-907/meta.md",
+      "source_path": "901-1000/907.md",
+      "source_type": "main",
+      "summary": "从“赢学”水平来看，小泉纯一郎是莫迪的前辈，派出几个美女“刺客”就能颠覆自民党的派阀政治。但莫迪拥有更丰富的“演出题材”，从宗教到中国再到永远的巴基斯坦。所以小泉纯一郎做了5年首相，而莫迪能做十几年总理。",
+      "title": "【睡前消息907】赢学家家有 莫迪不一样",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 1,
+        "industry": 0,
+        "international": 3,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "international",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-903/chunk-001.md"
+        }
+      ],
+      "date": "2025-05-23",
+      "date_source": "body_explicit",
+      "description": "麻醉师是中国最缺的职业之一，按欧洲标准，至少还要增加两三倍。但现实是麻醉科医生并不鼓励自己的孩子接班，我的同事就包括一名麻醉师的后代——父亲严禁他子承父业。",
+      "episode_id": "main-901-1000-903",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-903/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-903/meta.md",
+      "source_path": "901-1000/903.md",
+      "source_type": "main",
+      "summary": "麻醉师是中国最缺的职业之一，按欧洲标准，至少还要增加两三倍。但现实是麻醉科医生并不鼓励自己的孩子接班，我的同事就包括一名麻醉师的后代——父亲严禁他子承父业。",
+      "title": "【睡前消息903】麻醉师不够，孩子也不想当“二代”",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 1,
+        "media": 3,
+        "society": 3
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-901-1000-901/chunk-001.md"
+        }
+      ],
+      "date": "2025-05-18",
+      "date_source": "body_explicit",
+      "description": "80年代的图书馆，世界史书籍大多是来自苏联。整体上抄袭西欧中心论，歧视其他文明区。唯一的区别是，苏联书强调，君士坦丁堡陷落之后，贵族和书籍被送到莫斯科，从此俄罗斯是世界文明中心，至少和西欧平起平坐。现在的“西方伪史论”学着西方，歧视中国之外的大多数文明，并不比当年的苏联进步。",
+      "episode_id": "main-901-1000-901",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-901-1000-901/meta.json",
+      "meta_path": "data/chunked/main/main-901-1000-901/meta.md",
+      "source_path": "901-1000/901.md",
+      "source_type": "main",
+      "summary": "80年代的图书馆，世界史书籍大多是来自苏联。整体上抄袭西欧中心论，歧视其他文明区。唯一的区别是，苏联书强调，君士坦丁堡陷落之后，贵族和书籍被送到莫斯科，从此俄罗斯是世界文明中心，至少和西欧平起平坐。现在的“西方伪史论”学着西方，歧视中国之外的大多数文明，并不比当年的苏联进步。",
+      "title": "【睡前消息901】“西方伪史论”对西方表达了最大敬畏",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 2,
+        "media": 1,
+        "society": 0
+      },
+      "topics": [
+        "international",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-898/chunk-001.md"
+        }
+      ],
+      "date": "2025-05-11",
+      "date_source": "body_explicit",
+      "description": "每次南方旱灾，一定会有媒体重复“桉树抽水”，“桉树有毒”的警告，认为大面积种植桉树是生态灾难。这些观点虽然错误，但并非凭空编造。本期节目追溯20年前的金光集团毁林案，解释桉树话题的复杂性。",
+      "episode_id": "main-801-900-898",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-898/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-898/meta.md",
+      "source_path": "801-900/898.md",
+      "source_type": "main",
+      "summary": "每次南方旱灾，一定会有媒体重复“桉树抽水”，“桉树有毒”的警告，认为大面积种植桉树是生态灾难。这些观点虽然错误，但并非凭空编造。本期节目追溯20年前的金光集团毁林案，解释桉树话题的复杂性。",
+      "title": "【睡前消息898】广西旱灾怪桉树 二十年的错误记忆",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 3,
+        "industry": 0,
+        "international": 0,
+        "media": 5,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-889/chunk-001.md"
+        }
+      ],
+      "date": "2025-04-20",
+      "date_source": "body_explicit",
+      "description": "尹锡悦和朴槿惠两任总统出身都是右翼，遇到政治危机的时候，都企图命令军队戒严，最后也都被弹劾。政治轨迹重合并非偶然。",
+      "episode_id": "main-801-900-889",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-889/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-889/meta.md",
+      "source_path": "801-900/889.md",
+      "source_type": "main",
+      "summary": "尹锡悦和朴槿惠两任总统出身都是右翼，遇到政治危机的时候，都企图命令军队戒严，最后也都被弹劾。政治轨迹重合并非偶然。",
+      "title": "【睡前消息889】七年搞两场 右翼总统爱“谋反”",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 0,
+        "international": 0,
+        "media": 1,
+        "society": 0
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-883/chunk-001.md"
+        }
+      ],
+      "date": "2025-04-02",
+      "date_source": "body_explicit",
+      "description": "对马督工来说，司马南曾经是报纸上的名人；然后是现实聚会上的真实形象，最后是视频网站上的同行，人生多有交集。这次要从个人视角，介绍司马南的复杂人生。",
+      "episode_id": "main-801-900-883",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-883/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-883/meta.md",
+      "source_path": "801-900/883.md",
+      "source_type": "main",
+      "summary": "对马督工来说，司马南曾经是报纸上的名人；然后是现实聚会上的真实形象，最后是视频网站上的同行，人生多有交集。这次要从个人视角，介绍司马南的复杂人生。",
+      "title": "【睡前消息883】司马南、姜汝祥 “京圈”的21世纪",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 5,
+        "society": 6
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-882/chunk-001.md"
+        }
+      ],
+      "date": "2025-03-31",
+      "date_source": "front_matter_fallback",
+      "description": "地球上相对的两点是“对跖点”。本期节目，我们邀请2万公里外的“对跖点朋友”走进演播室。",
+      "episode_id": "main-801-900-882",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-882/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-882/meta.md",
+      "source_path": "801-900/882.md",
+      "source_type": "main",
+      "summary": "地球上相对的两点是“对跖点”。本期节目，我们邀请2万公里外的“对跖点朋友”走进演播室。",
+      "title": "【睡前消息882】地球上最远的朋友",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 1,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-886/chunk-001.md"
+        }
+      ],
+      "date": "2025-03-30",
+      "date_source": "body_explicit",
+      "description": "胖猫事件在近一年后再次成为热点，说明它触动了普通人的神经，很多人也害怕自己成为胖猫。但如果真的担心这一点，核心问题就不是“避免成为胖猫”，而是“我们要怎样的生活”。",
+      "episode_id": "main-801-900-886",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-886/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-886/meta.md",
+      "source_path": "801-900/886.md",
+      "source_type": "main",
+      "summary": "胖猫事件在近一年后再次成为热点，说明它触动了普通人的神经，很多人也害怕自己成为胖猫。但如果真的担心这一点，核心问题就不是“避免成为胖猫”，而是“我们要怎样的生活”。",
+      "title": "【睡前消息886】没有胖猫的社会 是什么样？",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 5,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-878/chunk-001.md"
+        }
+      ],
+      "date": "2025-03-23",
+      "date_source": "front_matter_fallback",
+      "description": "广西溶洞科考队被困，69小时完成救援。事后庆功高调，但没人总结经验。",
+      "episode_id": "main-801-900-878",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-878/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-878/meta.md",
+      "source_path": "801-900/878.md",
+      "source_type": "main",
+      "summary": "广西溶洞科考队被困，69小时完成救援。事后庆功高调，但没人总结经验。",
+      "title": "【睡前消息878】溶洞遇险 到底是谁？",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 3,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-864/chunk-001.md"
+        }
+      ],
+      "date": "2025-02-15",
+      "date_source": "body_explicit",
+      "description": "金朝国师欧阳锋，站在宋朝边境，面对蒙古军队，拖着两箱炸弹发起自杀冲锋，要和成吉思汗同归于尽。按金庸小说的基本设定，阻止战争是最大的侠义。如果不是郭靖急着要当宋朝公务员，欧阳锋就是当之无愧的金庸武侠之神。",
+      "episode_id": "main-801-900-864",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-864/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-864/meta.md",
+      "source_path": "801-900/864.md",
+      "source_type": "main",
+      "summary": "金朝国师欧阳锋，站在宋朝边境，面对蒙古军队，拖着两箱炸弹发起自杀冲锋，要和成吉思汗同归于尽。按金庸小说的基本设定，阻止战争是最大的侠义。如果不是郭靖急着要当宋朝公务员，欧阳锋就是当之无愧的金庸武侠之神。",
+      "title": "【睡前消息864】射雕、封神都稀烂，烂法不一样",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 8,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-863/chunk-001.md"
+        }
+      ],
+      "date": "2025-02-14",
+      "date_source": "body_explicit",
+      "description": "《唐探1900》最大的转折点，是八旗高官费羊古听说慈禧太后失踪，精神受刺激，和部下瞬间转变立场，要支持国民革命。一分钟之前，密探团队还在活埋革命党，忽然就拔刀砍向盟友，牺牲自己的生命，支持革命党的起义。这个热血场面代表了电影的主要卖点，也暴露了电影的主要弱点。",
+      "episode_id": "main-801-900-863",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-863/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-863/meta.md",
+      "source_path": "801-900/863.md",
+      "source_type": "main",
+      "summary": "《唐探1900》最大的转折点，是八旗高官费羊古听说慈禧太后失踪，精神受刺激，和部下瞬间转变立场，要支持国民革命。一分钟之前，密探团队还在活埋革命党，忽然就拔刀砍向盟友，牺牲自己的生命，支持革命党的起义。这个热血场面代表了电影的主要卖点，也暴露了电影的主要弱点。",
+      "title": "【睡前消息863】唐探1900可以看 别认真",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 1,
+        "media": 14,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-859/chunk-001.md"
+        }
+      ],
+      "date": "2025-02-04",
+      "date_source": "body_explicit",
+      "description": "“数据蒸馏”给DeepSeek留下了不可磨灭的痕迹，但这并不影响DS的成功。但DeepSeek真正的问题，是大多数观众都得到过类似回答：对不起，我还没有学会如何思考这类问题，我擅长数学、代码、逻辑类的题目……",
+      "episode_id": "main-801-900-859",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-859/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-859/meta.md",
+      "source_path": "801-900/859.md",
+      "source_type": "main",
+      "summary": "“数据蒸馏”给DeepSeek留下了不可磨灭的痕迹，但这并不影响DS的成功。但DeepSeek真正的问题，是大多数观众都得到过类似回答：对不起，我还没有学会如何思考这类问题，我擅长数学、代码、逻辑类的题目……",
+      "title": "【睡前消息859】0基础玩DeepSeek 我们媒体要用",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 1,
+        "international": 0,
+        "media": 4,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 2,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-853/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-801-900-853/chunk-002.md"
+        }
+      ],
+      "date": "2025-01-17",
+      "date_source": "front_matter_fallback",
+      "description": "美国加州，湖北武汉，消防员冲进火场的时候，遇到了同一个问题——消防栓里没有水。然而，对于防火来说，需要动用消防栓救命，已经是最后的应急措施了。每一场火灾，原因都要从十几年前甚至是几十年前的规划说起。今日代班主播@高剑犁",
+      "episode_id": "main-801-900-853",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-853/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-853/meta.md",
+      "source_path": "801-900/853.md",
+      "source_type": "main",
+      "summary": "美国加州，湖北武汉，消防员冲进火场的时候，遇到了同一个问题——消防栓里没有水。然而，对于防火来说，需要动用消防栓救命，已经是最后的应急措施了。每一场火灾，原因都要从十几年前甚至是几十年前的规划说起。今日代班主播@高剑犁",
+      "title": "【睡前消息853】每一场火灾，原因都在十年前",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 1,
+        "international": 2,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "international",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-852/chunk-001.md"
+        }
+      ],
+      "date": "2025-01-15",
+      "date_source": "front_matter_fallback",
+      "description": "是的，今天还是黑岛@讲点黑话  来代班！咱们来聊聊过去一年的中国电影市场。2024年全国电影总票房425.02亿元，比前年少了一百亿。观众为什么突然不爱进影院了？中国电影做错了什么？",
+      "episode_id": "main-801-900-852",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-852/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-852/meta.md",
+      "source_path": "801-900/852.md",
+      "source_type": "main",
+      "summary": "是的，今天还是黑岛@讲点黑话 来代班！咱们来聊聊过去一年的中国电影市场。2024年全国电影总票房425.02亿元，比前年少了一百亿。观众为什么突然不爱进影院了？中国电影做错了什么？",
+      "title": "【睡前消息852】自铸败局——中国电影2024年总结",
+      "topic_scores": {
+        "economy": 5,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 22,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-849/chunk-001.md"
+        }
+      ],
+      "date": "2025-01-03",
+      "date_source": "body_explicit",
+      "description": "本期节目本来要完结2024年终盘点，不巧中途生病，无力录制，只能给大家看一半内容。望大家同样注意身体，抗住这一波流行病。",
+      "episode_id": "main-801-900-849",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-849/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-849/meta.md",
+      "source_path": "801-900/849.md",
+      "source_type": "main",
+      "summary": "本期节目本来要完结2024年终盘点，不巧中途生病，无力录制，只能给大家看一半内容。望大家同样注意身体，抗住这一波流行病。",
+      "title": "【睡前消息849】内卷时代，祝人人破圈 2024盘点 （下 之一）",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 1,
+        "media": 1,
+        "society": 0
+      },
+      "topics": [
+        "international",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-847/chunk-001.md"
+        }
+      ],
+      "date": "2024-12-29",
+      "date_source": "body_explicit",
+      "description": "某些事物，在2024年之前见惯不惊，2024年之后再也不见。今天给他们做个道别。",
+      "episode_id": "main-801-900-847",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-847/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-847/meta.md",
+      "source_path": "801-900/847.md",
+      "source_type": "main",
+      "summary": "某些事物，在2024年之前见惯不惊，2024年之后再也不见。今天给他们做个道别。",
+      "title": "【睡前消息847】未曾发生的历史 2024盘点（上）",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 0,
+        "international": 1,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-winterbreak2023-5/chunk-001.md"
+        }
+      ],
+      "date": "2024-03-21",
+      "date_source": "front_matter_fallback",
+      "description": "文章刊载于“睡前人间”公众号（https://mp.weixin.qq.com/s/vEQMi978BGA-q07bvcKXRg）",
+      "episode_id": "main-winterbreak2023-5",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-winterbreak2023-5/meta.json",
+      "meta_path": "data/chunked/main/main-winterbreak2023-5/meta.md",
+      "source_path": "winterbreak2023/5.md",
+      "source_type": "main",
+      "summary": "文章刊载于“睡前人间”公众号（https://mp.weixin.qq.com/s/vEQMi978BGA-q07bvcKXRg）",
+      "title": "对付少年杀人案，下限是汉谟拉比法典",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 4,
+        "industry": 0,
+        "international": 0,
+        "media": 4,
+        "society": 1
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-winterbreak2023-1/chunk-001.md"
+        }
+      ],
+      "date": "2024-02-10",
+      "date_source": "front_matter_fallback",
+      "description": "马督公评价近期哈尔滨“泼天富贵”事件，文章刊登于“睡前人间”公众号。(https://mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw)",
+      "episode_id": "main-winterbreak2023-1",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-winterbreak2023-1/meta.json",
+      "meta_path": "data/chunked/main/main-winterbreak2023-1/meta.md",
+      "source_path": "winterbreak2023/1.md",
+      "source_type": "main",
+      "summary": "马督公评价近期哈尔滨“泼天富贵”事件，文章刊登于“睡前人间”公众号。(https://mp.weixin.qq.com/s/MNePTsRoQGlAHz51W6zemw)",
+      "title": "人人都说哈尔滨“泼天富贵”，建议到此为止",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 0,
+        "industry": 1,
+        "international": 0,
+        "media": 3,
+        "society": 2
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-801-900-861/chunk-001.md"
+        }
+      ],
+      "date": "2024-02-07",
+      "date_source": "body_explicit",
+      "description": "1月31日，湖南永州郊区罐车侧翻破裂，33.5吨粗苯在湘江支流附近暴露。2月1号政府公告称“全力推进各项处置工作”，之后六天事件在媒体上消失。2月7日当地政府再次简单回复：“事故处置仍在进行”。苯有毒，可能诱导癌症和白血病，永州和湘江流域居民因此产生疑虑，桶装水供不应求。",
+      "episode_id": "main-801-900-861",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-801-900-861/meta.json",
+      "meta_path": "data/chunked/main/main-801-900-861/meta.md",
+      "source_path": "801-900/861.md",
+      "source_type": "main",
+      "summary": "1月31日，湖南永州郊区罐车侧翻破裂，33.5吨粗苯在湘江支流附近暴露。2月1号政府公告称“全力推进各项处置工作”，之后六天事件在媒体上消失。2月7日当地政府再次简单回复：“事故处置仍在进行”。苯有毒，可能诱导癌症和白血病，永州和湘江流域居民因此产生疑虑，桶装水供不应求。",
+      "title": "【睡前消息861】永州苯泄露，回避问题不算最差选择",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 3,
+        "industry": 0,
+        "international": 0,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 3,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-601-700-683/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-601-700-683/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-601-700-683/chunk-003.md"
+        }
+      ],
+      "date": "2023-12-13",
+      "date_source": "body_explicit",
+      "description": "印度尼西亚在中国媒体上存在感不强，但人口已经涨到了3亿，全球第四。TikTok最近在印尼发展迅速，活跃用户达到1.25亿，因此衍生的电商也给印尼带来了全新的商业机会。10月份到12月份，印尼对直播电商的政策转了两个180度急弯。这其中包含着中国企业在全世界的本土化方案。",
+      "episode_id": "main-601-700-683",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-601-700-683/meta.json",
+      "meta_path": "data/chunked/main/main-601-700-683/meta.md",
+      "source_path": "601-700/683.md",
+      "source_type": "main",
+      "summary": "印度尼西亚在中国媒体上存在感不强，但人口已经涨到了3亿，全球第四。TikTok最近在印尼发展迅速，活跃用户达到1.25亿，因此衍生的电商也给印尼带来了全新的商业机会。10月份到12月份，印尼对直播电商的政策转了两个180度急弯。这其中包含着中国企业在全世界的本土化方案。",
+      "title": "【睡前消息683】两个月收复失地，TikTok的印尼反击战",
+      "topic_scores": {
+        "economy": 18,
+        "governance": 10,
+        "industry": 10,
+        "international": 7,
+        "media": 21,
+        "society": 4
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-601-700-673/chunk-001.md"
+        }
+      ],
+      "date": "2023-11-21",
+      "date_source": "body_explicit",
+      "description": "回顾2023年11月第三周，只有两件事值得写进历史： 1郑州买房小夫妻被融创殴打。 2 星舰33台发动机同时点火，送二级火箭进亚轨道爆炸。",
+      "episode_id": "main-601-700-673",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-601-700-673/meta.json",
+      "meta_path": "data/chunked/main/main-601-700-673/meta.md",
+      "source_path": "601-700/673.md",
+      "source_type": "main",
+      "summary": "回顾2023年11月第三周，只有两件事值得写进历史： 1郑州买房小夫妻被融创殴打。 2 星舰33台发动机同时点火，送二级火箭进亚轨道爆炸。",
+      "title": "【睡前消息673】模范夫妻中国梦 毁在融创烂尾楼",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 9,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-601-700-663/chunk-001.md"
+        }
+      ],
+      "date": "2023-11-11",
+      "date_source": "front_matter_fallback",
+      "description": "王文银辞去正威集团董事长，嗜血的媒体一拥而上，睡前消息团队反而可以清闲一点了。趁这个机会，我们看看哪些媒体同行的嗅觉最灵敏，能最快打出反戈一击。",
+      "episode_id": "main-601-700-663",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-601-700-663/meta.json",
+      "meta_path": "data/chunked/main/main-601-700-663/meta.md",
+      "source_path": "601-700/663.md",
+      "source_type": "main",
+      "summary": "王文银辞去正威集团董事长，嗜血的媒体一拥而上，睡前消息团队反而可以清闲一点了。趁这个机会，我们看看哪些媒体同行的嗅觉最灵敏，能最快打出反戈一击。",
+      "title": "【睡前消息663】正威王文银，鲨鱼闻到血腥味",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-601-700-667/chunk-001.md"
+        }
+      ],
+      "date": "2023-11-08",
+      "date_source": "body_explicit",
+      "description": "接666期特别节目，继续用马克思主义解剖中国传统文化，破除神秘主义。",
+      "episode_id": "main-601-700-667",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-601-700-667/meta.json",
+      "meta_path": "data/chunked/main/main-601-700-667/meta.md",
+      "source_path": "601-700/667.md",
+      "source_type": "main",
+      "summary": "接666期特别节目，继续用马克思主义解剖中国传统文化，破除神秘主义。",
+      "title": "【睡前消息667】遇见马克思 孔子才懂传统文化（下）",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 2,
+        "industry": 0,
+        "international": 0,
+        "media": 6,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-601-700-666/chunk-001.md"
+        }
+      ],
+      "date": "2023-11-07",
+      "date_source": "body_explicit",
+      "description": "网红副教授郭继承领衔，《当马克思遇见孔夫子》拍成了一部闹剧。但是，马克思主义是新中国的指导思想，中国人迟早要用马克思主义全面解剖传统文化。闹剧过后，孔夫子还是要去见马克思。",
+      "episode_id": "main-601-700-666",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-601-700-666/meta.json",
+      "meta_path": "data/chunked/main/main-601-700-666/meta.md",
+      "source_path": "601-700/666.md",
+      "source_type": "main",
+      "summary": "网红副教授郭继承领衔，《当马克思遇见孔夫子》拍成了一部闹剧。但是，马克思主义是新中国的指导思想，中国人迟早要用马克思主义全面解剖传统文化。闹剧过后，孔夫子还是要去见马克思。",
+      "title": "【睡前消息666】遇见马克思 孔子才懂传统文化（上）",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 0,
+        "international": 0,
+        "media": 6,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 6,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-601-700-662/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-601-700-662/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-601-700-662/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-601-700-662/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-601-700-662/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-601-700-662/chunk-006.md"
+        }
+      ],
+      "date": "2023-10-29",
+      "date_source": "body_explicit",
+      "description": "尤文图斯主力法乔利赌球被抓，对检察官供出托纳利、扎尼奥洛……意大利足协主席很宽容地表示，这些年轻人就像他的孩子，应该给一条出路——难道还要把整个联赛都搭进去吗？",
+      "episode_id": "main-601-700-662",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-601-700-662/meta.json",
+      "meta_path": "data/chunked/main/main-601-700-662/meta.md",
+      "source_path": "601-700/662.md",
+      "source_type": "main",
+      "summary": "尤文图斯主力法乔利赌球被抓，对检察官供出托纳利、扎尼奥洛……意大利足协主席很宽容地表示，这些年轻人就像他的孩子，应该给一条出路——难道还要把整个联赛都搭进去吗？",
+      "title": "【睡前消息662】意甲反赌球，差不多得了",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 2,
+        "international": 1,
+        "media": 9,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-601-700-658/chunk-001.md"
+        }
+      ],
+      "date": "2023-10-20",
+      "date_source": "body_explicit",
+      "description": "湖南卫视制作重磅节目《当马克思遇见孔夫子》，郭继承是露脸最多的嘉宾。本来片名就够惊人了，还有个自带争议流量的网络红人郭继承出场，应该会有很高的讨论热度。但到现在为止，支持和反对言论稀稀拉拉，节目热度不如郭继承平时的片段发言。这说明制作团队不懂——或者不关心互联网时代的传播。",
+      "episode_id": "main-601-700-658",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-601-700-658/meta.json",
+      "meta_path": "data/chunked/main/main-601-700-658/meta.md",
+      "source_path": "601-700/658.md",
+      "source_type": "main",
+      "summary": "湖南卫视制作重磅节目《当马克思遇见孔夫子》，郭继承是露脸最多的嘉宾。本来片名就够惊人了，还有个自带争议流量的网络红人郭继承出场，应该会有很高的讨论热度。但到现在为止，支持和反对言论稀稀拉拉，节目热度不如郭继承平时的片段发言。这说明制作团队不懂——或者不关心互联网时代的传播。",
+      "title": "【睡前消息658】请回孔夫子，浪费郭继承——评2023《当马克思遇见孔夫子》",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 16,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-summerbreak-2/chunk-001.md"
+        }
+      ],
+      "date": "2023-09-29",
+      "date_source": "front_matter_fallback",
+      "description": "年轻时看电影，自然地代入主角，想带着最好的运气享受传奇故事。到了中年，我不仅关心主角和配角，还关心做背景的路人角色。我会想象每一个小人物的悲欢离合，推测他们在剧情结束后的生活——因为我自己也是普通人。42岁重看《天空之城》，我最在意的不是飞翔的英雄，而是广阔大地上的人民。",
+      "episode_id": "main-summerbreak-2",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-summerbreak-2/meta.json",
+      "meta_path": "data/chunked/main/main-summerbreak-2/meta.md",
+      "source_path": "summerbreak/2.md",
+      "source_type": "main",
+      "summary": "年轻时看电影，自然地代入主角，想带着最好的运气享受传奇故事。到了中年，我不仅关心主角和配角，还关心做背景的路人角色。我会想象每一个小人物的悲欢离合，推测他们在剧情结束后的生活——因为我自己也是普通人。42岁重看《天空之城》，我最在意的不是飞翔的英雄，而是广阔大地上的人民。",
+      "title": "【睡前消息暑假版第2期】《天空之城》需要续集，小镇青年都是编剧",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 1,
+        "media": 10,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-601-700-649/chunk-001.md"
+        }
+      ],
+      "date": "2023-09-29",
+      "date_source": "body_explicit",
+      "description": "年轻时看电影，自然地代入主角，想带着最好的运气享受传奇故事。到了中年，我不仅关心主角和配角，还关心做背景的路人角色。我会想象每一个小人物的悲欢离合，推测他们在剧情结束后的生活——因为我自己也是普通人。42岁重看《天空之城》，我最在意的不是飞翔的英雄，而是广阔大地上的人民。",
+      "episode_id": "main-601-700-649",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-601-700-649/meta.json",
+      "meta_path": "data/chunked/main/main-601-700-649/meta.md",
+      "source_path": "601-700/649.md",
+      "source_type": "main",
+      "summary": "年轻时看电影，自然地代入主角，想带着最好的运气享受传奇故事。到了中年，我不仅关心主角和配角，还关心做背景的路人角色。我会想象每一个小人物的悲欢离合，推测他们在剧情结束后的生活——因为我自己也是普通人。42岁重看《天空之城》，我最在意的不是飞翔的英雄，而是广阔大地上的人民。",
+      "title": "【睡前消息649】小镇青年看《天空之城》",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 1,
+        "media": 12,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 5,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-601-700-647/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-601-700-647/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-601-700-647/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-601-700-647/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-601-700-647/chunk-005.md"
+        }
+      ],
+      "date": "2023-09-26",
+      "date_source": "body_explicit",
+      "description": "富士康老板郭台铭想找一个“高知名度”女性做竞选搭档，自己还没想好，台湾媒体已经达成了共识——林志玲最合适。古龙说，世上只有错误的名字，没有错误的绰号，郭台铭现在应该知道自己的公众形象了。",
+      "episode_id": "main-601-700-647",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-601-700-647/meta.json",
+      "meta_path": "data/chunked/main/main-601-700-647/meta.md",
+      "source_path": "601-700/647.md",
+      "source_type": "main",
+      "summary": "富士康老板郭台铭想找一个“高知名度”女性做竞选搭档，自己还没想好，台湾媒体已经达成了共识——林志玲最合适。古龙说，世上只有错误的名字，没有错误的绰号，郭台铭现在应该知道自己的公众形象了。",
+      "title": "【睡前消息647】有林志玲的地方，一切都是八卦",
+      "topic_scores": {
+        "economy": 5,
+        "governance": 2,
+        "industry": 0,
+        "international": 1,
+        "media": 9,
+        "society": 4
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-140/chunk-001.md"
+        }
+      ],
+      "date": "2023-09-08",
+      "date_source": "front_matter_fallback",
+      "description": "",
+      "episode_id": "main-101-200-140",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-140/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-140/meta.md",
+      "source_path": "101-200/140.md",
+      "source_type": "main",
+      "summary": "本期视频已被删除 {.is-danger} > 原视频已被删除，以下为补档 {.is-danger} 1 路上 出发 2 前情提要 时间轴 为什么来独山【纯字幕】 3 到达独山 博物馆 4 博物馆内景 吐槽 5 博物馆B 没去成 （补充穆好",
+      "title": "【睡前消息140】马前卒暴走，亲眼看看独山县怎么烧掉400亿！周年特辑（上）",
+      "topic_scores": {
+        "economy": 4,
+        "governance": 2,
+        "industry": 1,
+        "international": 0,
+        "media": 3,
+        "society": 2
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-374/chunk-001.md"
+        }
+      ],
+      "date": "2023-08-24",
+      "date_source": "front_matter_fallback",
+      "description": "2021年12月16日，马督工应邀在复旦大学逸夫楼做演讲。回顾10年媒体工作经验，和20年的社交平台用户体会，最后总结出评价新媒体工具的8条标准，期待媒体人在新时代做好“信息中介”的作用。",
+      "episode_id": "main-301-400-374",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-374/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-374/meta.md",
+      "source_path": "301-400/374.md",
+      "source_type": "main",
+      "summary": "2021年12月16日，马督工应邀在复旦大学逸夫楼做演讲。回顾10年媒体工作经验，和20年的社交平台用户体会，最后总结出评价新媒体工具的8条标准，期待媒体人在新时代做好“信息中介”的作用。",
+      "title": "【睡前消息374】复旦演讲：8条标准，支撑我的媒体平台梦想",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 3,
+        "industry": 3,
+        "international": 0,
+        "media": 17,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-368/chunk-001.md"
+        }
+      ],
+      "date": "2023-08-24",
+      "date_source": "front_matter_fallback",
+      "description": "今年活动的主体是“新青年，新精神”，所以马督工做了一场最切题的演讲，直接回顾陈独秀的《新青年》发刊词，一起寻找新中国解放精神的源头。",
+      "episode_id": "main-301-400-368",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-368/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-368/meta.md",
+      "source_path": "301-400/368.md",
+      "source_type": "main",
+      "summary": "今年活动的主体是“新青年，新精神”，所以马督工做了一场最切题的演讲，直接回顾陈独秀的《新青年》发刊词，一起寻找新中国解放精神的源头。",
+      "title": "【睡前消息368】寻找初心 新青年的“6+1”攻略",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 1,
+        "international": 0,
+        "media": 1,
+        "society": 0
+      },
+      "topics": [
+        "governance",
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 5,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-594/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-501-600-594/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-501-600-594/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-501-600-594/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-501-600-594/chunk-005.md"
+        }
+      ],
+      "date": "2023-05-26",
+      "date_source": "body_explicit",
+      "description": "好莱坞编剧集体罢工，要求新的互联网流媒体平台提供更多的职位，至少在每部作品完播之前，为编剧提供稳定的“编制”。而最近付国豪父亲忽然发作，要求胡锡进和环球时报承认自己的责任，定期拜祭，网络的讨论点也是付国豪的“编制”。太平洋两岸的话题出现了神奇的共振。",
+      "episode_id": "main-501-600-594",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-594/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-594/meta.md",
+      "source_path": "501-600/594.md",
+      "source_type": "main",
+      "summary": "好莱坞编剧集体罢工，要求新的互联网流媒体平台提供更多的职位，至少在每部作品完播之前，为编剧提供稳定的“编制”。而最近付国豪父亲忽然发作，要求胡锡进和环球时报承认自己的责任，定期拜祭，网络的讨论点也是付国豪的“编制”。太平洋两岸的话题出现了神奇的共振。",
+      "title": "【睡前消息594】美国编剧罢工，付国豪身后事",
+      "topic_scores": {
+        "economy": 5,
+        "governance": 1,
+        "industry": 4,
+        "international": 12,
+        "media": 19,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 8,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-568/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-501-600-568/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-501-600-568/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-501-600-568/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-501-600-568/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-501-600-568/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-501-600-568/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-501-600-568/chunk-008.md"
+        }
+      ],
+      "date": "2023-03-26",
+      "date_source": "body_explicit",
+      "description": "2023年的春天，韩国人惊恐地发现已经连续12个月贸易逆差；而中国的年轻人在批判孔乙己。这两件事貌似不相关，实际上有完全相同的原因。",
+      "episode_id": "main-501-600-568",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-568/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-568/meta.md",
+      "source_path": "501-600/568.md",
+      "source_type": "main",
+      "summary": "2023年的春天，韩国人惊恐地发现已经连续12个月贸易逆差；而中国的年轻人在批判孔乙己。这两件事貌似不相关，实际上有完全相同的原因。",
+      "title": "【睡前消息568】韩国担心逆差，中国笑孔乙己，一回事",
+      "topic_scores": {
+        "economy": 6,
+        "governance": 0,
+        "industry": 4,
+        "international": 8,
+        "media": 12,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-560/chunk-001.md"
+        }
+      ],
+      "date": "2023-03-07",
+      "date_source": "body_explicit",
+      "description": "疫情过后，连花清瘟销量暴跌，也暴露了自己的真实疗效。以岭药业急需一种新的中成药托住业绩。目前来看，每盒187元的解郁除烦胶囊是重点培养对象，已经借着“非劣”成绩打进医保报销目录。本期节目重点分析解郁除烦胶囊，以及它追随的现代药品盐酸氟西汀。",
+      "episode_id": "main-501-600-560",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-560/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-560/meta.md",
+      "source_path": "501-600/560.md",
+      "source_type": "main",
+      "summary": "疫情过后，连花清瘟销量暴跌，也暴露了自己的真实疗效。以岭药业急需一种新的中成药托住业绩。目前来看，每盒187元的解郁除烦胶囊是重点培养对象，已经借着“非劣”成绩打进医保报销目录。本期节目重点分析解郁除烦胶囊，以及它追随的现代药品盐酸氟西汀。",
+      "title": "【睡前消息560】连花清瘟过气，以岭指望解郁除烦胶囊",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 3,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 10,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-008.md"
+        },
+        {
+          "chunk_file": "chunk-009.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-009.md"
+        },
+        {
+          "chunk_file": "chunk-010.md",
+          "chunk_path": "data/chunked/main/main-101-200-130/chunk-010.md"
+        }
+      ],
+      "date": "2023-03-07",
+      "date_source": "front_matter_fallback",
+      "description": "前段时间有着“澳门赌王”之称的何鸿燊去世，引发了一波舆论关注。对于何鸿燊的评价，也引发了一些争议。督工认为，评价何鸿燊，首先就要认清澳门赌博业的畸形发展现实。何鸿燊的财富，本质上是在特殊规则下，被全中国人民供养出来的……",
+      "episode_id": "main-101-200-130",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-130/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-130/meta.md",
+      "source_path": "101-200/130.md",
+      "source_type": "main",
+      "summary": "前段时间有着“澳门赌王”之称的何鸿燊去世，引发了一波舆论关注。对于何鸿燊的评价，也引发了一些争议。督工认为，评价何鸿燊，首先就要认清澳门赌博业的畸形发展现实。何鸿燊的财富，本质上是在特殊规则下，被全中国人民供养出来的……",
+      "title": "【睡前消息130】何鸿燊这样的赌王，对中国人民太“贵”了点",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 6,
+        "industry": 0,
+        "international": 3,
+        "media": 7,
+        "society": 5
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-547/chunk-001.md"
+        }
+      ],
+      "date": "2023-02-05",
+      "date_source": "body_explicit",
+      "description": "秦桧在高台之上念岳飞名作《满江红》，万人随之传诵。这是今年贺岁片的大结局。场景看似荒诞，实际上完全符合封建时代的传统价值观。当代人觉得“拧巴”，原因只是我们已经生活在现代社会。",
+      "episode_id": "main-501-600-547",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-547/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-547/meta.md",
+      "source_path": "501-600/547.md",
+      "source_type": "main",
+      "summary": "秦桧在高台之上念岳飞名作《满江红》，万人随之传诵。这是今年贺岁片的大结局。场景看似荒诞，实际上完全符合封建时代的传统价值观。当代人觉得“拧巴”，原因只是我们已经生活在现代社会。",
+      "title": "【睡前消息547】《满江红》好，好就好在不杀秦桧",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 3,
+        "industry": 1,
+        "international": 0,
+        "media": 10,
+        "society": 5
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 11,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-008.md"
+        },
+        {
+          "chunk_file": "chunk-009.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-009.md"
+        },
+        {
+          "chunk_file": "chunk-010.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-010.md"
+        },
+        {
+          "chunk_file": "chunk-011.md",
+          "chunk_path": "data/chunked/main/main-501-600-546/chunk-011.md"
+        }
+      ],
+      "date": "2023-02-03",
+      "date_source": "body_explicit",
+      "description": "过去看国产电影，影评的核心逻辑是“挑亮点”；到了《流浪地球2》，我只能把逻辑换成“找缺憾”。这说明中国电影再上一个台阶，理应配上更高的期待，承担更多的任务。推荐所有人去看《流浪地球2》。",
+      "episode_id": "main-501-600-546",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-546/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-546/meta.md",
+      "source_path": "501-600/546.md",
+      "source_type": "main",
+      "summary": "过去看国产电影，影评的核心逻辑是“挑亮点”；到了《流浪地球2》，我只能把逻辑换成“找缺憾”。这说明中国电影再上一个台阶，理应配上更高的期待，承担更多的任务。推荐所有人去看《流浪地球2》。",
+      "title": "【睡前消息546】不剧透，劝你去影院的流浪地球2影评",
+      "topic_scores": {
+        "economy": 4,
+        "governance": 0,
+        "industry": 3,
+        "international": 0,
+        "media": 14,
+        "society": 3
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 9,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-488/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-488/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-488/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-488/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-401-500-488/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-401-500-488/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-401-500-488/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-401-500-488/chunk-008.md"
+        },
+        {
+          "chunk_file": "chunk-009.md",
+          "chunk_path": "data/chunked/main/main-401-500-488/chunk-009.md"
+        }
+      ],
+      "date": "2023-01-29",
+      "date_source": "front_matter_fallback",
+      "description": "中文互联网过去有一个共识：“无图无真相”。这句轻松的话提供了化解矛盾的权威规则——如果出现难以平息的争议，严肃媒体可以公布现场图片，避免社会分裂。重庆山火事件，AI制图成为媒体头条，登上宣传海报，事后没有调查反思，是破坏了“有图有真相”的共识。我们可能在不经意间丢掉了整个社会的压舱石。",
+      "episode_id": "main-401-500-488",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-488/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-488/meta.md",
+      "source_path": "401-500/488.md",
+      "source_type": "main",
+      "summary": "中文互联网过去有一个共识：“无图无真相”。这句轻松的话提供了化解矛盾的权威规则——如果出现难以平息的争议，严肃媒体可以公布现场图片，避免社会分裂。重庆山火事件，AI制图成为媒体头条，登上宣传海报，事后没有调查反思，是破坏了“有图有真相”的共识。我们可能在不经意间丢掉了整个社会的压舱石。",
+      "title": "【睡前消息488】重庆山火之后，有图≠真相",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 4,
+        "international": 0,
+        "media": 20,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-prequel-l6/chunk-001.md"
+        }
+      ],
+      "date": "2023-01-25",
+      "date_source": "front_matter_fallback",
+      "description": "",
+      "episode_id": "main-prequel-l6",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-prequel-l6/meta.json",
+      "meta_path": "data/chunked/main/main-prequel-l6/meta.md",
+      "source_path": "prequel/l6.md",
+      "source_type": "main",
+      "summary": "这两周就出现了典型案例",
+      "title": "【末条新闻6】从深圳虐童事件看安全与隐私的矛盾",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 2,
+        "industry": 0,
+        "international": 0,
+        "media": 2,
+        "society": 2
+      },
+      "topics": [
+        "governance",
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-prequel-l5/chunk-001.md"
+        }
+      ],
+      "date": "2023-01-25",
+      "date_source": "front_matter_fallback",
+      "description": "",
+      "episode_id": "main-prequel-l5",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-prequel-l5/meta.json",
+      "meta_path": "data/chunked/main/main-prequel-l5/meta.md",
+      "source_path": "prequel/l5.md",
+      "source_type": "main",
+      "summary": "12月15日讲稿）** 大家好，上周这条12岁孩子杀母亲的新闻大家应该都看到了： **湖南12岁少年持刀弑母：学校不可能不让我上学吧",
+      "title": "【末条新闻5】12岁的杀人少年该死刑吗？",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 0,
+        "international": 0,
+        "media": 2,
+        "society": 2
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-prequel-l2/chunk-001.md"
+        }
+      ],
+      "date": "2023-01-25",
+      "date_source": "front_matter_fallback",
+      "description": "",
+      "episode_id": "main-prequel-l2",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-prequel-l2/meta.json",
+      "meta_path": "data/chunked/main/main-prequel-l2/meta.md",
+      "source_path": "prequel/l2.md",
+      "source_type": "main",
+      "summary": "今天要评点的新闻，基本上来自我在公众号上开的一个栏目：《睡前消息》，欢迎大家关注我的微博、微信",
+      "title": "【末条新闻2】吃狗肉这件事，韩国快撑不住了",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 2,
+        "industry": 0,
+        "international": 1,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-prequel-0/chunk-001.md"
+        }
+      ],
+      "date": "2023-01-25",
+      "date_source": "front_matter_fallback",
+      "description": "",
+      "episode_id": "main-prequel-0",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-prequel-0/meta.json",
+      "meta_path": "data/chunked/main/main-prequel-0/meta.md",
+      "source_path": "prequel/0.md",
+      "source_type": "main",
+      "summary": "从第四年开始，我开始写媒体人日记，记录一些对新闻事件的个人想法，后来就成了《睡前消息》栏目，已经连续更新两年了",
+      "title": "《睡前消息》预告",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 3,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-prequel/chunk-001.md"
+        }
+      ],
+      "date": "2023-01-25",
+      "date_source": "front_matter_fallback",
+      "description": "",
+      "episode_id": "main-prequel",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-prequel/meta.json",
+      "meta_path": "data/chunked/main/main-prequel/meta.md",
+      "source_path": "prequel.md",
+      "source_type": "main",
+      "summary": "在睡前消息第1期之前马前卒的相关视频内容",
+      "title": "前传",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 33,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-008.md"
+        },
+        {
+          "chunk_file": "chunk-009.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-009.md"
+        },
+        {
+          "chunk_file": "chunk-010.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-010.md"
+        },
+        {
+          "chunk_file": "chunk-011.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-011.md"
+        },
+        {
+          "chunk_file": "chunk-012.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-012.md"
+        },
+        {
+          "chunk_file": "chunk-013.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-013.md"
+        },
+        {
+          "chunk_file": "chunk-014.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-014.md"
+        },
+        {
+          "chunk_file": "chunk-015.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-015.md"
+        },
+        {
+          "chunk_file": "chunk-016.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-016.md"
+        },
+        {
+          "chunk_file": "chunk-017.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-017.md"
+        },
+        {
+          "chunk_file": "chunk-018.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-018.md"
+        },
+        {
+          "chunk_file": "chunk-019.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-019.md"
+        },
+        {
+          "chunk_file": "chunk-020.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-020.md"
+        },
+        {
+          "chunk_file": "chunk-021.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-021.md"
+        },
+        {
+          "chunk_file": "chunk-022.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-022.md"
+        },
+        {
+          "chunk_file": "chunk-023.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-023.md"
+        },
+        {
+          "chunk_file": "chunk-024.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-024.md"
+        },
+        {
+          "chunk_file": "chunk-025.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-025.md"
+        },
+        {
+          "chunk_file": "chunk-026.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-026.md"
+        },
+        {
+          "chunk_file": "chunk-027.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-027.md"
+        },
+        {
+          "chunk_file": "chunk-028.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-028.md"
+        },
+        {
+          "chunk_file": "chunk-029.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-029.md"
+        },
+        {
+          "chunk_file": "chunk-030.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-030.md"
+        },
+        {
+          "chunk_file": "chunk-031.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-031.md"
+        },
+        {
+          "chunk_file": "chunk-032.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-032.md"
+        },
+        {
+          "chunk_file": "chunk-033.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-25/chunk-033.md"
+        }
+      ],
+      "date": "2023-01-25",
+      "date_source": "title_explicit",
+      "description": "马前卒直播问答关键词：社会，直播，公务员，核心竞争力，高速发展，蓄能电站，华北平原，媒体调查",
+      "episode_id": "livestream-2023-1-25",
+      "keywords": [
+        "社会",
+        "直播",
+        "公务员",
+        "核心竞争力",
+        "高速发展",
+        "蓄能电站",
+        "华北平原",
+        "媒体调查"
+      ],
+      "meta_json_path": "data/chunked/livestream/livestream-2023-1-25/meta.json",
+      "meta_path": "data/chunked/livestream/livestream-2023-1-25/meta.md",
+      "source_path": "2023/1/25.md",
+      "source_type": "livestream",
+      "summary": "马前卒直播问答关键词：社会，直播，公务员，核心竞争力，高速发展，蓄能电站，华北平原，媒体调查",
+      "title": "马前卒直播问答记录【2023年1月25日】",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 6,
+        "international": 0,
+        "media": 9,
+        "society": 6
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-13-2/chunk-001.md"
+        }
+      ],
+      "date": "2023-01-24",
+      "date_source": "front_matter_fallback",
+      "description": "",
+      "episode_id": "main-1-100-13-2",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-13-2/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-13-2/meta.md",
+      "source_path": "1-100/13-2.md",
+      "source_type": "main",
+      "summary": "任冲昊：** 大家好，这是第13.5期《睡前消息》",
+      "title": "【睡前消息13.5】解放军打赢淮海战役，是如何在后勤上开挂的？",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 3,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 18,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-008.md"
+        },
+        {
+          "chunk_file": "chunk-009.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-009.md"
+        },
+        {
+          "chunk_file": "chunk-010.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-010.md"
+        },
+        {
+          "chunk_file": "chunk-011.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-011.md"
+        },
+        {
+          "chunk_file": "chunk-012.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-012.md"
+        },
+        {
+          "chunk_file": "chunk-013.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-013.md"
+        },
+        {
+          "chunk_file": "chunk-014.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-014.md"
+        },
+        {
+          "chunk_file": "chunk-015.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-015.md"
+        },
+        {
+          "chunk_file": "chunk-016.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-016.md"
+        },
+        {
+          "chunk_file": "chunk-017.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-017.md"
+        },
+        {
+          "chunk_file": "chunk-018.md",
+          "chunk_path": "data/chunked/livestream/livestream-2023-1-7/chunk-018.md"
+        }
+      ],
+      "date": "2023-01-07",
+      "date_source": "title_explicit",
+      "description": "马前卒直播问答关键词：新闻，媒体，全球化，保守主义，大学。",
+      "episode_id": "livestream-2023-1-7",
+      "keywords": [
+        "新闻",
+        "媒体",
+        "全球化",
+        "保守主义",
+        "大学"
+      ],
+      "meta_json_path": "data/chunked/livestream/livestream-2023-1-7/meta.json",
+      "meta_path": "data/chunked/livestream/livestream-2023-1-7/meta.md",
+      "source_path": "2023/1/7.md",
+      "source_type": "livestream",
+      "summary": "马前卒直播问答关键词：新闻，媒体，全球化，保守主义，大学。",
+      "title": "马前卒直播问答记录【2023年1月7日】",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 0,
+        "international": 3,
+        "media": 23,
+        "society": 4
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-532/chunk-001.md"
+        }
+      ],
+      "date": "2023-01-01",
+      "date_source": "body_explicit",
+      "description": "回顾2022年的夏天，大起大落的消息，是00后认识世界的开始。",
+      "episode_id": "main-501-600-532",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-532/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-532/meta.md",
+      "source_path": "501-600/532.md",
+      "source_type": "main",
+      "summary": "回顾2022年的夏天，大起大落的消息，是00后认识世界的开始。",
+      "title": "【睡前消息532】2022新闻合订本（中）",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 4,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-531/chunk-001.md"
+        }
+      ],
+      "date": "2022-12-30",
+      "date_source": "body_explicit",
+      "description": "年终新闻回顾，一年前的中国，刚刚开始武汉全面疫情后的第二轮封城。",
+      "episode_id": "main-501-600-531",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-531/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-531/meta.md",
+      "source_path": "501-600/531.md",
+      "source_type": "main",
+      "summary": "年终新闻回顾，一年前的中国，刚刚开始武汉全面疫情后的第二轮封城。",
+      "title": "【睡前消息531】2022新闻合订本（上）",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 2,
+        "industry": 1,
+        "international": 0,
+        "media": 2,
+        "society": 1
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 7,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/livestream/livestream-2022-12-17/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/livestream/livestream-2022-12-17/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/livestream/livestream-2022-12-17/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/livestream/livestream-2022-12-17/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/livestream/livestream-2022-12-17/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/livestream/livestream-2022-12-17/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/livestream/livestream-2022-12-17/chunk-007.md"
+        }
+      ],
+      "date": "2022-12-17",
+      "date_source": "title_explicit",
+      "description": "马前卒直播问答关键词：自媒体，城市发展，经济发展，大众媒体。",
+      "episode_id": "livestream-2022-12-17",
+      "keywords": [
+        "自媒体",
+        "城市发展",
+        "经济发展",
+        "大众媒体"
+      ],
+      "meta_json_path": "data/chunked/livestream/livestream-2022-12-17/meta.json",
+      "meta_path": "data/chunked/livestream/livestream-2022-12-17/meta.md",
+      "source_path": "2022/12/17.md",
+      "source_type": "livestream",
+      "summary": "马前卒直播问答关键词：自媒体，城市发展，经济发展，大众媒体。",
+      "title": "马督工谈自媒体百态直播摘要【2022年12月17日】",
+      "topic_scores": {
+        "economy": 6,
+        "governance": 4,
+        "industry": 6,
+        "international": 3,
+        "media": 10,
+        "society": 8
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-518/chunk-001.md"
+        }
+      ],
+      "date": "2022-11-29",
+      "date_source": "body_explicit",
+      "description": "正威新材董秘曹亚伟的公开信激情澎湃，成功吸引了我们的注意力。本期我们沿着董秘指出的方向，研究正威集团的上市板块正威新材，发现了熟悉的套路——“收购外国团队➝宣称造芯片➝炒高股价➝套现离场”。而在熟悉的套路背后，有一个中国人更熟悉的名字——德隆系。",
+      "episode_id": "main-501-600-518",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-518/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-518/meta.md",
+      "source_path": "501-600/518.md",
+      "source_type": "main",
+      "summary": "正威新材董秘曹亚伟的公开信激情澎湃，成功吸引了我们的注意力。本期我们沿着董秘指出的方向，研究正威集团的上市板块正威新材，发现了熟悉的套路——“收购外国团队➝宣称造芯片➝炒高股价➝套现离场”。而在熟悉的套路背后，有一个中国人更熟悉的名字——德隆系。",
+      "title": "【睡前消息518】正威新材董秘读经，爱尔兰芯片“德隆造”",
+      "topic_scores": {
+        "economy": 4,
+        "governance": 0,
+        "industry": 4,
+        "international": 1,
+        "media": 5,
+        "society": 1
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-514/chunk-001.md"
+        }
+      ],
+      "date": "2022-11-20",
+      "date_source": "body_explicit",
+      "description": "初三学生的父亲来信，问了一个触及利益和灵魂的问题——“初中生看睡前消息，会不会学坏？”。作为另一个初三学生的父亲，我今天来解释看睡前消息的理由。",
+      "episode_id": "main-501-600-514",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-514/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-514/meta.md",
+      "source_path": "501-600/514.md",
+      "source_type": "main",
+      "summary": "初三学生的父亲来信，问了一个触及利益和灵魂的问题——“初中生看睡前消息，会不会学坏？”。作为另一个初三学生的父亲，我今天来解释看睡前消息的理由。",
+      "title": "【睡前消息514】给05后观众回信：羡慕你的茫然与自由",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 5,
+        "society": 6
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-509/chunk-001.md"
+        }
+      ],
+      "date": "2022-11-10",
+      "date_source": "body_explicit",
+      "description": "打开各大视频网站的影视区，满眼都是“5分钟看大片”，“XX最精彩剪辑”之类的标题。但制作视频的up主又往往声称自己在做影评，并无侵犯版权的意思，相当于利用了《著作权法》24条的“适当引用”权。如何对待这些内容，是中国视频网站绕不过的难题。",
+      "episode_id": "main-501-600-509",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-509/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-509/meta.md",
+      "source_path": "501-600/509.md",
+      "source_type": "main",
+      "summary": "打开各大视频网站的影视区，满眼都是“5分钟看大片”，“XX最精彩剪辑”之类的标题。但制作视频的up主又往往声称自己在做影评，并无侵犯版权的意思，相当于利用了《著作权法》24条的“适当引用”权。如何对待这些内容，是中国视频网站绕不过的难题。",
+      "title": "【睡前消息509】侵权视频罚平台3240万，影视“二创”该怎么管",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 4,
+        "industry": 0,
+        "international": 0,
+        "media": 22,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-508/chunk-001.md"
+        }
+      ],
+      "date": "2022-11-08",
+      "date_source": "body_explicit",
+      "description": "印度游客压垮一座悬索桥，至少141人淹死。看到视频的时候，我几乎不敢相信这是一座150年的旧桥——20世纪晚期的中国，仍然很少见到类似的轻盈悬索结构。印度1880年就能修出充满现代感的全金属吊桥，背后一定有一个复杂的故事。",
+      "episode_id": "main-501-600-508",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-508/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-508/meta.md",
+      "source_path": "501-600/508.md",
+      "source_type": "main",
+      "summary": "印度游客压垮一座悬索桥，至少141人淹死。看到视频的时候，我几乎不敢相信这是一座150年的旧桥——20世纪晚期的中国，仍然很少见到类似的轻盈悬索结构。印度1880年就能修出充满现代感的全金属吊桥，背后一定有一个复杂的故事。",
+      "title": "【睡前消息508】一个半世纪的悬索桥，承受了不应有的负担",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 1,
+        "international": 0,
+        "media": 1,
+        "society": 0
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-501/chunk-001.md"
+        }
+      ],
+      "date": "2022-10-23",
+      "date_source": "body_explicit",
+      "description": "最近2个月，辛吉飞经历了人生的大起大落，先是演示各种食品制作技巧，暗示现代食品工艺不可信，获取了700万粉丝，然后又担心影响力失控，主动注销账号。这是辛吉飞个人的悲喜剧，更是我们社会的问题——集体诉讼制度本来可以让辛吉飞充分发挥自己的才华。",
+      "episode_id": "main-501-600-501",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-501/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-501/meta.md",
+      "source_path": "501-600/501.md",
+      "source_type": "main",
+      "summary": "最近2个月，辛吉飞经历了人生的大起大落，先是演示各种食品制作技巧，暗示现代食品工艺不可信，获取了700万粉丝，然后又担心影响力失控，主动注销账号。这是辛吉飞个人的悲喜剧，更是我们社会的问题——集体诉讼制度本来可以让辛吉飞充分发挥自己的才华。",
+      "title": "【睡前消息501】给辛吉飞一个机会，让他“站着挣钱”",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 1,
+        "industry": 2,
+        "international": 0,
+        "media": 10,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 4,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-499/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-499/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-499/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-499/chunk-004.md"
+        }
+      ],
+      "date": "2022-10-18",
+      "date_source": "body_explicit",
+      "description": "500期就要到了，观众在评论区提出新思维——能不能用AI制作睡前消息。我准备总结一下节目套路，帮助AI替代我的编辑工作。但就算节目用AI制作，观众的评论区依然是不可替代的。",
+      "episode_id": "main-401-500-499",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-499/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-499/meta.md",
+      "source_path": "401-500/499.md",
+      "source_type": "main",
+      "summary": "500期就要到了，观众在评论区提出新思维——能不能用AI制作睡前消息。我准备总结一下节目套路，帮助AI替代我的编辑工作。但就算节目用AI制作，观众的评论区依然是不可替代的。",
+      "title": "【睡前消息499】评论区=半个节目,400-500期评论区回顾（下）",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 5,
+        "industry": 7,
+        "international": 1,
+        "media": 8,
+        "society": 6
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 2,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-497/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-497/chunk-002.md"
+        }
+      ],
+      "date": "2022-10-14",
+      "date_source": "body_explicit",
+      "description": "又到了睡前消息节目的阶段性回顾时间。最近B站增加了一个功能，允许观众以“笔记长评”的模式，对视频做深入分析，但似乎用的人还不多。马上就500期了，我用一两期节目回顾过去100期让我印象深刻的评论， 希望各位观众多发评论多发弹幕。",
+      "episode_id": "main-401-500-497",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-497/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-497/meta.md",
+      "source_path": "401-500/497.md",
+      "source_type": "main",
+      "summary": "又到了睡前消息节目的阶段性回顾时间。最近B站增加了一个功能，允许观众以“笔记长评”的模式，对视频做深入分析，但似乎用的人还不多。马上就500期了，我用一两期节目回顾过去100期让我印象深刻的评论， 希望各位观众多发评论多发弹幕。",
+      "title": "【睡前消息497】评论区才是睡前消息本体,400-500期评论区回顾（上）",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 7,
+        "international": 0,
+        "media": 9,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-493/chunk-001.md"
+        }
+      ],
+      "date": "2022-10-04",
+      "date_source": "body_explicit",
+      "description": "从年初开始，睡前消息编辑部就一直尝试和观众进行双向交流，目前已经用观众投稿制作了8期“蛋卷俱乐部”会员资讯。在下一步继续提升交流效率之前，我选出几篇有特色的投稿重点分享，希望这样的交流越来越多，多到我们可以每周多做一两期节目。",
+      "episode_id": "main-401-500-493",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-493/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-493/meta.md",
+      "source_path": "401-500/493.md",
+      "source_type": "main",
+      "summary": "从年初开始，睡前消息编辑部就一直尝试和观众进行双向交流，目前已经用观众投稿制作了8期“蛋卷俱乐部”会员资讯。在下一步继续提升交流效率之前，我选出几篇有特色的投稿重点分享，希望这样的交流越来越多，多到我们可以每周多做一两期节目。",
+      "title": "【睡前消息493】向观众要创意，向观众要生活",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 8,
+        "society": 3
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 2,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-490/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-490/chunk-002.md"
+        }
+      ],
+      "date": "2022-09-27",
+      "date_source": "body_explicit",
+      "description": "极简版文化产品分类方案——排列：真、善、美，三个元素。当首位元素为“真”的时候，文化产品定性为媒体；当首位元素为“善”的时候，定性为宗教；如果首位元素是“美”，那就是戏剧。中国的当务之急是加强文化立法，为三种文化产品划分赛道，否则虚假信息可能会“绊倒”整个社会。",
+      "episode_id": "main-401-500-490",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-490/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-490/meta.md",
+      "source_path": "401-500/490.md",
+      "source_type": "main",
+      "summary": "极简版文化产品分类方案——排列：真、善、美，三个元素。当首位元素为“真”的时候，文化产品定性为媒体；当首位元素为“善”的时候，定性为宗教；如果首位元素是“美”，那就是戏剧。中国的当务之急是加强文化立法，为三种文化产品划分赛道，否则虚假信息可能会“绊倒”整个社会。",
+      "title": "【睡前消息490】三元素模型，给中国文化“分赛道”",
+      "topic_scores": {
+        "economy": 5,
+        "governance": 1,
+        "industry": 4,
+        "international": 0,
+        "media": 12,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 3,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-487/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-487/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-487/chunk-003.md"
+        }
+      ],
+      "date": "2022-09-20",
+      "date_source": "body_explicit",
+      "description": "作为资深用户，我能理解知乎赚钱比其他平台少，但很难理解知乎为什么会亏损。今年上半年，知乎的月活跃用户超过1亿，同时净亏损8亿，这似乎说明知乎的运营团队从来没理解过自身的优势。",
+      "episode_id": "main-401-500-487",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-487/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-487/meta.md",
+      "source_path": "401-500/487.md",
+      "source_type": "main",
+      "summary": "作为资深用户，我能理解知乎赚钱比其他平台少，但很难理解知乎为什么会亏损。今年上半年，知乎的月活跃用户超过1亿，同时净亏损8亿，这似乎说明知乎的运营团队从来没理解过自身的优势。",
+      "title": "【睡前消息487】半年亏8亿，知乎守着印钞机要饭",
+      "topic_scores": {
+        "economy": 6,
+        "governance": 0,
+        "industry": 1,
+        "international": 0,
+        "media": 22,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-486/chunk-001.md"
+        }
+      ],
+      "date": "2022-09-18",
+      "date_source": "body_explicit",
+      "description": "9月8日英国老女王去世，巧合的是，印度总理莫迪这一天在新德里更改地名，消灭了殖民时代的“国王大街”，竖起了钱德拉·鲍斯塑像。从印度史的视角看，钱德拉·鲍斯是现代印度的国父；从世界史的视角看，他是第二次世界大战期间最强的投机商+最伟大的旅行者，值得用一期节目专门介绍。",
+      "episode_id": "main-401-500-486",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-486/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-486/meta.md",
+      "source_path": "401-500/486.md",
+      "source_type": "main",
+      "summary": "9月8日英国老女王去世，巧合的是，印度总理莫迪这一天在新德里更改地名，消灭了殖民时代的“国王大街”，竖起了钱德拉·鲍斯塑像。从印度史的视角看，钱德拉·鲍斯是现代印度的国父；从世界史的视角看，他是第二次世界大战期间最强的投机商+最伟大的旅行者，值得用一期节目专门介绍。",
+      "title": "【睡前消息486】一个印度人，串起二战史——钱德拉·鲍斯旅行记",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 2,
+        "media": 1,
+        "society": 1
+      },
+      "topics": [
+        "international",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 4,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-464/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-464/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-464/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-464/chunk-004.md"
+        }
+      ],
+      "date": "2022-07-29",
+      "date_source": "body_explicit",
+      "description": "“二舅治精神内耗”的视频播放量三千多万，相当于一个中等省份的成年人数量，这是一次“国民级”传播事件。根据马克思主义基本原理，重大文化事件必然和社会的主要矛盾相关。本期节目先定义 “精神内耗”的社会基础，再分析视频广泛传播的原因。",
+      "episode_id": "main-401-500-464",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-464/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-464/meta.md",
+      "source_path": "401-500/464.md",
+      "source_type": "main",
+      "summary": "“二舅治精神内耗”的视频播放量三千多万，相当于一个中等省份的成年人数量，这是一次“国民级”传播事件。根据马克思主义基本原理，重大文化事件必然和社会的主要矛盾相关。本期节目先定义 “精神内耗”的社会基础，再分析视频广泛传播的原因。",
+      "title": "【睡前消息464】面对精神内耗，“二舅”不如《棋王》",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 25,
+        "society": 14
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-457/chunk-001.md"
+        }
+      ],
+      "date": "2022-07-12",
+      "date_source": "body_explicit",
+      "description": "用“马督工”、“马前卒”、“任冲昊”或者“睡前消息”作关键字，在各个网站搜索的内容都是负面信息居多。457期节目做下来，睡前消息也许是国内激发骂声最多的自媒体节目。本期内容沿着骂声回溯，解释睡前消息的最大“特色”。",
+      "episode_id": "main-401-500-457",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-457/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-457/meta.md",
+      "source_path": "401-500/457.md",
+      "source_type": "main",
+      "summary": "用“马督工”、“马前卒”、“任冲昊”或者“睡前消息”作关键字，在各个网站搜索的内容都是负面信息居多。457期节目做下来，睡前消息也许是国内激发骂声最多的自媒体节目。本期内容沿着骂声回溯，解释睡前消息的最大“特色”。",
+      "title": "【睡前消息457】三周年纪念，在骂声中成长",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 6,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 4,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-454/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-454/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-454/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-454/chunk-004.md"
+        }
+      ],
+      "date": "2022-07-05",
+      "date_source": "body_explicit",
+      "description": "塞尔维亚只有700多万人，人均gdp低于中国。连任总统武契奇控制的资源，只相当于中国一个普通地级市。但是，武契奇很擅长在外交场合做表演，给各国媒体创造头条话题，所以在中国名气不小。这和武契奇的职业有关系——他和自己的母亲都曾经是资深记者，给媒体创造话题可以算是“家传绝学”。",
+      "episode_id": "main-401-500-454",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-454/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-454/meta.md",
+      "source_path": "401-500/454.md",
+      "source_type": "main",
+      "summary": "塞尔维亚只有700多万人，人均gdp低于中国。连任总统武契奇控制的资源，只相当于中国一个普通地级市。但是，武契奇很擅长在外交场合做表演，给各国媒体创造头条话题，所以在中国名气不小。这和武契奇的职业有关系——他和自己的母亲都曾经是资深记者，给媒体创造话题可以算是“家传绝学”。",
+      "title": "【睡前消息454】电动两轮产业升级，武契奇连任。",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 2,
+        "international": 4,
+        "media": 4,
+        "society": 4
+      },
+      "topics": [
+        "international",
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-451/chunk-001.md"
+        }
+      ],
+      "date": "2022-06-28",
+      "date_source": "body_explicit",
+      "description": "丹东“袭警”事件，连续出现了三个版本的信息：警方通告、官方视频和路过市民的手机录像，每次都会推翻上一阶段的“事实”。这和唐山烧烤店打人事件一样，都是视频自媒体时代才会出现的媒体传播事件。中国公民在21世纪的安全，只能靠全面信息监测和独立的数据管理机构来保证。",
+      "episode_id": "main-401-500-451",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-451/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-451/meta.md",
+      "source_path": "401-500/451.md",
+      "source_type": "main",
+      "summary": "丹东“袭警”事件，连续出现了三个版本的信息：警方通告、官方视频和路过市民的手机录像，每次都会推翻上一阶段的“事实”。这和唐山烧烤店打人事件一样，都是视频自媒体时代才会出现的媒体传播事件。中国公民在21世纪的安全，只能靠全面信息监测和独立的数据管理机构来保证。",
+      "title": "【睡前消息451】丹东“袭警”事件，对付“碰瓷”靠信息公开",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 8,
+        "industry": 0,
+        "international": 0,
+        "media": 11,
+        "society": 3
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 8,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-450/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-450/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-450/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-450/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-401-500-450/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-401-500-450/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-401-500-450/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-401-500-450/chunk-008.md"
+        }
+      ],
+      "date": "2022-06-26",
+      "date_source": "body_explicit",
+      "description": "5月第429期节目分析郑州房产问题，我们认为核心矛盾是郑州产业升级停滞，财政紧张。6月，河南连续出现负面消息，官方处理方案总是避免做明确结论，想通过模糊政策避免财政破产，这再次证明经济基础会扭曲“上层建筑”。以后中国人回顾历史，可以把郑州红码事件当做典型案例，理解2022年的中国。",
+      "episode_id": "main-401-500-450",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-450/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-450/meta.md",
+      "source_path": "401-500/450.md",
+      "source_type": "main",
+      "summary": "5月第429期节目分析郑州房产问题，我们认为核心矛盾是郑州产业升级停滞，财政紧张。6月，河南连续出现负面消息，官方处理方案总是避免做明确结论，想通过模糊政策避免财政破产，这再次证明经济基础会扭曲“上层建筑”。以后中国人回顾历史，可以把郑州红码事件当做典型案例，理解2022年的中国。",
+      "title": "【睡前消息450】历史会记住郑州红码事件",
+      "topic_scores": {
+        "economy": 4,
+        "governance": 6,
+        "industry": 2,
+        "international": 0,
+        "media": 7,
+        "society": 3
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 9,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-436/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-436/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-436/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-436/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-401-500-436/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-401-500-436/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-401-500-436/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-401-500-436/chunk-008.md"
+        },
+        {
+          "chunk_file": "chunk-009.md",
+          "chunk_path": "data/chunked/main/main-401-500-436/chunk-009.md"
+        }
+      ],
+      "date": "2022-05-24",
+      "date_source": "body_explicit",
+      "description": "虚拟偶像A-SOUL团队出现劳资纠纷，珈乐的“中之人”不满续约条件，但其他四人选择了续约。几十万粉丝估算自己的打赏，发现只有很小一部分发给了直接操纵形象的“中之人”，认为资本欺骗了自己的感情，发起集体抗议。睡前消息编辑部也被邀请参加讨论，本期是对这部分观众的回应。",
+      "episode_id": "main-401-500-436",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-436/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-436/meta.md",
+      "source_path": "401-500/436.md",
+      "source_type": "main",
+      "summary": "虚拟偶像A-SOUL团队出现劳资纠纷，珈乐的“中之人”不满续约条件，但其他四人选择了续约。几十万粉丝估算自己的打赏，发现只有很小一部分发给了直接操纵形象的“中之人”，认为资本欺骗了自己的感情，发起集体抗议。睡前消息编辑部也被邀请参加讨论，本期是对这部分观众的回应。",
+      "title": "【睡前消息436】想拯救“中之人”，A-SOUL粉丝不够用",
+      "topic_scores": {
+        "economy": 5,
+        "governance": 0,
+        "industry": 3,
+        "international": 0,
+        "media": 23,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 6,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-593/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-501-600-593/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-501-600-593/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-501-600-593/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-501-600-593/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-501-600-593/chunk-006.md"
+        }
+      ],
+      "date": "2022-05-23",
+      "date_source": "body_explicit",
+      "description": "美国保守派媒体福克斯新闻刚刚付出7.87亿美元，平息了新闻史上最高的诽谤索赔诉讼。同时，另一家企业以相同的理由，提出了20多亿美元的索赔。看到这两条新闻，我期待中国媒体也能享受类似的法律考验。",
+      "episode_id": "main-501-600-593",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-593/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-593/meta.md",
+      "source_path": "501-600/593.md",
+      "source_type": "main",
+      "summary": "美国保守派媒体福克斯新闻刚刚付出7.87亿美元，平息了新闻史上最高的诽谤索赔诉讼。同时，另一家企业以相同的理由，提出了20多亿美元的索赔。看到这两条新闻，我期待中国媒体也能享受类似的法律考验。",
+      "title": "【睡前消息593】一个段子7亿$，中国可以学习",
+      "topic_scores": {
+        "economy": 3,
+        "governance": 10,
+        "industry": 1,
+        "international": 12,
+        "media": 15,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 5,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-432/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-432/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-432/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-432/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-401-500-432/chunk-005.md"
+        }
+      ],
+      "date": "2022-05-15",
+      "date_source": "body_explicit",
+      "description": "1986年，独裁近20年的老马科斯总统一家被市民围攻，靠美国直升机逃命。2022年，小马科斯高票当选总统，“洗白”了全家贪污上百亿美元的黑历史。看似荒诞的事实，背后是菲律宾畸形的社会结构，以及被政治家族偷走的发展潜力。",
+      "episode_id": "main-401-500-432",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-432/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-432/meta.md",
+      "source_path": "401-500/432.md",
+      "source_type": "main",
+      "summary": "1986年，独裁近20年的老马科斯总统一家被市民围攻，靠美国直升机逃命。2022年，小马科斯高票当选总统，“洗白”了全家贪污上百亿美元的黑历史。看似荒诞的事实，背后是菲律宾畸形的社会结构，以及被政治家族偷走的发展潜力。",
+      "title": "【睡前消息432】偷走国家的未来，再送儿子当总统",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 2,
+        "industry": 0,
+        "international": 4,
+        "media": 10,
+        "society": 5
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-431/chunk-001.md"
+        }
+      ],
+      "date": "2022-05-13",
+      "date_source": "body_explicit",
+      "description": "十几年前，我读完《时间地图-大历史导论》，发现自己的思考宽度被明显拓展，所以写了一篇读后感。2022年的今天，我发现大多数中国人依然缺乏历史唯物主义思想，缺乏对国家性质，对历史遗产的正确认识，所以今天我继续向观众推荐这本唯物主义历史参考书。",
+      "episode_id": "main-401-500-431",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-431/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-431/meta.md",
+      "source_path": "401-500/431.md",
+      "source_type": "main",
+      "summary": "十几年前，我读完《时间地图-大历史导论》，发现自己的思考宽度被明显拓展，所以写了一篇读后感。2022年的今天，我发现大多数中国人依然缺乏历史唯物主义思想，缺乏对国家性质，对历史遗产的正确认识，所以今天我继续向观众推荐这本唯物主义历史参考书。",
+      "title": "【睡前消息431】推书《时间地图》，学历史唯物主义",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 1,
+        "international": 3,
+        "media": 5,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 4,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-428/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-428/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-428/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-428/chunk-004.md"
+        }
+      ],
+      "date": "2022-05-06",
+      "date_source": "body_explicit",
+      "description": "从2020年武汉，到2021年底西安，再到2022年几个大城市共同封控，中国已经多次叫停发达地区经济生活，阻断疫情。古人说“久病成医”，中国社会也该总结一下几个样本的经验，回答一个重要问题——怎样封城，时间最短？",
+      "episode_id": "main-401-500-428",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-428/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-428/meta.md",
+      "source_path": "401-500/428.md",
+      "source_type": "main",
+      "summary": "从2020年武汉，到2021年底西安，再到2022年几个大城市共同封控，中国已经多次叫停发达地区经济生活，阻断疫情。古人说“久病成医”，中国社会也该总结一下几个样本的经验，回答一个重要问题——怎样封城，时间最短？",
+      "title": "【睡前消息428】怎样封城，时间最短？",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 1,
+        "industry": 7,
+        "international": 1,
+        "media": 6,
+        "society": 6
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-425/chunk-001.md"
+        }
+      ],
+      "date": "2022-04-29",
+      "date_source": "body_explicit",
+      "description": "月28日，以岭药业公布2021年年报和2022第一季度季报。虽然利润有所下降，但还是有个好消息——销售人员从1.07万，减少到9095人，占全部员工的比例，终于降到了60%。在这个好日子，我们发现“连花清瘟预防新冠肺炎”相关论文并不成立。",
+      "episode_id": "main-401-500-425",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-425/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-425/meta.md",
+      "source_path": "401-500/425.md",
+      "source_type": "main",
+      "summary": "月28日，以岭药业公布2021年年报和2022第一季度季报。虽然利润有所下降，但还是有个好消息——销售人员从1.07万，减少到9095人，占全部员工的比例，终于降到了60%。在这个好日子，我们发现“连花清瘟预防新冠肺炎”相关论文并不成立。",
+      "title": "【睡前消息425】雇一万个推销员，连花清瘟也不预防新冠",
+      "topic_scores": {
+        "economy": 3,
+        "governance": 1,
+        "industry": 2,
+        "international": 0,
+        "media": 3,
+        "society": 2
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-424/chunk-001.md"
+        }
+      ],
+      "date": "2022-04-26",
+      "date_source": "body_explicit",
+      "description": "十年前的2012年4月，观察者网转型。我作为一个前土木工程师，没有任何正式媒体工作履历，只有网络社区讨论的经验，就要被赶鸭子上架搞新闻网站。事实证明，百度+快速学习+构建模型的套餐还算管用，今天我们再拿它研究一下以岭药业。",
+      "episode_id": "main-401-500-424",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-424/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-424/meta.md",
+      "source_path": "401-500/424.md",
+      "source_type": "main",
+      "summary": "十年前的2012年4月，观察者网转型。我作为一个前土木工程师，没有任何正式媒体工作履历，只有网络社区讨论的经验，就要被赶鸭子上架搞新闻网站。事实证明，百度+快速学习+构建模型的套餐还算管用，今天我们再拿它研究一下以岭药业。",
+      "title": "【睡前消息424】媒体十年纪念，拿以岭药业做个示范",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 1,
+        "industry": 1,
+        "international": 1,
+        "media": 8,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 7,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-422/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-422/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-422/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-422/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-401-500-422/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-401-500-422/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-401-500-422/chunk-007.md"
+        }
+      ],
+      "date": "2022-04-22",
+      "date_source": "body_explicit",
+      "description": "4月20日，连花清瘟唯一生产商以岭药业宣布报案。作为本次股价异常波动事件的起点，马督工坚决支持以岭药业拿起法律工具，帮中国证券市场重建秩序，希望证监会介入调查。同时，马督工个人愿付5万元悬赏。如有人主动提供证据，正确指控制造错误信息的主谋，法院判决之后立刻发奖。",
+      "episode_id": "main-401-500-422",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-422/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-422/meta.md",
+      "source_path": "401-500/422.md",
+      "source_type": "main",
+      "summary": "4月20日，连花清瘟唯一生产商以岭药业宣布报案。作为本次股价异常波动事件的起点，马督工坚决支持以岭药业拿起法律工具，帮中国证券市场重建秩序，希望证监会介入调查。同时，马督工个人愿付5万元悬赏。如有人主动提供证据，正确指控制造错误信息的主谋，法院判决之后立刻发奖。",
+      "title": "【睡前消息422】马督工悬赏5万，保卫连花清瘟",
+      "topic_scores": {
+        "economy": 13,
+        "governance": 3,
+        "industry": 3,
+        "international": 2,
+        "media": 21,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-420/chunk-001.md"
+        }
+      ],
+      "date": "2022-04-17",
+      "date_source": "body_explicit",
+      "description": "上海全境封控，不少电商平台接近停摆。但几千万人口已经离不开电商平台了，所以每个小区都自发组织团购，在“团长”领导下购物自救，仿佛主力部队撤退之后的游击队。4月16日，上海人惊喜地发现，京东回来了。",
+      "episode_id": "main-401-500-420",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-420/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-420/meta.md",
+      "source_path": "401-500/420.md",
+      "source_type": "main",
+      "summary": "上海全境封控，不少电商平台接近停摆。但几千万人口已经离不开电商平台了，所以每个小区都自发组织团购，在“团长”领导下购物自救，仿佛主力部队撤退之后的游击队。4月16日，上海人惊喜地发现，京东回来了。",
+      "title": "【睡前消息420】3000快递援军进上海，为什么是京东？",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 0,
+        "international": 0,
+        "media": 2,
+        "society": 1
+      },
+      "topics": [
+        "governance",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-417/chunk-001.md"
+        }
+      ],
+      "date": "2022-04-10",
+      "date_source": "body_explicit",
+      "description": "周二的节目，我晒了自己收到的唯一防疫物资——连花清瘟胶囊。很多老观众想起来，我之前的节目多次质疑连花清瘟的药效和营销模式，这次算是“现世报”。还有观众告诉我，3月底，世界卫生组织推荐用连花清瘟抵抗新冠病毒。过去一周，造连花清瘟的企业——以岭药业，股价两次涨停。我来分析一下金融问题。",
+      "episode_id": "main-401-500-417",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-417/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-417/meta.md",
+      "source_path": "401-500/417.md",
+      "source_type": "main",
+      "summary": "周二的节目，我晒了自己收到的唯一防疫物资——连花清瘟胶囊。很多老观众想起来，我之前的节目多次质疑连花清瘟的药效和营销模式，这次算是“现世报”。还有观众告诉我，3月底，世界卫生组织推荐用连花清瘟抵抗新冠病毒。过去一周，造连花清瘟的企业——以岭药业，股价两次涨停。我来分析一下金融问题。",
+      "title": "【睡前消息417】世卫组织“推荐”连花清瘟，谁告诉你的？",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 2,
+        "industry": 0,
+        "international": 0,
+        "media": 4,
+        "society": 5
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-415/chunk-001.md"
+        }
+      ],
+      "date": "2022-04-05",
+      "date_source": "body_explicit",
+      "description": "杭州万科大溪谷小区业主群提出了一个惊人的建议：每户出50万，众筹20亿，把地铁延长线修到小区门口，对住户和投资者都有好处。这个建议在当前的中国听着很荒谬，但经济上似乎又有合理之处。荒谬性与合理性的冲突，就是媒体应该关注的点。",
+      "episode_id": "main-401-500-415",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-415/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-415/meta.md",
+      "source_path": "401-500/415.md",
+      "source_type": "main",
+      "summary": "杭州万科大溪谷小区业主群提出了一个惊人的建议：每户出50万，众筹20亿，把地铁延长线修到小区门口，对住户和投资者都有好处。这个建议在当前的中国听着很荒谬，但经济上似乎又有合理之处。荒谬性与合理性的冲突，就是媒体应该关注的点。",
+      "title": "【睡前消息415】业主众筹20亿修地铁，不能当笑话看",
+      "topic_scores": {
+        "economy": 3,
+        "governance": 0,
+        "industry": 3,
+        "international": 0,
+        "media": 3,
+        "society": 1
+      },
+      "topics": [
+        "economy",
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 6,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-411/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-411/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-401-500-411/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-401-500-411/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-401-500-411/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-401-500-411/chunk-006.md"
+        }
+      ],
+      "date": "2022-03-27",
+      "date_source": "body_explicit",
+      "description": "到现在为止，二甲双胍还是处方药。虽然很多数据表明，二甲双胍很可能对大多数人有延寿效果，但人类并不清楚起效机理，而且担心它破坏线粒体。2022年初，厦门大学的研究团队用穷举法确定了二甲双胍的起效原因，而且排除了最重要的副作用隐患。",
+      "episode_id": "main-401-500-411",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-411/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-411/meta.md",
+      "source_path": "401-500/411.md",
+      "source_type": "main",
+      "summary": "到现在为止，二甲双胍还是处方药。虽然很多数据表明，二甲双胍很可能对大多数人有延寿效果，但人类并不清楚起效机理，而且担心它破坏线粒体。2022年初，厦门大学的研究团队用穷举法确定了二甲双胍的起效原因，而且排除了最重要的副作用隐患。",
+      "title": "【睡前消息411】二甲双胍“封神”路，中国竖起里程碑",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 4,
+        "international": 3,
+        "media": 4,
+        "society": 2
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-407/chunk-001.md"
+        }
+      ],
+      "date": "2022-03-18",
+      "date_source": "body_explicit",
+      "description": "48小时封控隔离，终于轮到了睡前消息编辑部所在的街区。马督工一个人在办公室，掏出手机，录了最简陋的一期。",
+      "episode_id": "main-401-500-407",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-407/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-407/meta.md",
+      "source_path": "401-500/407.md",
+      "source_type": "main",
+      "summary": "48小时封控隔离，终于轮到了睡前消息编辑部所在的街区。马督工一个人在办公室，掏出手机，录了最简陋的一期。",
+      "title": "【睡前消息407】困在封控区，节目不能停",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 1,
+        "international": 0,
+        "media": 3,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 2,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-401-500-404/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-401-500-404/chunk-002.md"
+        }
+      ],
+      "date": "2022-03-11",
+      "date_source": "body_explicit",
+      "description": "去年韩国人口开始下降，今年韩国大选，年轻人投票率出奇地高，选了偏保守的右翼政客上台。未来几十年，主导韩国政治的，就是这些逐渐老去的“年轻人”。",
+      "episode_id": "main-401-500-404",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-401-500-404/meta.json",
+      "meta_path": "data/chunked/main/main-401-500-404/meta.md",
+      "source_path": "401-500/404.md",
+      "source_type": "main",
+      "summary": "去年韩国人口开始下降，今年韩国大选，年轻人投票率出奇地高，选了偏保守的右翼政客上台。未来几十年，主导韩国政治的，就是这些逐渐老去的“年轻人”。",
+      "title": "【睡前消息404】分析韩国总统，不如分析韩国年轻人",
+      "topic_scores": {
+        "economy": 4,
+        "governance": 4,
+        "industry": 0,
+        "international": 1,
+        "media": 7,
+        "society": 3
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 5,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-400/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-301-400-400/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-301-400-400/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-301-400-400/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-301-400-400/chunk-005.md"
+        }
+      ],
+      "date": "2022-03-01",
+      "date_source": "body_explicit",
+      "description": "第400期节目回顾一起不太久远的“旧闻”——刘学州事件。这位少年的自杀和新京报的关联，曾经引起全网激烈讨论，但现在已经完全被国际新闻盖过去了。2022年起，中国将进入人口下降周期，如何保护越来越稀少的未成年人，是所有人绕不开的的问题，刘学州事件不能被淡忘。",
+      "episode_id": "main-301-400-400",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-400/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-400/meta.md",
+      "source_path": "301-400/400.md",
+      "source_type": "main",
+      "summary": "第400期节目回顾一起不太久远的“旧闻”——刘学州事件。这位少年的自杀和新京报的关联，曾经引起全网激烈讨论，但现在已经完全被国际新闻盖过去了。2022年起，中国将进入人口下降周期，如何保护越来越稀少的未成年人，是所有人绕不开的的问题，刘学州事件不能被淡忘。",
+      "title": "【睡前消息400】刘学州事件，不能就这么过去",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 3,
+        "industry": 4,
+        "international": 1,
+        "media": 14,
+        "society": 7
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 7,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-553/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-501-600-553/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-501-600-553/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-501-600-553/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-501-600-553/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-501-600-553/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-501-600-553/chunk-007.md"
+        }
+      ],
+      "date": "2022-02-19",
+      "date_source": "body_explicit",
+      "description": "辉瑞公司高管被钓鱼的视频，是2月初的中国舆论场热点。然而热度来得快，去得更快，秘密就在于某一类媒体挡住的下半句。",
+      "episode_id": "main-501-600-553",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-553/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-553/meta.md",
+      "source_path": "501-600/553.md",
+      "source_type": "main",
+      "summary": "辉瑞公司高管被钓鱼的视频，是2月初的中国舆论场热点。然而热度来得快，去得更快，秘密就在于某一类媒体挡住的下半句。",
+      "title": "【睡前消息553】钓鱼辉瑞高管，精选中国狗粮",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 9,
+        "international": 3,
+        "media": 22,
+        "society": 8
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 6,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-392/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-301-400-392/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-301-400-392/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-301-400-392/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-301-400-392/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-301-400-392/chunk-006.md"
+        }
+      ],
+      "date": "2022-02-11",
+      "date_source": "body_explicit",
+      "description": "网络视频引用影视片段是常见的创作手法。但在2021年，网络舆论就此激烈争吵，有人认为应该优先保护影视版权，有人认为应该优先鼓励用户的创作精神，似乎两者完全不能协调。年底的“短视频最严新规”做了明确结论，但似乎也很难严格执行。要解开这个矛盾，我们首先要考虑如何发挥社会主义制度的优越性，而不是抄袭迪士尼那种腐朽的资本主义版权壁垒。",
+      "episode_id": "main-301-400-392",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-392/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-392/meta.md",
+      "source_path": "301-400/392.md",
+      "source_type": "main",
+      "summary": "网络视频引用影视片段是常见的创作手法。但在2021年，网络舆论就此激烈争吵，有人认为应该优先保护影视版权，有人认为应该优先鼓励用户的创作精神，似乎两者完全不能协调。年底的“短视频最严新规”做了明确结论，但似乎也很难严格执行。要解开这个矛盾，我们首先要考虑如何发挥社会主义制度的优越性，而不是抄袭迪士尼那种腐朽的资本主义版权壁垒。",
+      "title": "【睡前消息392】垄断影视版权，对谁都没好处",
+      "topic_scores": {
+        "economy": 6,
+        "governance": 2,
+        "industry": 3,
+        "international": 2,
+        "media": 44,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 6,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-501-600-548/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-501-600-548/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-501-600-548/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-501-600-548/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-501-600-548/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-501-600-548/chunk-006.md"
+        }
+      ],
+      "date": "2022-02-07",
+      "date_source": "body_explicit",
+      "description": "2001年的小说《围棋少女》几乎已经被遗忘了。但一些媒体挖出“刘亦菲推荐”的话题，又掀起一波批判浪潮。但只要读过原文就知道，这些无脑批判内容纯属编造。如果批判内容来自媒体团队，说明他们鄙视中国人，利用信息差刷流量；如果批判言论来自你认识的人，那就是是轻佻少主见，不值得深入合作。",
+      "episode_id": "main-501-600-548",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-501-600-548/meta.json",
+      "meta_path": "data/chunked/main/main-501-600-548/meta.md",
+      "source_path": "501-600/548.md",
+      "source_type": "main",
+      "summary": "2001年的小说《围棋少女》几乎已经被遗忘了。但一些媒体挖出“刘亦菲推荐”的话题，又掀起一波批判浪潮。但只要读过原文就知道，这些无脑批判内容纯属编造。如果批判内容来自媒体团队，说明他们鄙视中国人，利用信息差刷流量；如果批判言论来自你认识的人，那就是是轻佻少主见，不值得深入合作。",
+      "title": "【睡前消息548】刘亦菲与《围棋少女》，帮你鉴定朋友",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 11,
+        "media": 24,
+        "society": 4
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-388/chunk-001.md"
+        }
+      ],
+      "date": "2022-02-02",
+      "date_source": "body_explicit",
+      "description": "“鬼火少年”曾经是前几年的网络流行词，专指岭南尤其是广西的十几岁骑手，开着改装摩托车，挂着酷炫的LED灯，放着震耳的音乐成群出游，用消极娱乐抵抗青春迷茫。然而，网络段子一闪而过，主流社会很快忘掉了这个上千万人的亚文化群体，没人在乎他们如何成长，如何告别自己的青春——除了导演韩寒。",
+      "episode_id": "main-301-400-388",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-388/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-388/meta.md",
+      "source_path": "301-400/388.md",
+      "source_type": "main",
+      "summary": "“鬼火少年”曾经是前几年的网络流行词，专指岭南尤其是广西的十几岁骑手，开着改装摩托车，挂着酷炫的LED灯，放着震耳的音乐成群出游，用消极娱乐抵抗青春迷茫。然而，网络段子一闪而过，主流社会很快忘掉了这个上千万人的亚文化群体，没人在乎他们如何成长，如何告别自己的青春——除了导演韩寒。",
+      "title": "【睡前消息388】正月初一 只有韩寒记得鬼火少年",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 2,
+        "international": 0,
+        "media": 7,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-381/chunk-001.md"
+        }
+      ],
+      "date": "2022-01-18",
+      "date_source": "body_explicit",
+      "description": "去年9月，睡前消息节目发起了一次科幻征文活动，在视频时代鼓励观众用文字表达想象力。我读过了每一篇有效投稿，现在给观众分享我的阅读惊喜。希望科幻文学能一直陪伴人类前行。",
+      "episode_id": "main-301-400-381",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-381/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-381/meta.md",
+      "source_path": "301-400/381.md",
+      "source_type": "main",
+      "summary": "去年9月，睡前消息节目发起了一次科幻征文活动，在视频时代鼓励观众用文字表达想象力。我读过了每一篇有效投稿，现在给观众分享我的阅读惊喜。希望科幻文学能一直陪伴人类前行。",
+      "title": "【睡前消息381】科幻颁奖 洪森传位",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 3,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-363/chunk-001.md"
+        }
+      ],
+      "date": "2021-12-07",
+      "date_source": "body_explicit",
+      "description": "近期很多观众要求马前卒工作室分析联想公司。我和同事的第一反应是“没什么可再说的”。但是，看到最近的舆情，我们意识到，联想公司的合法性，不仅仅是一个历史话题，更是一个现实的传播学事件，所以我们选择了熟悉的角度再来谈谈。",
+      "episode_id": "main-301-400-363",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-363/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-363/meta.md",
+      "source_path": "301-400/363.md",
+      "source_type": "main",
+      "summary": "近期很多观众要求马前卒工作室分析联想公司。我和同事的第一反应是“没什么可再说的”。但是，看到最近的舆情，我们意识到，联想公司的合法性，不仅仅是一个历史话题，更是一个现实的传播学事件，所以我们选择了熟悉的角度再来谈谈。",
+      "title": "【睡前消息363】司马南和联想“双赢”，历史不要做复读机",
+      "topic_scores": {
+        "economy": 3,
+        "governance": 0,
+        "industry": 1,
+        "international": 0,
+        "media": 4,
+        "society": 0
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 2,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-362/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-301-400-362/chunk-002.md"
+        }
+      ],
+      "date": "2021-12-05",
+      "date_source": "body_explicit",
+      "description": "在百度、阿里、腾讯三个寡头争夺流量的年代，视频市场也是三头竞争：优酷土豆、腾讯视频、爱奇艺。这是因为每个互联网寡头都企图用视频圈地，把用户固化到自己的生态圈。这种典型的垄断行为，长期以来被中国市场视为常态。2021年底，这个游戏终于玩不下去了。",
+      "episode_id": "main-301-400-362",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-362/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-362/meta.md",
+      "source_path": "301-400/362.md",
+      "source_type": "main",
+      "summary": "在百度、阿里、腾讯三个寡头争夺流量的年代，视频市场也是三头竞争：优酷土豆、腾讯视频、爱奇艺。这是因为每个互联网寡头都企图用视频圈地，把用户固化到自己的生态圈。这种典型的垄断行为，长期以来被中国市场视为常态。2021年底，这个游戏终于玩不下去了。",
+      "title": "【睡前消息362】爱奇艺大裁员 向BAT时代告别",
+      "topic_scores": {
+        "economy": 14,
+        "governance": 1,
+        "industry": 3,
+        "international": 2,
+        "media": 18,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-335/chunk-001.md"
+        }
+      ],
+      "date": "2021-10-02",
+      "date_source": "body_explicit",
+      "description": "去年我们对《八佰》做了特别影评，今年《长津湖》拿到了同类电影最夸张的排片，我们当然也要和大家一起看。应该说，和去年的《金刚川》相比，有明显进步，但电影太散，对历史不够深，被徐克导演掺了太多的“炮弹击落炮弹”式武侠套路，所以，暂定5.5分。",
+      "episode_id": "main-301-400-335",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-335/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-335/meta.md",
+      "source_path": "301-400/335.md",
+      "source_type": "main",
+      "summary": "去年我们对《八佰》做了特别影评，今年《长津湖》拿到了同类电影最夸张的排片，我们当然也要和大家一起看。应该说，和去年的《金刚川》相比，有明显进步，但电影太散，对历史不够深，被徐克导演掺了太多的“炮弹击落炮弹”式武侠套路，所以，暂定5.5分。",
+      "title": "【睡前消息335】长津湖 可以搞虚构，但是没必要——5.5分长津湖影评",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 12,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-320/chunk-001.md"
+        }
+      ],
+      "date": "2021-08-29",
+      "date_source": "body_explicit",
+      "description": "小甜甜布兰妮以童星出道，90年代就有天文数字的收入。然而，过去13年，她的所有生活都由父亲和妹妹控制。今年她40岁了，自己每周只能拿到2000美元。这是一个听起来悲惨的故事，但是对布兰妮而言，却很可能是相对“不坏”的人生。",
+      "episode_id": "main-301-400-320",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-320/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-320/meta.md",
+      "source_path": "301-400/320.md",
+      "source_type": "main",
+      "summary": "小甜甜布兰妮以童星出道，90年代就有天文数字的收入。然而，过去13年，她的所有生活都由父亲和妹妹控制。今年她40岁了，自己每周只能拿到2000美元。这是一个听起来悲惨的故事，但是对布兰妮而言，却很可能是相对“不坏”的人生。",
+      "title": "【睡前消息320】小甜甜布兰妮，中美两国共同的问题",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 1,
+        "industry": 0,
+        "international": 3,
+        "media": 4,
+        "society": 1
+      },
+      "topics": [
+        "international",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 2,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-301-400-312/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-301-400-312/chunk-002.md"
+        }
+      ],
+      "date": "2021-08-10",
+      "date_source": "body_explicit",
+      "description": "同样是400亿的债，观众更关心独山县，而不是华西村，原因是华西村有资产，而每个人都可能要为独山县还钱。前几年，中国奇人王靖连续占领媒体头条，宣称要带领中国资本修尼加拉瓜运河，挖通克拉地峡，开发克里米亚。科幻项目宣传了好几年，2000亿市值灰飞烟灭，坏账留给所有中国人。",
+      "episode_id": "main-301-400-312",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-301-400-312/meta.json",
+      "meta_path": "data/chunked/main/main-301-400-312/meta.md",
+      "source_path": "301-400/312.md",
+      "source_type": "main",
+      "summary": "同样是400亿的债，观众更关心独山县，而不是华西村，原因是华西村有资产，而每个人都可能要为独山县还钱。前几年，中国奇人王靖连续占领媒体头条，宣称要带领中国资本修尼加拉瓜运河，挖通克拉地峡，开发克里米亚。科幻项目宣传了好几年，2000亿市值灰飞烟灭，坏账留给所有中国人。",
+      "title": "【睡前消息312】尼加拉瓜运河没了，中国多了2000亿的坑",
+      "topic_scores": {
+        "economy": 6,
+        "governance": 5,
+        "industry": 2,
+        "international": 5,
+        "media": 6,
+        "society": 6
+      },
+      "topics": [
+        "economy",
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-201-300-298/chunk-001.md"
+        }
+      ],
+      "date": "2021-07-09",
+      "date_source": "body_explicit",
+      "description": "一直很好奇，“主旋律”革命史作品为什么总是喜欢编故事来凑细节，随便翻了几篇人物传记之后，我意识到，对于大多数创作团队来说，“阅读”是一个门槛很高的事情，远远比“编造”要困难。",
+      "episode_id": "main-201-300-298",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-201-300-298/meta.json",
+      "meta_path": "data/chunked/main/main-201-300-298/meta.md",
+      "source_path": "201-300/298.md",
+      "source_type": "main",
+      "summary": "一直很好奇，“主旋律”革命史作品为什么总是喜欢编故事来凑细节，随便翻了几篇人物传记之后，我意识到，对于大多数创作团队来说，“阅读”是一个门槛很高的事情，远远比“编造”要困难。",
+      "title": "【睡前消息298】革命史拍不出100分，说明创作团队没文化",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 1,
+        "international": 0,
+        "media": 3,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 3,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-201-300-277/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-201-300-277/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-201-300-277/chunk-003.md"
+        }
+      ],
+      "date": "2021-05-21",
+      "date_source": "body_explicit",
+      "description": "“李白从未老去，杜甫未曾年轻”，这是文字为我们塑造的作者形象。写《创业史》的柳青，以憨厚的老农民形象面对世界，以至于我们忘了他也曾经年轻过。1950年柳青只有34岁，但凭借20年代入团，30年代参加抗战的资历，他已经是行政九级中央领导，位高权重，著作等身。接下来十几年，他放弃了职务、和生活待遇，在农村扎根，把自己完全变成一个农民，只为了写一部长篇小说。这样的人生，值得一部电影来纪念。",
+      "episode_id": "main-201-300-277",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-201-300-277/meta.json",
+      "meta_path": "data/chunked/main/main-201-300-277/meta.md",
+      "source_path": "201-300/277.md",
+      "source_type": "main",
+      "summary": "“李白从未老去，杜甫未曾年轻”，这是文字为我们塑造的作者形象。写《创业史》的柳青，以憨厚的老农民形象面对世界，以至于我们忘了他也曾经年轻过。1950年柳青只有34岁，但凭借20年代入团，30年代参加抗战的资历，他已经是行政九级中央领导，位高权重，著作等身。接下来十几年，他放弃了职务、和生活待遇，在农村扎根，把自己完全变成一个农民，只为了写一部长篇小说。这样的人生，值得一部电影来纪念。",
+      "title": "【睡前消息277】看电影《柳青》，怀念《创业史》",
+      "topic_scores": {
+        "economy": 4,
+        "governance": 4,
+        "industry": 2,
+        "international": 0,
+        "media": 13,
+        "society": 12
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    },
+    {
+      "chunk_count": 4,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-201-300-271/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-201-300-271/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-201-300-271/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-201-300-271/chunk-004.md"
+        }
+      ],
+      "date": "2021-05-07",
+      "date_source": "body_explicit",
+      "description": "张艺谋拍《悬崖之上》抢2021年的五一档，显然是蹭“红色经典”和“历史”两个热点。我看了很多影评，基本都是赞美演技，赞美摄像，说这是一部高水准谍战片，但是很少有人愿意谈历史。毕竟，一部从头到尾看不到日本人的“抗日片”，从历史角度要夸，也实在有点难。",
+      "episode_id": "main-201-300-271",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-201-300-271/meta.json",
+      "meta_path": "data/chunked/main/main-201-300-271/meta.md",
+      "source_path": "201-300/271.md",
+      "source_type": "main",
+      "summary": "张艺谋拍《悬崖之上》抢2021年的五一档，显然是蹭“红色经典”和“历史”两个热点。我看了很多影评，基本都是赞美演技，赞美摄像，说这是一部高水准谍战片，但是很少有人愿意谈历史。毕竟，一部从头到尾看不到日本人的“抗日片”，从历史角度要夸，也实在有点难。",
+      "title": "【睡前消息271】夜幕下的哈尔滨，没有悬崖",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 1,
+        "industry": 2,
+        "international": 9,
+        "media": 11,
+        "society": 7
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 5,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-201-300-255/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-201-300-255/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-201-300-255/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-201-300-255/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-201-300-255/chunk-005.md"
+        }
+      ],
+      "date": "2021-03-30",
+      "date_source": "body_explicit",
+      "description": "自称“最懂二次元的教授”冯玮高调进入B站，讲了一场日本战国史就匆匆退出，删光授课视频。马前卒工作室为了调查原因，找回课程内容，还买了冯教授的专著，仔细研读。",
+      "episode_id": "main-201-300-255",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-201-300-255/meta.json",
+      "meta_path": "data/chunked/main/main-201-300-255/meta.md",
+      "source_path": "201-300/255.md",
+      "source_type": "main",
+      "summary": "自称“最懂二次元的教授”冯玮高调进入B站，讲了一场日本战国史就匆匆退出，删光授课视频。马前卒工作室为了调查原因，找回课程内容，还买了冯教授的专著，仔细研读。",
+      "title": "【睡前消息255】复旦冯玮闪退B站，我果断买下冯教授的书",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 0,
+        "industry": 1,
+        "international": 18,
+        "media": 31,
+        "society": 4
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 5,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-201-300-236/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-201-300-236/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-201-300-236/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-201-300-236/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-201-300-236/chunk-005.md"
+        }
+      ],
+      "date": "2021-02-16",
+      "date_source": "body_explicit",
+      "description": "经常看“穿越”题材的小说和电影，但这次贾玲穿越的时代比较特别——1981，我出生的年份，穿越的地点是我熟悉的老国企生活区。所以，影片一开场，我的感受不是“历史”，而是“回忆”。考虑到很多观众还没看过电影，我不想过多剧透，只是结合我的回忆聊聊中国工业社会的变化。如果你和你的父母经历过那个年代，推荐全家去看看李焕英同志。",
+      "episode_id": "main-201-300-236",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-201-300-236/meta.json",
+      "meta_path": "data/chunked/main/main-201-300-236/meta.md",
+      "source_path": "201-300/236.md",
+      "source_type": "main",
+      "summary": "经常看“穿越”题材的小说和电影，但这次贾玲穿越的时代比较特别——1981，我出生的年份，穿越的地点是我熟悉的老国企生活区。所以，影片一开场，我的感受不是“历史”，而是“回忆”。考虑到很多观众还没看过电影，我不想过多剧透，只是结合我的回忆聊聊中国工业社会的变化。如果你和你的父母经历过那个年代，推荐全家去看看李焕英同志。",
+      "title": "【睡前消息236】生于1981 ，我带着回忆看“李焕英”",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 5,
+        "industry": 5,
+        "international": 0,
+        "media": 17,
+        "society": 12
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-201-300-235/chunk-001.md"
+        }
+      ],
+      "date": "2021-02-12",
+      "date_source": "body_explicit",
+      "description": "“睡前消息”的最大特色是万事先谈钱，今天大年初一，有争议的话题还没出来，我们先展望一下牛年的生财之道。媒体行业和其他行业一样，要发工资，要租办公室，要支付差旅费，还要给主播吃猫粮，赚钱是最无可辩驳的目标。但是，到底怎么赚钱才能对观众，对社会有好处，这是值得探讨的话题。",
+      "episode_id": "main-201-300-235",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-201-300-235/meta.json",
+      "meta_path": "data/chunked/main/main-201-300-235/meta.md",
+      "source_path": "201-300/235.md",
+      "source_type": "main",
+      "summary": "“睡前消息”的最大特色是万事先谈钱，今天大年初一，有争议的话题还没出来，我们先展望一下牛年的生财之道。媒体行业和其他行业一样，要发工资，要租办公室，要支付差旅费，还要给主播吃猫粮，赚钱是最无可辩驳的目标。但是，到底怎么赚钱才能对观众，对社会有好处，这是值得探讨的话题。",
+      "title": "【睡前消息235】春节求财：马前卒工作室的赚钱宣言",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 2,
+        "international": 0,
+        "media": 12,
+        "society": 4
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-201-300-234-2/chunk-001.md"
+        }
+      ],
+      "date": "2021-02-08",
+      "date_source": "body_explicit",
+      "description": "年底清理还没上节目的话题，面对B站动画事件、人人影视被处理，马金瑜“家暴”舆情三件事，我由衷地说了一句“早该管管了！”。不过，“早该管”不等于随心所欲，现在的乱象原因恰恰在于文化-舆论行业缺乏法治，缺乏清晰的边界。如果不能在公共规则和私人爱好之间划出一条绝对客观的边界，明年春节我们还会看到类似的争论。",
+      "episode_id": "main-201-300-234-2",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-201-300-234-2/meta.json",
+      "meta_path": "data/chunked/main/main-201-300-234-2/meta.md",
+      "source_path": "201-300/234-2.md",
+      "source_type": "main",
+      "summary": "年底清理还没上节目的话题，面对B站动画事件、人人影视被处理，马金瑜“家暴”舆情三件事，我由衷地说了一句“早该管管了！”。不过，“早该管”不等于随心所欲，现在的乱象原因恰恰在于文化-舆论行业缺乏法治，缺乏清晰的边界。如果不能在公共规则和私人爱好之间划出一条绝对客观的边界，明年春节我们还会看到类似的争论。",
+      "title": "【睡前消息234.5】除夕专辑：清空鼠年的话题",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 16,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-201-300-216/chunk-001.md"
+        }
+      ],
+      "date": "2021-01-01",
+      "date_source": "body_explicit",
+      "description": "2020，在经历了世上最惊人的一次经济增长之后，00后遇到了第一个“还算热闹”的年份。但是到了年底，很多上半年的大事也渐渐模糊了，留下的还是那些最适合媒体传播的内容。作为一个媒体人，督工说他不能违背媒体传播规律，也不能一味顺从，于是就有了这场对2020年的最后道别。",
+      "episode_id": "main-201-300-216",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-201-300-216/meta.json",
+      "meta_path": "data/chunked/main/main-201-300-216/meta.md",
+      "source_path": "201-300/216.md",
+      "source_type": "main",
+      "summary": "2020，在经历了世上最惊人的一次经济增长之后，00后遇到了第一个“还算热闹”的年份。但是到了年底，很多上半年的大事也渐渐模糊了，留下的还是那些最适合媒体传播的内容。作为一个媒体人，督工说他不能违背媒体传播规律，也不能一味顺从，于是就有了这场对2020年的最后道别。",
+      "title": "【睡前消息216】年终盘点·2020流水账（下）",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 2,
+        "industry": 1,
+        "international": 3,
+        "media": 7,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-201-300-215/chunk-001.md"
+        }
+      ],
+      "date": "2020-12-31",
+      "date_source": "body_explicit",
+      "description": "睡前消息的第一个完整年份结束了，蛋卷表示要多赚罐头，跨年夜争取加班，所以督工说他周四也更新，跟我们一起回顾2020年。督工说，希望这是一个2050年你会看第二遍的视频。",
+      "episode_id": "main-201-300-215",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-201-300-215/meta.json",
+      "meta_path": "data/chunked/main/main-201-300-215/meta.md",
+      "source_path": "201-300/215.md",
+      "source_type": "main",
+      "summary": "睡前消息的第一个完整年份结束了，蛋卷表示要多赚罐头，跨年夜争取加班，所以督工说他周四也更新，跟我们一起回顾2020年。督工说，希望这是一个2050年你会看第二遍的视频。",
+      "title": "【睡前消息215】年终盘点·2020流水账（上）",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 1,
+        "industry": 0,
+        "international": 1,
+        "media": 9,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 2,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-185/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-185/chunk-002.md"
+        }
+      ],
+      "date": "2020-10-25",
+      "date_source": "body_explicit",
+      "description": "第二次战役前半段，志愿军诱敌深入，收缩撤退。从之前一个世纪的历史惯性来看，这似乎意味着志愿军经过试探，不敢挑战美军，放弃了朝鲜。所以麦克阿瑟会宣布“圣诞节之前回家”。从11月7日到25日发起反攻，这18天是对中国民心士气最大的考验，中国人民作出了自己的选择。对于马督工的家庭来说，这个选择要从1933年说起……",
+      "episode_id": "main-101-200-185",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-185/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-185/meta.md",
+      "source_path": "101-200/185.md",
+      "source_type": "main",
+      "summary": "第二次战役前半段，志愿军诱敌深入，收缩撤退。从之前一个世纪的历史惯性来看，这似乎意味着志愿军经过试探，不敢挑战美军，放弃了朝鲜。所以麦克阿瑟会宣布“圣诞节之前回家”。从11月7日到25日发起反攻，这18天是对中国民心士气最大的考验，中国人民作出了自己的选择。对于马督工的家庭来说，这个选择要从1933年说起……",
+      "title": "【睡前消息185】带着全家的抗美援朝记忆，我给《金刚川》打负分",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 2,
+        "international": 1,
+        "media": 12,
+        "society": 4
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 4,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-180/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-180/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-101-200-180/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-101-200-180/chunk-004.md"
+        }
+      ],
+      "date": "2020-10-13",
+      "date_source": "body_explicit",
+      "description": "本期内容涉及两个离婚女性，一个是现实中离婚的藏族主播拉姆，死于前夫纵火；一个是电影中离婚的佟丽娅，重逢飞碟发明家。真实的故事残酷，但电影的美好故事也无法让我开心，因为实在太假了！《我和我的家乡》在中原、西南、东南、西北、东北各选了一个典型故事，明显要概括中国乡村。但是5个“家乡”，有三个半搞旅游，半个靠直播，剩下一个靠国家福利治病，还不敢说报销比例。献礼片刻意回避的故事，可能才是中国农村最真实的一面。",
+      "episode_id": "main-101-200-180",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-180/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-180/meta.md",
+      "source_path": "101-200/180.md",
+      "source_type": "main",
+      "summary": "本期内容涉及两个离婚女性，一个是现实中离婚的藏族主播拉姆，死于前夫纵火；一个是电影中离婚的佟丽娅，重逢飞碟发明家。真实的故事残酷，但电影的美好故事也无法让我开心，因为实在太假了！《我和我的家乡》在中原、西南、东南、西北、东北各选了一个典型故事，明显要概括中国乡村。但是5个“家乡”，有三个半搞旅游，半个靠直播，剩下一个靠国家福利治病，还不敢说报销比例。献礼片刻意回避的故事，可能才是中国农村最真实的一面。",
+      "title": "【睡前消息180】五个家乡，三个半搞旅游，编剧也知道农村没出路",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 7,
+        "industry": 4,
+        "international": 1,
+        "media": 13,
+        "society": 11
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-179/chunk-001.md"
+        }
+      ],
+      "date": "2020-10-11",
+      "date_source": "body_explicit",
+      "description": "2019年，每150个需要移植器官的中国人，只有一个人能做手术。2019年，因为非洲猪瘟，中国猪肉价格暴涨一倍，两个难题也许有同一个答案——转基因猪。在中国，如果建议推广转基因猪肉，必然引发重大的舆论争议。但如果用转基因猪给老年人生产新器官，估计大多人会诚实地接受。",
+      "episode_id": "main-101-200-179",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-179/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-179/meta.md",
+      "source_path": "101-200/179.md",
+      "source_type": "main",
+      "summary": "2019年，每150个需要移植器官的中国人，只有一个人能做手术。2019年，因为非洲猪瘟，中国猪肉价格暴涨一倍，两个难题也许有同一个答案——转基因猪。在中国，如果建议推广转基因猪肉，必然引发重大的舆论争议。但如果用转基因猪给老年人生产新器官，估计大多人会诚实地接受。",
+      "title": "【睡前消息179】就算不吃肉，也应该支持转基因猪",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 1,
+        "international": 0,
+        "media": 2,
+        "society": 1
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 4,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-177/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-177/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-101-200-177/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-101-200-177/chunk-004.md"
+        }
+      ],
+      "date": "2020-10-06",
+      "date_source": "body_explicit",
+      "description": "还记得去年十一国庆的时候，督工给大家带来的《我和我的祖国》观影感受吗？作为保留节目，今年十一，督工为大家带来了最新鲜的电影《夺冠》和《一点就到家》影评。当然大家都知道督工是绝不满足于只聊电影的，他一定会从历史唯物主义的角度给出他独到的解读。而且，今年他也不满足于只点评，小勺子牌督工刚刚去问了问@朱导，他说督工和大钊演的《我和我的祖国》短剧明天就能上线了！小勺子和大家一起搓搓手！",
+      "episode_id": "main-101-200-177",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-177/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-177/meta.md",
+      "source_path": "101-200/177.md",
+      "source_type": "main",
+      "summary": "还记得去年十一国庆的时候，督工给大家带来的《我和我的祖国》观影感受吗？作为保留节目，今年十一，督工为大家带来了最新鲜的电影《夺冠》和《一点就到家》影评。当然大家都知道督工是绝不满足于只聊电影的，他一定会从历史唯物主义的角度给出他独到的解读。而且，今年他也不满足于只点评，小勺子牌督工刚刚去问了问@朱导，他说督工和大钊演的《我和我的祖国》短剧明天就能上线了！小勺子和大家一起搓搓手！",
+      "title": "【睡前消息177】马前卒国庆影评：《夺冠》+《一点就到家》",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 1,
+        "industry": 3,
+        "international": 4,
+        "media": 35,
+        "society": 8
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 8,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-169/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-169/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-101-200-169/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-101-200-169/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-101-200-169/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-101-200-169/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-101-200-169/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-101-200-169/chunk-008.md"
+        }
+      ],
+      "date": "2020-09-18",
+      "date_source": "body_explicit",
+      "description": "外卖平台补贴越来越少，送餐员队伍越来越壮大，令人费解的“内卷”催生了爆款文章《外卖骑手 困在系统里》。工资低、事故多，更可怕的是外卖机器人、送餐无人机已经面世，700万简单劳动力的职业生涯即将倒计时。挖掘 “职业陷阱”的外卖平台不能假装自己是个局外人",
+      "episode_id": "main-101-200-169",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-169/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-169/meta.md",
+      "source_path": "101-200/169.md",
+      "source_type": "main",
+      "summary": "外卖平台补贴越来越少，送餐员队伍越来越壮大，令人费解的“内卷”催生了爆款文章《外卖骑手 困在系统里》。工资低、事故多，更可怕的是外卖机器人、送餐无人机已经面世，700万简单劳动力的职业生涯即将倒计时。挖掘 “职业陷阱”的外卖平台不能假装自己是个局外人",
+      "title": "【睡前消息169】有进无出，700万外卖骑手的内卷人生",
+      "topic_scores": {
+        "economy": 11,
+        "governance": 0,
+        "industry": 5,
+        "international": 0,
+        "media": 12,
+        "society": 4
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 5,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-159/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-159/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-101-200-159/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-101-200-159/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-101-200-159/chunk-005.md"
+        }
+      ],
+      "date": "2020-08-25",
+      "date_source": "body_explicit",
+      "description": "微博抬杠常见一个段子：“批评冰箱，我自己还得先制冷？”。马督工依照过去写影评的惯例，今天还是先“制冷”给你看。没有比较，就没有伤害……没有伤害，还做个什么节目？",
+      "episode_id": "main-101-200-159",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-159/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-159/meta.md",
+      "source_path": "101-200/159.md",
+      "source_type": "main",
+      "summary": "微博抬杠常见一个段子：“批评冰箱，我自己还得先制冷？”。马督工依照过去写影评的惯例，今天还是先“制冷”给你看。没有比较，就没有伤害……没有伤害，还做个什么节目？",
+      "title": "【睡前消息159】我替华谊写《八佰》剧本， 真实的历史足够感动中国人民",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 4,
+        "industry": 2,
+        "international": 10,
+        "media": 12,
+        "society": 8
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 4,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-158/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-158/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-101-200-158/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-101-200-158/chunk-004.md"
+        }
+      ],
+      "date": "2020-08-23",
+      "date_source": "body_explicit",
+      "description": "马督工给《八佰》贡献一张电影票，心情不能平静，想花两集时间评一评，明天加更一期！小勺子：请问如何评价电影《八佰》？督工：谢邀，人在四行仓库楼下，谢团副让我带个话……",
+      "episode_id": "main-101-200-158",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-158/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-158/meta.md",
+      "source_path": "101-200/158.md",
+      "source_type": "main",
+      "summary": "马督工给《八佰》贡献一张电影票，心情不能平静，想花两集时间评一评，明天加更一期！小勺子：请问如何评价电影《八佰》？督工：谢邀，人在四行仓库楼下，谢团副让我带个话……",
+      "title": "【睡前消息158】明明是重口味玄幻电影，《八佰》何必自称历史大片",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 6,
+        "industry": 3,
+        "international": 5,
+        "media": 14,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 9,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-115/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-115/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-101-200-115/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-101-200-115/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-101-200-115/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-101-200-115/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-101-200-115/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-101-200-115/chunk-008.md"
+        },
+        {
+          "chunk_file": "chunk-009.md",
+          "chunk_path": "data/chunked/main/main-101-200-115/chunk-009.md"
+        }
+      ],
+      "date": "2020-05-15",
+      "date_source": "body_explicit",
+      "description": "听说中国有个叫马云的，这几年比较有名气，到处传授人生经验，其实不就是搞了点互联网的东西吗？看看印度首富安东尼吧，家族企业，从当年垄断纺织品，到进军石油工业，再到现在依靠低价横扫电信市场，哪一步不是政府全力支持，哪一个行业不能吃干抹净？什么叫垄断资本啊？（战术跳舞.gif）",
+      "episode_id": "main-101-200-115",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-115/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-115/meta.md",
+      "source_path": "101-200/115.md",
+      "source_type": "main",
+      "summary": "听说中国有个叫马云的，这几年比较有名气，到处传授人生经验，其实不就是搞了点互联网的东西吗？看看印度首富安东尼吧，家族企业，从当年垄断纺织品，到进军石油工业，再到现在依靠低价横扫电信市场，哪一步不是政府全力支持，哪一个行业不能吃干抹净？什么叫垄断资本啊？（战术跳舞.gif）",
+      "title": "【睡前消息115】印度首富身价压倒马云，什么叫垄断资本啊？",
+      "topic_scores": {
+        "economy": 10,
+        "governance": 1,
+        "industry": 10,
+        "international": 2,
+        "media": 11,
+        "society": 6
+      },
+      "topics": [
+        "economy",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 8,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-103/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-103/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-101-200-103/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-101-200-103/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-101-200-103/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-101-200-103/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-101-200-103/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-101-200-103/chunk-008.md"
+        }
+      ],
+      "date": "2020-04-17",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-101-200-103",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-103/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-103/meta.md",
+      "source_path": "101-200/103.md",
+      "source_type": "main",
+      "summary": "中国媒体对这篇论文的解读是一个新闻学案例，每转载一次，就为了点击率修改一次标题，最后，科学新闻变成了立场新闻，一篇没有什么倾向性的论文，变成了朋友圈阴谋论的源头",
+      "title": "【睡前消息103】“剑桥论文证明新冠病毒起源美国”这种说法是怎么来的？",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 7,
+        "media": 10,
+        "society": 8
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 6,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-101-200-101/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-101-200-101/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-101-200-101/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-101-200-101/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-101-200-101/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-101-200-101/chunk-006.md"
+        }
+      ],
+      "date": "2020-04-12",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-101-200-101",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-101-200-101/meta.json",
+      "meta_path": "data/chunked/main/main-101-200-101/meta.md",
+      "source_path": "101-200/101.md",
+      "source_type": "main",
+      "summary": "连续两起火灾都发生在3月30号，肯定是偶然",
+      "title": "【睡前消息101】又是凉山火灾，又是19人牺牲，我们该吸取什么教训？",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 1,
+        "industry": 0,
+        "international": 1,
+        "media": 9,
+        "society": 3
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 8,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-93/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-1-100-93/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-1-100-93/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-1-100-93/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-1-100-93/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-1-100-93/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-1-100-93/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-1-100-93/chunk-008.md"
+        }
+      ],
+      "date": "2020-03-24",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-1-100-93",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-93/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-93/meta.md",
+      "source_path": "1-100/93.md",
+      "source_type": "main",
+      "summary": "2019年8月31日，张传丽首次夺得UFC女子草量级冠军 这和UFC的比赛层次有关",
+      "title": "【睡前消息93】中国驰援全球抗疫，当然少不了经济强省台湾",
+      "topic_scores": {
+        "economy": 6,
+        "governance": 1,
+        "industry": 0,
+        "international": 7,
+        "media": 9,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 11,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-008.md"
+        },
+        {
+          "chunk_file": "chunk-009.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-009.md"
+        },
+        {
+          "chunk_file": "chunk-010.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-010.md"
+        },
+        {
+          "chunk_file": "chunk-011.md",
+          "chunk_path": "data/chunked/main/main-1-100-88/chunk-011.md"
+        }
+      ],
+      "date": "2020-03-13",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-1-100-88",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-88/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-88/meta.md",
+      "source_path": "1-100/88.md",
+      "source_type": "main",
+      "summary": "目前来看，数字是靠谱的",
+      "title": "【睡前消息88】快手网红给武汉捐款1亿，这是“中国小贩”的究极形态了",
+      "topic_scores": {
+        "economy": 8,
+        "governance": 2,
+        "industry": 3,
+        "international": 0,
+        "media": 15,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 12,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-008.md"
+        },
+        {
+          "chunk_file": "chunk-009.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-009.md"
+        },
+        {
+          "chunk_file": "chunk-010.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-010.md"
+        },
+        {
+          "chunk_file": "chunk-011.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-011.md"
+        },
+        {
+          "chunk_file": "chunk-012.md",
+          "chunk_path": "data/chunked/main/main-1-100-85/chunk-012.md"
+        }
+      ],
+      "date": "2020-03-06",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-1-100-85",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-85/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-85/meta.md",
+      "source_path": "1-100/85.md",
+      "source_type": "main",
+      "summary": "几乎没影响，甚至可以说爆炸也在马斯克的预计之中",
+      "title": "【睡前消息85】粉丝闹出的事，肖战本人应该负多大责任？",
+      "topic_scores": {
+        "economy": 2,
+        "governance": 1,
+        "industry": 10,
+        "international": 5,
+        "media": 11,
+        "society": 2
+      },
+      "topics": [
+        "industry",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-74/chunk-001.md"
+        }
+      ],
+      "date": "2020-02-07",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-1-100-74",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-74/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-74/meta.md",
+      "source_path": "1-100/74.md",
+      "source_type": "main",
+      "summary": "本期视频已被删除 {.is-danger} > 本期视频已被删除，此处列出的视频是其它用户上传的版本",
+      "title": "【睡前消息74】李文亮医生去世，我们最愤怒的事是什么？",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 3,
+        "industry": 1,
+        "international": 1,
+        "media": 5,
+        "society": 2
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-73/chunk-001.md"
+        }
+      ],
+      "date": "2020-02-04",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-1-100-73",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-73/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-73/meta.md",
+      "source_path": "1-100/73.md",
+      "source_type": "main",
+      "summary": "睡前消息73 继续跟踪武汉疫情相关新闻 --- 大家好，2020年2月4日，睡前消息73期，很抱歉再次以这种方式和大家交流，希望疫情尽早结束，睡前消息团队和观视频的合作伙伴能早日回到自己的办公室",
+      "title": "【睡前消息73】别忘了，还有一种更可怕的病：穷病",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 0,
+        "media": 2,
+        "society": 0
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-68/chunk-001.md"
+        }
+      ],
+      "date": "2020-01-19",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-1-100-68",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-68/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-68/meta.md",
+      "source_path": "1-100/68.md",
+      "source_type": "main",
+      "summary": "一般来说，如果有人宣称某种物质可以逆转衰老、预防癌症、控制肿瘤、保护心血管、改善脂肪肝，还能够减肥，而且没有明显副作用，那肯定是骗子",
+      "title": "【睡前消息68】对开车进故宫这事，我们要批评到点子上！",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 1,
+        "media": 1,
+        "society": 0
+      },
+      "topics": [
+        "international",
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 8,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-53/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-1-100-53/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-1-100-53/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-1-100-53/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-1-100-53/chunk-005.md"
+        },
+        {
+          "chunk_file": "chunk-006.md",
+          "chunk_path": "data/chunked/main/main-1-100-53/chunk-006.md"
+        },
+        {
+          "chunk_file": "chunk-007.md",
+          "chunk_path": "data/chunked/main/main-1-100-53/chunk-007.md"
+        },
+        {
+          "chunk_file": "chunk-008.md",
+          "chunk_path": "data/chunked/main/main-1-100-53/chunk-008.md"
+        }
+      ],
+      "date": "2019-12-13",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-1-100-53",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-53/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-53/meta.md",
+      "source_path": "1-100/53.md",
+      "source_type": "main",
+      "summary": "李子柒的视频当然是文化输出，但她输出的不是传统文化",
+      "title": "【睡前消息53】李子柒的支持者和反对者，都搞错了什么？",
+      "topic_scores": {
+        "economy": 3,
+        "governance": 1,
+        "industry": 6,
+        "international": 7,
+        "media": 9,
+        "society": 1
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 5,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-51/chunk-001.md"
+        },
+        {
+          "chunk_file": "chunk-002.md",
+          "chunk_path": "data/chunked/main/main-1-100-51/chunk-002.md"
+        },
+        {
+          "chunk_file": "chunk-003.md",
+          "chunk_path": "data/chunked/main/main-1-100-51/chunk-003.md"
+        },
+        {
+          "chunk_file": "chunk-004.md",
+          "chunk_path": "data/chunked/main/main-1-100-51/chunk-004.md"
+        },
+        {
+          "chunk_file": "chunk-005.md",
+          "chunk_path": "data/chunked/main/main-1-100-51/chunk-005.md"
+        }
+      ],
+      "date": "2019-12-06",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-1-100-51",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-51/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-51/meta.md",
+      "source_path": "1-100/51.md",
+      "source_type": "main",
+      "summary": "和东北的环境有关系，但主要原因还是行业",
+      "title": "【睡前消息51】阿根廷男罪犯自称女性进了女子监狱，于是……",
+      "topic_scores": {
+        "economy": 1,
+        "governance": 8,
+        "industry": 1,
+        "international": 0,
+        "media": 13,
+        "society": 3
+      },
+      "topics": [
+        "media"
+      ]
+    },
+    {
+      "chunk_count": 1,
+      "chunks": [
+        {
+          "chunk_file": "chunk-001.md",
+          "chunk_path": "data/chunked/main/main-1-100-34/chunk-001.md"
+        }
+      ],
+      "date": "2019-10-27",
+      "date_source": "body_explicit",
+      "description": "",
+      "episode_id": "main-1-100-34",
+      "keywords": [],
+      "meta_json_path": "data/chunked/main/main-1-100-34/meta.json",
+      "meta_path": "data/chunked/main/main-1-100-34/meta.md",
+      "source_path": "1-100/34.md",
+      "source_type": "main",
+      "summary": "睡前消息1027 大连14岁少年杀害11岁女孩； 德国高速公路不限速； 日本军官登上中国“戚继光号”",
+      "title": "【睡前消息34】德国高速公路不限速？你们还没见到开飞机的……",
+      "topic_scores": {
+        "economy": 0,
+        "governance": 0,
+        "industry": 0,
+        "international": 1,
+        "media": 2,
+        "society": 2
+      },
+      "topics": [
+        "media",
+        "society"
+      ]
+    }
+  ],
+  "label": "媒体与传播",
+  "question_scope": "自媒体、舆论、平台传播、影视娱乐、节目本身",
+  "topic": "media"
+}

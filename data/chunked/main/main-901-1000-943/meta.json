@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息943】打胜仗年年有 嘴认输头一回",
+      "question": "",
+      "summary": "自从苏联解体，阿塞拜疆和亚美尼亚之间，打了三十多年",
+      "usage_hint": "适合在需要节目级细节时补充与“自从苏联解体，阿塞拜疆和亚美尼亚之间，打了三十多年”相关的节目论据。"
+    }
+  ],
+  "date": "2025-08-24",
+  "date_source": "body_explicit",
+  "description": "二战后，消灭和统治一个民族国家，都需要付出巨大的代价。所以大多数冲突的结局，都是胜利一方控制更多领土；战败一方也不担心亡国，继续声称自己的主权。纳卡战争后，亚美尼亚要修改自己的地图和宪法，承认阿塞拜疆的全面胜利，这在最近几十年很少见。",
+  "episode_id": "main-901-1000-943",
+  "keywords": [],
+  "source_path": "901-1000/943.md",
+  "source_type": "main",
+  "summary": "二战后，消灭和统治一个民族国家，都需要付出巨大的代价。所以大多数冲突的结局，都是胜利一方控制更多领土；战败一方也不担心亡国，继续声称自己的主权。纳卡战争后，亚美尼亚要修改自己的地图和宪法，承认阿塞拜疆的全面胜利，这在最近几十年很少见。",
+  "title": "【睡前消息943】打胜仗年年有 嘴认输头一回",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 0,
+    "international": 1,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "governance",
+    "international"
+  ]
+}

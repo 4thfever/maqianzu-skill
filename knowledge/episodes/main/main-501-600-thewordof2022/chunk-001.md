@@ -7,13 +7,14 @@ episode_id: main-501-600-thewordof2022
 chunk_index: 1
 chunk_heading: 睡前消息年度汉字：噩
 source_path: 501-600/thewordof2022.md
+summary: br> > 本期文稿为转录版
+usage_hint: 适合在需要节目级细节时补充与“br> > 本期文稿为转录版”相关的节目论据。
 ---
 
 # 睡前消息年度汉字：噩
 
 ## 内容
 
-#
 </br>
 
 > 本期文稿为转录版。

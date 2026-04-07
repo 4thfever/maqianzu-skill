@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-2
 chunk_index: 3
 chunk_heading: 航运问题
 source_path: 2022/11/15-2.md
+summary: 咱们严肃的说一下航运问题
+usage_hint: 适合在直播问答场景中核对与“咱们严肃的说一下航运问题”相关的节目级细节。
 ---
 
 # 航运问题

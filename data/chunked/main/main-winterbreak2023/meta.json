@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "寒假版",
+      "question": "",
+      "summary": "纠结清明烧纸，毛主席的“礼”去哪了",
+      "usage_hint": "适合在需要节目级细节时补充与“纠结清明烧纸，毛主席的“礼”去哪了”相关的节目论据。"
+    }
+  ],
+  "date": "2024-03-20",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-winterbreak2023",
+  "keywords": [],
+  "source_path": "winterbreak2023.md",
+  "source_type": "main",
+  "summary": "纠结清明烧纸，毛主席的“礼”去哪了",
+  "title": "寒假版",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 0,
+    "industry": 0,
+    "international": 0,
+    "media": 0,
+    "society": 2
+  },
+  "topics": [
+    "society"
+  ]
+}

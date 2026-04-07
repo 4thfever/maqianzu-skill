@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1006】适应信息集权时代——马督工对谈聂辉华（上）",
+      "question": "",
+      "summary": "很高兴一会儿就要和人民大学的聂辉华教授对话",
+      "usage_hint": "适合在需要节目级细节时补充与“很高兴一会儿就要和人民大学的聂辉华教授对话”相关的节目论据。"
+    }
+  ],
+  "date": "2026-02-28",
+  "date_source": "front_matter_fallback",
+  "description": "2013年之后，中央直接管的事情越来越多，地方的自主权相对来说减少了，这背后有各种原因。",
+  "episode_id": "main-1001-1100-1006",
+  "keywords": [],
+  "source_path": "1001-1100/1006.md",
+  "source_type": "main",
+  "summary": "2013年之后，中央直接管的事情越来越多，地方的自主权相对来说减少了，这背后有各种原因。",
+  "title": "【睡前消息1006】适应信息集权时代——马督工对谈聂辉华（上）",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 4,
+    "industry": 0,
+    "international": 0,
+    "media": 1,
+    "society": 3
+  },
+  "topics": [
+    "governance",
+    "society"
+  ]
+}

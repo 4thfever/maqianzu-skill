@@ -7,6 +7,8 @@ episode_id: main-101-200-114
 chunk_index: 5
 chunk_heading: 督工你怎么看待政府和BBC的矛盾？
 source_path: 101-200/114.md
+summary: 作为一个媒体人，我很欣赏BBC的制度
+usage_hint: 适合在需要节目级细节时补充与“作为一个媒体人，我很欣赏BBC的制度”相关的节目论据。
 ---
 
 # 督工你怎么看待政府和BBC的矛盾？

@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息959】共和党修改选区 民主党还能忍？",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-09-30",
+  "date_source": "body_explicit",
+  "description": "芝加哥大学社会系相对全世界的优势，可能相当于马斯克的火箭相对全世界的优势。发达的社会学和美国的政治特色结合，形成了“杰利蝾螈”风格的选区。特朗普正在鼓励各州共和党培养更多的“杰利蝾螈”。",
+  "episode_id": "main-901-1000-959",
+  "keywords": [],
+  "source_path": "901-1000/959.md",
+  "source_type": "main",
+  "summary": "芝加哥大学社会系相对全世界的优势，可能相当于马斯克的火箭相对全世界的优势。发达的社会学和美国的政治特色结合，形成了“杰利蝾螈”风格的选区。特朗普正在鼓励各州共和党培养更多的“杰利蝾螈”。",
+  "title": "【睡前消息959】共和党修改选区 民主党还能忍？",
+  "topic_scores": {
+    "economy": 3,
+    "governance": 1,
+    "industry": 0,
+    "international": 5,
+    "media": 0,
+    "society": 4
+  },
+  "topics": [
+    "international",
+    "society"
+  ]
+}

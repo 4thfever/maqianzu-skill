@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息980】生育奇迹造假 成都引大济岷",
+      "question": "",
+      "summary": "今天的主题是回顾往期节目后续新闻",
+      "usage_hint": "适合在需要节目级细节时补充与“今天的主题是回顾往期节目后续新闻”相关的节目论据。"
+    }
+  ],
+  "date": "2025-11-18",
+  "date_source": "body_explicit",
+  "description": "1 天门市生育奇迹真假问题。 2 离婚率上升。 3 中小学春秋假。 4 引大济岷工程。 5 西北普遍修蓄能电站",
+  "episode_id": "main-901-1000-980",
+  "keywords": [],
+  "source_path": "901-1000/980.md",
+  "source_type": "main",
+  "summary": "1 天门市生育奇迹真假问题。 2 离婚率上升。 3 中小学春秋假。 4 引大济岷工程。 5 西北普遍修蓄能电站",
+  "title": "【睡前消息980】生育奇迹造假 成都引大济岷",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 4,
+    "industry": 2,
+    "international": 0,
+    "media": 2,
+    "society": 15
+  },
+  "topics": [
+    "society"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: main-1-100-19
 chunk_index: 19
 chunk_heading: （A）这些人正在从捕食者那里逃命
 source_path: 1-100/19.md
+summary: A）这些人正在从捕食者那里逃命
+usage_hint: 适合在需要节目级细节时补充与“A）这些人正在从捕食者那里逃命”相关的节目论据。
 ---
 
 # （A）这些人正在从捕食者那里逃命

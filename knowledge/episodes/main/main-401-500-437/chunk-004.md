@@ -7,6 +7,8 @@ episode_id: main-401-500-437
 chunk_index: 4
 chunk_heading: IPEF，也就是"印太经济框架"，会给成员带来什么好处呢？
 source_path: 401-500/437.md
+summary: 这就是拜登现在最头疼的问题
+usage_hint: 适合在需要节目级细节时补充与“这就是拜登现在最头疼的问题”相关的节目论据。
 ---
 
 # IPEF，也就是"印太经济框架"，会给成员带来什么好处呢？

@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "督工，你怎么评价宝冢歌剧团？",
+      "question": "督工，你怎么评价宝冢歌剧团？",
+      "summary": "作为一个民间演艺团体，成员拍成人电影，暴露内部矛盾，能成为全日本的大新闻，说明这个团体平时的主流文化影响力很强，制造了反差",
+      "usage_hint": "适合在需要节目级细节时补充与“作为一个民间演艺团体，成员拍成人电影，暴露内部矛盾，能成为全”相关的节目论据。"
+    }
+  ],
+  "date": "2023-11-14",
+  "date_source": "body_explicit",
+  "description": "日本宝冢歌剧团连续传出负面消息，团员拍AV,霸凌自杀……但依然为中国提供了值得参考的文化案例——同样是房地产公司推出的演出团，别人出负面消息是新闻，恒大歌舞团需要找正面消息。",
+  "episode_id": "main-601-700-670",
+  "keywords": [],
+  "source_path": "601-700/670.md",
+  "source_type": "main",
+  "summary": "日本宝冢歌剧团连续传出负面消息，团员拍AV,霸凌自杀……但依然为中国提供了值得参考的文化案例——同样是房地产公司推出的演出团，别人出负面消息是新闻，恒大歌舞团需要找正面消息。",
+  "title": "【睡前消息670】宝冢团员拍AV，还是秒杀恒大歌舞团",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 0,
+    "industry": 1,
+    "international": 9,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "international"
+  ]
+}

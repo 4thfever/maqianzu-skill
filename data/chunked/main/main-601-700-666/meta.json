@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息666】遇见马克思 孔子才懂传统文化（上）",
+      "question": "",
+      "summary": "督工，658期节目介绍了湖南台的新创意短剧《当马克思遇见孔夫子》，现在播放量已经一百多万了",
+      "usage_hint": "适合在需要节目级细节时补充与“督工，658期节目介绍了湖南台的新创意短剧《当马克思遇见孔夫”相关的节目论据。"
+    }
+  ],
+  "date": "2023-11-07",
+  "date_source": "body_explicit",
+  "description": "网红副教授郭继承领衔，《当马克思遇见孔夫子》拍成了一部闹剧。但是，马克思主义是新中国的指导思想，中国人迟早要用马克思主义全面解剖传统文化。闹剧过后，孔夫子还是要去见马克思。",
+  "episode_id": "main-601-700-666",
+  "keywords": [],
+  "source_path": "601-700/666.md",
+  "source_type": "main",
+  "summary": "网红副教授郭继承领衔，《当马克思遇见孔夫子》拍成了一部闹剧。但是，马克思主义是新中国的指导思想，中国人迟早要用马克思主义全面解剖传统文化。闹剧过后，孔夫子还是要去见马克思。",
+  "title": "【睡前消息666】遇见马克思 孔子才懂传统文化（上）",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 0,
+    "international": 0,
+    "media": 6,
+    "society": 0
+  },
+  "topics": [
+    "media"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: main-401-500-410
 chunk_index: 3
 chunk_heading: 为什么说互联网产业是经济的发动机？
 source_path: 401-500/410.md
+summary: 我们先对比一下中国和国际经济形势
+usage_hint: 适合在需要节目级细节时补充与“我们先对比一下中国和国际经济形势”相关的节目论据。
 ---
 
 # 为什么说互联网产业是经济的发动机？

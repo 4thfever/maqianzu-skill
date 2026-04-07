@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息907】赢学家家有 莫迪不一样",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-06-01",
+  "date_source": "body_explicit",
+  "description": "从“赢学”水平来看，小泉纯一郎是莫迪的前辈，派出几个美女“刺客”就能颠覆自民党的派阀政治。但莫迪拥有更丰富的“演出题材”，从宗教到中国再到永远的巴基斯坦。所以小泉纯一郎做了5年首相，而莫迪能做十几年总理。",
+  "episode_id": "main-901-1000-907",
+  "keywords": [],
+  "source_path": "901-1000/907.md",
+  "source_type": "main",
+  "summary": "从“赢学”水平来看，小泉纯一郎是莫迪的前辈，派出几个美女“刺客”就能颠覆自民党的派阀政治。但莫迪拥有更丰富的“演出题材”，从宗教到中国再到永远的巴基斯坦。所以小泉纯一郎做了5年首相，而莫迪能做十几年总理。",
+  "title": "【睡前消息907】赢学家家有 莫迪不一样",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 1,
+    "industry": 0,
+    "international": 3,
+    "media": 2,
+    "society": 0
+  },
+  "topics": [
+    "international",
+    "media"
+  ]
+}

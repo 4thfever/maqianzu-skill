@@ -7,6 +7,8 @@ episode_id: main-601-700-653
 chunk_index: 2
 chunk_heading: 回到汽车话题，督工你认为三大汽车公司会妥协吗？
 source_path: 601-700/653.md
+summary: 在涨薪方面可能会妥协
+usage_hint: 适合在需要节目级细节时补充与“在涨薪方面可能会妥协”相关的节目论据。
 ---
 
 # 回到汽车话题，督工你认为三大汽车公司会妥协吗？

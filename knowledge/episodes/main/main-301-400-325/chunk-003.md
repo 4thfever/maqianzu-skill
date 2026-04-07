@@ -7,6 +7,8 @@ episode_id: main-301-400-325
 chunk_index: 3
 chunk_heading: 第一个建议方向：
 source_path: 301-400/325.md
+summary: 历史在斗争中发展，世界在动荡中前进”
+usage_hint: 适合在需要节目级细节时补充与“历史在斗争中发展，世界在动荡中前进””相关的节目论据。
 ---
 
 # 第一个建议方向：

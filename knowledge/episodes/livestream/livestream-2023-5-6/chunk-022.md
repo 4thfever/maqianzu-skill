@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 22
 chunk_heading: 怎么看待基础科学研究？比如基础数学、基础物理。
 source_path: 2023/5/6.md
+summary: 这个东西总这个社会总是有吗
+usage_hint: 适合在直播问答场景中核对与“这个东西总这个社会总是有吗”相关的节目级细节。
 ---
 
 # 怎么看待基础科学研究？比如基础数学、基础物理。

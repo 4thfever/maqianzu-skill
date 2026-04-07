@@ -7,6 +7,8 @@ episode_id: main-401-500-488
 chunk_index: 4
 chunk_heading: 首先是HuggingFace，生成图片均为照片风格。优点是免费，且支持中文线索词。缺点是生成图片慢，而且用非英文关键词生成的图片质量差。
 source_path: 401-500/488.md
+summary: 链接：<https://huggingface.co/spaces/stabilityai/stable-diffusion>
+usage_hint: 适合在需要节目级细节时补充与“链接：”相关的节目论据。
 ---
 
 # 首先是HuggingFace，生成图片均为照片风格。优点是免费，且支持中文线索词。缺点是生成图片慢，而且用非英文关键词生成的图片质量差。

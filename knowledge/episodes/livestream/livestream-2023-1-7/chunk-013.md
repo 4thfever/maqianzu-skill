@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 13
 chunk_heading: 最近几年有机会出大艺术家吗？
 source_path: 2023/1/7.md
+summary: 有人说最近几年有机会出大艺术家吗
+usage_hint: 适合在直播问答场景中核对与“有人说最近几年有机会出大艺术家吗”相关的节目级细节。
 ---
 
 # 最近几年有机会出大艺术家吗？

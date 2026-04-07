@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息979】长沙建竖店 横店不在乎",
+      "question": "",
+      "summary": "10月15日，湖南省多家官方媒体报道，长沙一家名叫铜官竖店的微短剧影视基地开业",
+      "usage_hint": "适合在需要节目级细节时补充与“10月15日，湖南省多家官方媒体报道，长沙一家名叫铜官竖店的”相关的节目论据。"
+    }
+  ],
+  "date": "2025-11-16",
+  "date_source": "body_explicit",
+  "description": "浙江横店影视产业成功之后，内地多个城市想借助短剧产业建设自己的“竖店”。长沙认为，自己的优势是烂尾古镇。",
+  "episode_id": "main-901-1000-979",
+  "keywords": [],
+  "source_path": "901-1000/979.md",
+  "source_type": "main",
+  "summary": "浙江横店影视产业成功之后，内地多个城市想借助短剧产业建设自己的“竖店”。长沙认为，自己的优势是烂尾古镇。",
+  "title": "【睡前消息979】长沙建竖店 横店不在乎",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 1,
+    "industry": 2,
+    "international": 0,
+    "media": 1,
+    "society": 1
+  },
+  "topics": [
+    "economy",
+    "industry"
+  ]
+}

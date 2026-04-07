@@ -7,6 +7,8 @@ episode_id: main-winterbreak2023-2
 chunk_index: 1
 chunk_heading: 苏州撞车 广州撞大桥都是基建问题
 source_path: winterbreak2023/2.md
+summary: 今天早晨，苏州连续发生特大车祸，从画面上看，近百辆汽车撞在一起，甚至到场维护秩序的交警也被后续车辆撞倒
+usage_hint: 适合在需要节目级细节时补充与“今天早晨，苏州连续发生特大车祸，从画面上看，近百辆汽车撞在一”相关的节目论据。
 ---
 
 # 苏州撞车 广州撞大桥都是基建问题

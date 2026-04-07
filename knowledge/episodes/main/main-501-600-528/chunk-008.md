@@ -7,6 +7,8 @@ episode_id: main-501-600-528
 chunk_index: 8
 chunk_heading: 督工你期待中国再出现繁荣的BBS文化吗？
 source_path: 501-600/528.md
+summary: 我自己在BBS上度过了网络青春，当然很怀念，但我也知道BBS不可能回来了
+usage_hint: 适合在需要节目级细节时补充与“我自己在BBS上度过了网络青春，当然很怀念，但我也知道BBS”相关的节目论据。
 ---
 
 # 督工你期待中国再出现繁荣的BBS文化吗？

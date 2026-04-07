@@ -1,0 +1,23 @@
+---
+title: 【睡前消息316】衡中校长搞“高考移民”，不谈钱果然伤感情
+date: 2021-08-20
+date_source: body_explicit
+source_type: main
+episode_id: main-301-400-316
+chunk_index: 3
+chunk_heading: 《PD手册》是韩国三大电视台之一MBC旗下的调查报道栏目，之前揭露过韩国“克隆之父”黄禹锡造假事件，韩国著名导演金基德性丑闻，以及PROCDECE 101系选秀造假问题。这几件重大新闻的影响力都超出了韩国国界，让中国人也知道。最近这次调查，同样值得中国人关注。
+source_path: 301-400/316.md
+summary: https://www.youtube.com/watch
+usage_hint: 适合在需要节目级细节时补充与“https://www.youtube.com/watch”相关的节目论据。
+topics: international
+---
+# 《PD手册》是韩国三大电视台之一MBC旗下的调查报道栏目，之前揭露过韩国“克隆之父”黄禹锡造假事件，韩国著名导演金基德性丑闻，以及PROCDECE 101系选秀造假问题。这几件重大新闻的影响力都超出了韩国国界，让中国人也知道。最近这次调查，同样值得中国人关注。
+
+## 提问
+
+《PD手册》是韩国三大电视台之一MBC旗下的调查报道栏目，之前揭露过韩国“克隆之父”黄禹锡造假事件，韩国著名导演金基德性丑闻，以及PROCDECE 101系选秀造假问题。这几件重大新闻的影响力都超出了韩国国界，让中国人也知道。最近这次调查，同样值得中国人关注。
+
+## 内容
+
+https://www.youtube.com/watch?v=s3Xc5AQf0dU&t=118s 前半集
+https://www.youtube.com/watch?v=n5IvgXiUQOo&t=634s 后半集

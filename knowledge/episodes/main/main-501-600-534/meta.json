@@ -5,7 +5,9 @@
       "chunk_file": "chunk-001.md",
       "chunk_index": 1,
       "heading": "【睡前消息534】2023，继续体会成长的烦恼",
-      "question": ""
+      "question": "",
+      "summary": "之前的三期节目，我们一直在做2022年的新闻回顾",
+      "usage_hint": "适合在需要节目级细节时补充与“之前的三期节目，我们一直在做2022年的新闻回顾”相关的节目论据。"
     }
   ],
   "date": "2023-01-06",
@@ -15,5 +17,6 @@
   "keywords": [],
   "source_path": "501-600/534.md",
   "source_type": "main",
+  "summary": "新年消息总结",
   "title": "【睡前消息534】2023，继续体会成长的烦恼"
 }

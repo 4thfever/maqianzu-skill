@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息991】还没到缺钱的时候，医保就卡住了",
+      "question": "",
+      "summary": "请静静介绍话题： 10月中旬一些媒体发现，重庆、湖北一些药店使用“阴阳价格”，付现金就可以平价买药，如果刷医保价格明显更贵",
+      "usage_hint": "适合在需要节目级细节时补充与“请静静介绍话题： 10月中旬一些媒体发现，重庆、湖北一些药店”相关的节目论据。"
+    }
+  ],
+  "date": "2025-12-14",
+  "date_source": "body_explicit",
+  "description": "药店歧视医保付费，已经是长期的潜规则。用现金买药是一个价格，用医保是另一个价格。但这也怪不得药店，因为医保拖欠付款，占用药店流动资金，无形中把自己玩“贬值”了。",
+  "episode_id": "main-901-1000-991",
+  "keywords": [],
+  "source_path": "901-1000/991.md",
+  "source_type": "main",
+  "summary": "药店歧视医保付费，已经是长期的潜规则。用现金买药是一个价格，用医保是另一个价格。但这也怪不得药店，因为医保拖欠付款，占用药店流动资金，无形中把自己玩“贬值”了。",
+  "title": "【睡前消息991】还没到缺钱的时候，医保就卡住了",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 3,
+    "industry": 0,
+    "international": 0,
+    "media": 2,
+    "society": 0
+  },
+  "topics": [
+    "governance",
+    "media"
+  ]
+}

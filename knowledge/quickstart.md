@@ -1,22 +1,30 @@
 # Knowledge Quickstart
 
-本文件用于帮助 OpenClaw 快速决定先读哪个主题页。
+本文件用于帮助 Codex 快速决定先读哪个主题页。
 
 如果问题不复杂，先读本文件通常就够了；只有在需要更完整分布信息时，再回到 `knowledge/index.md`。
 
+## 什么时候先读我
+
+优先在以下情况使用本页：
+
+- 用户的问题大致能归到一个主题
+- 需要快速判断应从哪个 `knowledge/topics/*.md` 开始
+- 需要避免一上来读取总索引或大量节目材料
+
 ## 高频主题入口
 
-- `economy`：财政、增长、消费、收入分配、房地产、金融  
+- `economy`：财政、增长、消费、收入分配、房地产、金融
   读取：`knowledge/topics/economy.md`
-- `industry`：制造业、产业升级、技术路线、基础设施、能源  
+- `industry`：制造业、产业升级、技术路线、基础设施、能源
   读取：`knowledge/topics/industry.md`
-- `governance`：政策执行、地方治理、制度安排、行政激励  
+- `governance`：政策执行、地方治理、制度安排、行政激励
   读取：`knowledge/topics/governance.md`
-- `society`：教育、医疗、人口、城市、养老、社会结构  
+- `society`：教育、医疗、人口、城市、养老、社会结构
   读取：`knowledge/topics/society.md`
-- `international`：国际关系、全球产业链、海外案例、地缘竞争  
+- `international`：国际关系、全球产业链、海外案例、地缘竞争
   读取：`knowledge/topics/international.md`
-- `media`：自媒体、舆论、平台传播、影视娱乐、节目本身  
+- `media`：自媒体、舆论、平台传播、影视娱乐、节目本身
   读取：`knowledge/topics/media.md`
 
 ## 推荐处理顺序
@@ -25,6 +33,14 @@
 2. 读取对应 `knowledge/topics/*.md`
 3. 只挑少量高相关节目进入 `knowledge/episodes/...`
 4. 材料已经够用时停止扩张读取范围
+
+## 什么时候不用读总索引
+
+以下情况通常不必读取 `knowledge/index.md`：
+
+- 单一主题问题已经足够明确
+- 主题页已经给出足够的节目入口
+- 只需要做结构分析，不需要查看最近更新分布
 
 ## 何时回到总索引
 

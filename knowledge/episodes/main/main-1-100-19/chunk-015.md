@@ -7,6 +7,8 @@ episode_id: main-1-100-19
 chunk_index: 15
 chunk_heading: （A）有性生殖（B）动态平衡 （C）减少空气污染（D）充足的资源
 source_path: 1-100/19.md
+summary: A）有性生殖（B）动态平衡 （C）减少空气污染（D）充足的资源
+usage_hint: 适合在需要节目级细节时补充与“A）有性生殖（B）动态平衡 （C）减少空气污染（D）充足的资”相关的节目论据。
 ---
 
 # （A）有性生殖（B）动态平衡 （C）减少空气污染（D）充足的资源

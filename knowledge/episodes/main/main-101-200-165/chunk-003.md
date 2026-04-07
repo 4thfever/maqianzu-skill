@@ -7,6 +7,8 @@ episode_id: main-101-200-165
 chunk_index: 3
 chunk_heading: 那乙肝为什么这么难治呢？
 source_path: 101-200/165.md
+summary: 乙肝难治，是因为乙肝病毒很特殊
+usage_hint: 适合在需要节目级细节时补充与“乙肝难治，是因为乙肝病毒很特殊”相关的节目论据。
 ---
 
 # 那乙肝为什么这么难治呢？

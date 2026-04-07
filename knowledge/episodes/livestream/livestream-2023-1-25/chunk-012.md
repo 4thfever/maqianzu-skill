@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 12
 chunk_heading: 有人说黄种人还有希望吗？
 source_path: 2023/1/25.md
+summary: 这个事情我觉得问的太泛了
+usage_hint: 适合在直播问答场景中核对与“这个事情我觉得问的太泛了”相关的节目级细节。
 ---
 
 # 有人说黄种人还有希望吗？

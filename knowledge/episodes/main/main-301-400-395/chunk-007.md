@@ -7,6 +7,8 @@ episode_id: main-301-400-395
 chunk_index: 7
 chunk_heading: 页岩气技术会怎么改变普通中国人的生活？
 source_path: 301-400/395.md
+summary: 首先是改变了四川人的生活
+usage_hint: 适合在需要节目级细节时补充与“首先是改变了四川人的生活”相关的节目论据。
 ---
 
 # 页岩气技术会怎么改变普通中国人的生活？

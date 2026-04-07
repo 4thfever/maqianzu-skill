@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【2019年终演讲】社会斗争讲科学，中等收入无陷阱",
+      "question": "",
+      "summary": "大家好： 很荣幸参加观视频2019年会",
+      "usage_hint": "适合在需要节目级细节时补充与“大家好： 很荣幸参加观视频2019年会”相关的节目论据。"
+    }
+  ],
+  "date": "2023-01-25",
+  "date_source": "front_matter_fallback",
+  "description": "",
+  "episode_id": "main-1-100-speech2019",
+  "keywords": [],
+  "source_path": "1-100/speech2019.md",
+  "source_type": "main",
+  "summary": "大家好： 很荣幸参加观视频2019年会",
+  "title": "【2019年终演讲】社会斗争讲科学，中等收入无陷阱",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 0,
+    "international": 1,
+    "media": 1,
+    "society": 2
+  },
+  "topics": [
+    "economy",
+    "society"
+  ]
+}

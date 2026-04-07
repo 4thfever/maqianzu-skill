@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息961】柳州轻轨烂尾 南阳能建好吗？",
+      "question": "",
+      "summary": "柳州是我们工作室的老朋友了，除了五菱汽车、债务爆炸以及螺蛳粉之外，过去几年，柳州最著名的形象代表就是烂尾的轻轨工程",
+      "usage_hint": "适合在需要节目级细节时补充与“柳州是我们工作室的老朋友了，除了五菱汽车、债务爆炸以及螺蛳粉”相关的节目论据。"
+    }
+  ],
+  "date": "2025-10-05",
+  "date_source": "body_explicit",
+  "description": "柳州和南阳，都是睡前消息节目的老朋友。柳州的轻轨烂尾众所周知，南阳的轻轨项目蠢蠢欲动。柳州做不好的事情，南阳能做好吗?",
+  "episode_id": "main-901-1000-961",
+  "keywords": [],
+  "source_path": "901-1000/961.md",
+  "source_type": "main",
+  "summary": "柳州和南阳，都是睡前消息节目的老朋友。柳州的轻轨烂尾众所周知，南阳的轻轨项目蠢蠢欲动。柳州做不好的事情，南阳能做好吗?",
+  "title": "【睡前消息961】柳州轻轨烂尾 南阳能建好吗？",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 2,
+    "industry": 3,
+    "international": 0,
+    "media": 2,
+    "society": 2
+  },
+  "topics": [
+    "governance",
+    "industry"
+  ]
+}

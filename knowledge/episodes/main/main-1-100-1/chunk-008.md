@@ -7,6 +7,8 @@ episode_id: main-1-100-1
 chunk_index: 8
 chunk_heading: 最后这个新闻，我有点想不通。去年加拿大大麻合法化，专门成立了一个国有公司卖大麻。媒体最近查了这个公司的年报，发现还亏损490万加元，也就是人民币2570万。加拿大政府怎么连贩毒都亏钱呢？
 source_path: 1-100/1.md
+summary: https://www.guancha.cn/internation/2019_06_27_507332.shtml](https://www.guancha.cn/internation/2019_06_27_507332.shtml)
+usage_hint: 适合在需要节目级细节时补充与“https://www.guancha.cn/interna”相关的节目论据。
 ---
 
 # 最后这个新闻，我有点想不通。去年加拿大大麻合法化，专门成立了一个国有公司卖大麻。媒体最近查了这个公司的年报，发现还亏损490万加元，也就是人民币2570万。加拿大政府怎么连贩毒都亏钱呢？

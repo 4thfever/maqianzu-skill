@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 26
 chunk_heading: 农村养老
 source_path: 2023/1/25.md
+summary: 有人说养农村养老问题如何解决吗
+usage_hint: 适合在直播问答场景中核对与“有人说养农村养老问题如何解决吗”相关的节目级细节。
 ---
 
 # 农村养老

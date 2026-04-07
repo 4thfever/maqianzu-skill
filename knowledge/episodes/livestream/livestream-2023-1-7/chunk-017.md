@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-7
 chunk_index: 17
 chunk_heading: 山西临汾
 source_path: 2023/1/7.md
+summary: 你们连山西师范大学都丢了，你还在乎工厂
+usage_hint: 适合在直播问答场景中核对与“你们连山西师范大学都丢了，你还在乎工厂”相关的节目级细节。
 ---
 
 # 山西临汾

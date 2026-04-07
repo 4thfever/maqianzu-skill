@@ -7,6 +7,8 @@ episode_id: main-1-100-88
 chunk_index: 7
 chunk_heading: 辛有志的钱都是靠直播带货赚来的吗？
 source_path: 1-100/88.md
+summary: 本质上都是，但具体操作还是有差别
+usage_hint: 适合在需要节目级细节时补充与“本质上都是，但具体操作还是有差别”相关的节目论据。
 ---
 
 # 辛有志的钱都是靠直播带货赚来的吗？

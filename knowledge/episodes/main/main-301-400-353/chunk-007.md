@@ -7,6 +7,8 @@ episode_id: main-301-400-353
 chunk_index: 7
 chunk_heading: 除了光刻机，其它芯片制造设备的国产化进展怎么样？
 source_path: 301-400/353.md
+summary: 只能说应该有耐心
+usage_hint: 适合在需要节目级细节时补充与“只能说应该有耐心”相关的节目论据。
 ---
 
 # 除了光刻机，其它芯片制造设备的国产化进展怎么样？

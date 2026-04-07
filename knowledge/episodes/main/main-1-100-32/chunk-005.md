@@ -7,6 +7,8 @@ episode_id: main-1-100-32
 chunk_index: 5
 chunk_heading: 督工，你怎么评价地方政府的两个处理结果？
 source_path: 1-100/32.md
+summary: 习水县的处理肯定是有问题的
+usage_hint: 适合在需要节目级细节时补充与“习水县的处理肯定是有问题的”相关的节目论据。
 ---
 
 # 督工，你怎么评价地方政府的两个处理结果？

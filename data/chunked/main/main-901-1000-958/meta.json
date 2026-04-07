@@ -1,0 +1,35 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息958】下水道抓毒贩 先交水费",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-09-28",
+  "date_source": "body_explicit",
+  "description": "下水道测微量物质，是中国最先进的反毒品技术。在睡前消息节目运营的几年时间里，监测网络已经从珠三角扩散到四川山区。这套体系当前最大的问题，不是监测能力，而是城市污水系统的维护成本。",
+  "episode_id": "main-901-1000-958",
+  "keywords": [],
+  "source_path": "901-1000/958.md",
+  "source_type": "main",
+  "summary": "下水道测微量物质，是中国最先进的反毒品技术。在睡前消息节目运营的几年时间里，监测网络已经从珠三角扩散到四川山区。这套体系当前最大的问题，不是监测能力，而是城市污水系统的维护成本。",
+  "title": "【睡前消息958】下水道抓毒贩 先交水费",
+  "topic_scores": {
+    "economy": 4,
+    "governance": 2,
+    "industry": 4,
+    "international": 0,
+    "media": 1,
+    "society": 4
+  },
+  "topics": [
+    "economy",
+    "industry",
+    "society"
+  ]
+}

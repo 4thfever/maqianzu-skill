@@ -7,6 +7,8 @@ episode_id: main-401-500-473
 chunk_index: 2
 chunk_heading: 督工，这个高调的金融专家翟山鹰是谁？
 source_path: 401-500/473.md
+summary: 翟山鹰，真名翟红鹰
+usage_hint: 适合在需要节目级细节时补充与“翟山鹰，真名翟红鹰”相关的节目论据。
 ---
 
 # 督工，这个高调的金融专家翟山鹰是谁？

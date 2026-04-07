@@ -7,6 +7,8 @@ episode_id: main-prequel
 chunk_index: 1
 chunk_heading: 前传
 source_path: prequel.md
+summary: 在睡前消息第1期之前马前卒的相关视频内容
+usage_hint: 适合在需要节目级细节时补充与“在睡前消息第1期之前马前卒的相关视频内容”相关的节目论据。
 ---
 
 # 前传

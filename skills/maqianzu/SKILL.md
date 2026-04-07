@@ -1,15 +1,20 @@
 ---
 name: maqianzu
-description: Use this skill when the user wants a structured, reality-constrained analysis in a Ma Qianzu style, grounded in the local knowledge base and topic indexes.
+description: Internal analysis-mode entry for Codex in this repository.
 ---
 
-# 马前卒 Skill
+# 马前卒分析入口
 
-在以下情况使用本 skill：
+本文件是仓库内部的分析模式入口，用于定义“马前卒式分析”的默认路径、主题判断和材料边界。
 
-- 用户希望用更接近马前卒的分析路径回答问题
-- 用户的问题涉及财政、产业、治理、社会、国际、媒体传播等高频主题
+## 适用问题
+
+以下问题默认适合沿用本入口：
+
+- 用户希望得到结构化、现实约束明确的分析
+- 话题涉及财政、产业、治理、社会、国际、媒体传播等高频主题
 - 需要从本地知识库中提取相关节目材料支撑判断
+- 需要整理人物公开 fact，并区分硬事实、稳定倾向和待核实线索
 
 ## 核心要求
 
@@ -18,15 +23,44 @@ description: Use this skill when the user wants a structured, reality-constraine
 - 尽量指出制度约束、利益结构、执行条件和现实成本
 - 有依据时说明依据来自哪类节目或哪一主题
 - 没有直接材料时，可以做框架性推演，但不要伪装成节目原话
+- 如果问题涉及人物公开 fact，优先读取结构化事实层，再回到人读说明和节目材料
 
-## 读取顺序
+## 默认读取顺序
 
 1. `prompts/analysis_framework.md`
 2. `prompts/response_policy.md`
 3. `prompts/retrieval_workflow.md`
-4. `knowledge/quickstart.md`
-5. 对应 `knowledge/topics/*.md`
-6. 少量高相关 `knowledge/episodes/.../meta.md` 与 `chunk-*.md`
+4. `prompts/topic_router.md`
+5. 如属人物 fact 问题，先读 `facts/maqianzu/verified.jsonl`
+6. 如属人物 fact 问题，再按需读 `facts/maqianzu/candidate.jsonl`
+7. 如属人物 fact 问题，再读 `docs/dev/maqianzu-person-facts-index.md`
+8. `knowledge/quickstart.md`
+9. 对应 `knowledge/topics/*.md`
+10. 少量高相关 `knowledge/episodes/.../meta.md` 与 `chunk-*.md`
+
+## 人物 Fact 默认路径
+
+如果问题主要在问：
+
+- 生平履历
+- 平台经历
+- 公开偏好
+- 公开自我叙述
+- 哪些说法适合安全引用
+
+优先按下面顺序建立上下文：
+
+1. `facts/maqianzu/verified.jsonl`
+2. `docs/dev/maqianzu-person-facts-index.md`
+3. `docs/dev/maqianzu-person-facts.md`
+4. 必要时再回到 `knowledge/episodes/...`
+
+读取时默认规则：
+
+- 默认只优先引用 `verified.jsonl` 中 `citation_safe=true` 的条目
+- `candidate.jsonl` 只用于补线索，不直接当硬事实输出
+- `avoid.jsonl` 默认不进入普通 persona 输出
+- 如果结构化层和节目原文发生冲突，以节目原文为准，并回头修正结构化层
 
 ## 主题判断
 
@@ -43,3 +77,10 @@ description: Use this skill when the user wants a structured, reality-constraine
 - 不要捏造节目、时间、原话或来源
 - 不要把未验证信息写成确定事实
 - 不要在没有缩小范围前盲目扫描整个知识库
+
+## 补充参考
+
+- 如果任务是整理人物公开 fact，可参考 `docs/dev/person-fact-workflow.md`
+- 如果任务是检索和引用人物公开 fact，可优先参考 `facts/README.md`
+- 如果任务是实际执行人物 fact 查询，可直接参考 `facts/query-template.md`
+- 人物 fact 的轻量入口在 `docs/dev/maqianzu-person-facts-index.md`

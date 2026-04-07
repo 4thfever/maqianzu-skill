@@ -7,6 +7,8 @@ episode_id: main-1-100-47
 chunk_index: 6
 chunk_heading: 为什么不给煤矿增加用地指标呢？
 source_path: 1-100/47.md
+summary: 首先，缺土地是中国的基本国情
+usage_hint: 适合在需要节目级细节时补充与“首先，缺土地是中国的基本国情”相关的节目论据。
 ---
 
 # 为什么不给煤矿增加用地指标呢？

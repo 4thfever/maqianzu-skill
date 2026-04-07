@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-1
 chunk_index: 10
 chunk_heading: 中南半岛
 source_path: 2022/11/15-1.md
+summary: 中南半岛的整个的秩序问题，我们现在中国还没有力气去搞定
+usage_hint: 适合在直播问答场景中核对与“中南半岛的整个的秩序问题，我们现在中国还没有力气去搞定”相关的节目级细节。
 ---
 
 # 中南半岛

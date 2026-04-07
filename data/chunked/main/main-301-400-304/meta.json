@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息304】百年纪念日 重读“宣言”",
+      "question": "",
+      "summary": "2.其他体会 宣言其他的内容，主要是批驳性的文字，虽然有1848年的历史局限性",
+      "usage_hint": "适合在需要节目级细节时补充与“2.其他体会 宣言其他的内容，主要是批驳性的文字，虽然有18”相关的节目论据。"
+    }
+  ],
+  "date": "2021-07-23",
+  "date_source": "body_explicit",
+  "description": "虽然“七一”是建党节，但近年经过多方考据，可以证实7月23日才是真正的建党日期，在百年纪念日之际，我谈谈我对《共产党宣言》的个人理解。",
+  "episode_id": "main-301-400-304",
+  "keywords": [],
+  "source_path": "301-400/304.md",
+  "source_type": "main",
+  "summary": "虽然“七一”是建党节，但近年经过多方考据，可以证实7月23日才是真正的建党日期，在百年纪念日之际，我谈谈我对《共产党宣言》的个人理解。",
+  "title": "【睡前消息304】百年纪念日 重读“宣言”",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 0,
+    "international": 0,
+    "media": 0,
+    "society": 3
+  },
+  "topics": [
+    "society"
+  ]
+}

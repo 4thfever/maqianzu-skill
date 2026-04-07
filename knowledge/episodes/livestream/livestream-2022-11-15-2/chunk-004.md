@@ -7,6 +7,8 @@ episode_id: livestream-2022-11-15-2
 chunk_index: 4
 chunk_heading: 中国的景区为什么拍出来不如欧美好看
 source_path: 2022/11/15-2.md
+summary: 一个很重要的原因
+usage_hint: 适合在直播问答场景中核对与“一个很重要的原因”相关的节目级细节。
 ---
 
 # 中国的景区为什么拍出来不如欧美好看

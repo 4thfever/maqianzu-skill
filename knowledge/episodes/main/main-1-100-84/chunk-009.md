@@ -7,6 +7,8 @@ episode_id: main-1-100-84
 chunk_index: 9
 chunk_heading: 发这么多钱，会改变香港现在的问题吗？
 source_path: 1-100/84.md
+summary: 能缓解一点，但根本上是没用的
+usage_hint: 适合在需要节目级细节时补充与“能缓解一点，但根本上是没用的”相关的节目论据。
 ---
 
 # 发这么多钱，会改变香港现在的问题吗？

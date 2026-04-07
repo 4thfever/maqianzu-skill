@@ -7,6 +7,8 @@ episode_id: main-101-200-110
 chunk_index: 4
 chunk_heading: 督工你看好孟加拉的经济发展前景吗？
 source_path: 101-200/110.md
+summary: 我只能说谨慎乐观
+usage_hint: 适合在需要节目级细节时补充与“我只能说谨慎乐观”相关的节目论据。
 ---
 
 # 督工你看好孟加拉的经济发展前景吗？

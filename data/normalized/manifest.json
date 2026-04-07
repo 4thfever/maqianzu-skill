@@ -1,0 +1,28 @@
+{
+  "allowed_paths": [
+    "main",
+    "livestream"
+  ],
+  "output_root": "E:\\projects\\maqianzu-skill\\data\\normalized",
+  "source_root": "E:\\projects\\maqianzu-skill\\data\\upstream\\bedtimenews-archive-contents",
+  "stats": {
+    "livestream": {
+      "encodings": {
+        "utf-8": 8
+      },
+      "normalized_files": 8,
+      "skipped_non_text": 0,
+      "source_files": 8,
+      "source_type": "livestream"
+    },
+    "main": {
+      "encodings": {
+        "utf-8": 867
+      },
+      "normalized_files": 867,
+      "skipped_non_text": 0,
+      "source_files": 867,
+      "source_type": "main"
+    }
+  }
+}

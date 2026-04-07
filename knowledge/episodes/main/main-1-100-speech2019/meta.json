@@ -5,7 +5,9 @@
       "chunk_file": "chunk-001.md",
       "chunk_index": 1,
       "heading": "【2019年终演讲】社会斗争讲科学，中等收入无陷阱",
-      "question": ""
+      "question": "",
+      "summary": "大家好： 很荣幸参加观视频2019年会",
+      "usage_hint": "适合在需要节目级细节时补充与“大家好： 很荣幸参加观视频2019年会”相关的节目论据。"
     }
   ],
   "date": "2023-01-25",
@@ -15,5 +17,6 @@
   "keywords": [],
   "source_path": "1-100/speech2019.md",
   "source_type": "main",
+  "summary": "大家好： 很荣幸参加观视频2019年会",
   "title": "【2019年终演讲】社会斗争讲科学，中等收入无陷阱"
 }

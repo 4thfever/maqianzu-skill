@@ -7,6 +7,8 @@ episode_id: main-201-300-221
 chunk_index: 4
 chunk_heading: [第219期 打工人不想猝死，就要比拼多多更快](https://archive.bedtime.news/zh/main/201-300/219)节目，督工提到了俄罗斯的“考古型”科研，因为找到了苏联时代的旧资料，所以才能翻修战略轰炸机，你能具体介绍一下吗？
 source_path: 201-300/221.md
+summary: 美国air recognition网站12月4日报道，俄罗斯开始为战略轰炸机图-160M制造新发动机
+usage_hint: 适合在需要节目级细节时补充与“美国air recognition网站12月4日报道，俄罗斯”相关的节目论据。
 ---
 
 # [第219期 打工人不想猝死，就要比拼多多更快](https://archive.bedtime.news/zh/main/201-300/219)节目，督工提到了俄罗斯的“考古型”科研，因为找到了苏联时代的旧资料，所以才能翻修战略轰炸机，你能具体介绍一下吗？

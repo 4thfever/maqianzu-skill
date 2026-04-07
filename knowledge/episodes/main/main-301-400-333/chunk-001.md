@@ -7,6 +7,8 @@ episode_id: main-301-400-333
 chunk_index: 1
 chunk_heading: 财新网9月10号报道，香港新界东北垃圾堆填区紧邻深圳罗湖，产生的臭气长年污染周边环境。香港特区环保署最近表示，将负责出钱治理，虽然每年只有1800万港币，但依然是个明显的态度。 ![333-1.jpg](https://img.bedtime.news/2023/08/25/64e898f8089c4.png) https://science.caixin.com/2021-09-10/101771547.html?originReferrer=caixinweibo 八年之前，香港已经为垃圾场的臭味道歉，现在终于开始准备解决问题。 ![333-2.jpg](https://img.bedtime.news/2023/08/25/64e898f8d0128.png) http://www.chinanews.com/ga/2013/11-26/5549147.shtml 不过今年3、4月，媒体又报道，香港计划在深圳罗湖口岸300米处修建“超级殡葬城”，引发了大量批评，但港府坚持要继续推进该计划。 ![333-3.jpg](https://img.bedtime.news/2023/08/25/64e898f92273a.png) 香港是故意要在深圳边界上搞这些负面项目吗？
 source_path: 301-400/333.md
+summary: 最近引发争论的项目是香港新界的沙湾殡葬园
+usage_hint: 适合在需要节目级细节时补充与“最近引发争论的项目是香港新界的沙湾殡葬园”相关的节目论据。
 ---
 
 # 财新网9月10号报道，香港新界东北垃圾堆填区紧邻深圳罗湖，产生的臭气长年污染周边环境。香港特区环保署最近表示，将负责出钱治理，虽然每年只有1800万港币，但依然是个明显的态度。 ![333-1.jpg](https://img.bedtime.news/2023/08/25/64e898f8089c4.png) https://science.caixin.com/2021-09-10/101771547.html?originReferrer=caixinweibo 八年之前，香港已经为垃圾场的臭味道歉，现在终于开始准备解决问题。 ![333-2.jpg](https://img.bedtime.news/2023/08/25/64e898f8d0128.png) http://www.chinanews.com/ga/2013/11-26/5549147.shtml 不过今年3、4月，媒体又报道，香港计划在深圳罗湖口岸300米处修建“超级殡葬城”，引发了大量批评，但港府坚持要继续推进该计划。 ![333-3.jpg](https://img.bedtime.news/2023/08/25/64e898f92273a.png) 香港是故意要在深圳边界上搞这些负面项目吗？

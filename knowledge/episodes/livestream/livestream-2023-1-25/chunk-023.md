@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 23
 chunk_heading: 计算机专业
 source_path: 2023/1/25.md
+summary: 我们再看看计算机专业，和计算机相关的专业
+usage_hint: 适合在直播问答场景中核对与“我们再看看计算机专业，和计算机相关的专业”相关的节目级细节。
 ---
 
 # 计算机专业

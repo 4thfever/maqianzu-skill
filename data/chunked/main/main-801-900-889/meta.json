@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息889】七年搞两场 右翼总统爱“谋反”",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-04-20",
+  "date_source": "body_explicit",
+  "description": "尹锡悦和朴槿惠两任总统出身都是右翼，遇到政治危机的时候，都企图命令军队戒严，最后也都被弹劾。政治轨迹重合并非偶然。",
+  "episode_id": "main-801-900-889",
+  "keywords": [],
+  "source_path": "801-900/889.md",
+  "source_type": "main",
+  "summary": "尹锡悦和朴槿惠两任总统出身都是右翼，遇到政治危机的时候，都企图命令军队戒严，最后也都被弹劾。政治轨迹重合并非偶然。",
+  "title": "【睡前消息889】七年搞两场 右翼总统爱“谋反”",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 0,
+    "international": 0,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "governance",
+    "media"
+  ]
+}

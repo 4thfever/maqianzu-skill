@@ -7,6 +7,8 @@ episode_id: livestream-2023-1-25
 chunk_index: 1
 chunk_heading: 这些年立场变过吗？
 source_path: 2023/1/25.md
+summary: 我觉得立场是一个坚持科学的问题
+usage_hint: 适合在直播问答场景中核对与“我觉得立场是一个坚持科学的问题”相关的节目级细节。
 ---
 
 # 这些年立场变过吗？

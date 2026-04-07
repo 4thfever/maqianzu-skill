@@ -1,0 +1,35 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息1025】144年的烂尾楼，做广告要学西班牙",
+      "question": "",
+      "summary": "# **一 教堂烂尾的理由** 巴塞罗那神圣家族教堂，简称“圣家堂”，在1882年——也就是光绪八年动工",
+      "usage_hint": "适合在需要节目级细节时补充与“一 教堂烂尾的理由** 巴塞罗那神圣家族教堂，简称“圣家堂””相关的节目论据。"
+    }
+  ],
+  "date": "2026-03-06",
+  "date_source": "body_explicit",
+  "description": "光绪八年动工的巴塞罗那圣家教堂，2026才年封顶，目前预计2030年竣工。但对于西班牙人来说，让圣家堂永远烂尾，或许才是最好的选择。",
+  "episode_id": "main-1001-1100-1025",
+  "keywords": [],
+  "source_path": "1001-1100/1025.md",
+  "source_type": "main",
+  "summary": "光绪八年动工的巴塞罗那圣家教堂，2026才年封顶，目前预计2030年竣工。但对于西班牙人来说，让圣家堂永远烂尾，或许才是最好的选择。",
+  "title": "【睡前消息1025】144年的烂尾楼，做广告要学西班牙",
+  "topic_scores": {
+    "economy": 1,
+    "governance": 0,
+    "industry": 1,
+    "international": 1,
+    "media": 0,
+    "society": 0
+  },
+  "topics": [
+    "economy",
+    "industry",
+    "international"
+  ]
+}

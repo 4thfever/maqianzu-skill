@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息60】年终盘点（中）：中国有些企业需要“社会主义改造”？",
+      "question": "",
+      "summary": "睡前消息第60期：年终盘点（中） --- 大家好，2020年1月1日，欢迎收看睡前消息60期，今天我们继续回顾2019年",
+      "usage_hint": "适合在需要节目级细节时补充与“睡前消息第60期：年终盘点（中） --- 大家好，2020年”相关的节目论据。"
+    }
+  ],
+  "date": "2020-01-01",
+  "date_source": "body_explicit",
+  "description": "",
+  "episode_id": "main-1-100-60",
+  "keywords": [],
+  "source_path": "1-100/60.md",
+  "source_type": "main",
+  "summary": "睡前消息第60期：年终盘点（中） --- 大家好，2020年1月1日，欢迎收看睡前消息60期，今天我们继续回顾2019年",
+  "title": "【睡前消息60】年终盘点（中）：中国有些企业需要“社会主义改造”？",
+  "topic_scores": {
+    "economy": 2,
+    "governance": 0,
+    "industry": 5,
+    "international": 0,
+    "media": 0,
+    "society": 2
+  },
+  "topics": [
+    "industry"
+  ]
+}

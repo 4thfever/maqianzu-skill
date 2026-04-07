@@ -1,0 +1,34 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息977】找不到退订会员按钮，罚25亿美元",
+      "question": "",
+      "summary": "[上一期](/main/901-1000/976)节目，提到了美国电商平台亚马逊用AI替代员工，正在发动全面裁员计划",
+      "usage_hint": "适合在需要节目级细节时补充与“上一期](/main/901-1000/976)节目，提到了”相关的节目论据。"
+    }
+  ],
+  "date": "2025-11-11",
+  "date_source": "body_explicit",
+  "description": "使用亚马逊电商平台，很容易被误导成为付费尊享会员，同时退订按钮设置了复杂的双重否定逻辑。中国用户看到亚马逊被罚25亿美元，很容易想到某些中国公司应该被罚双倍。",
+  "episode_id": "main-901-1000-977",
+  "keywords": [],
+  "source_path": "901-1000/977.md",
+  "source_type": "main",
+  "summary": "使用亚马逊电商平台，很容易被误导成为付费尊享会员，同时退订按钮设置了复杂的双重否定逻辑。中国用户看到亚马逊被罚25亿美元，很容易想到某些中国公司应该被罚双倍。",
+  "title": "【睡前消息977】找不到退订会员按钮，罚25亿美元",
+  "topic_scores": {
+    "economy": 3,
+    "governance": 0,
+    "industry": 1,
+    "international": 4,
+    "media": 3,
+    "society": 0
+  },
+  "topics": [
+    "economy",
+    "international"
+  ]
+}

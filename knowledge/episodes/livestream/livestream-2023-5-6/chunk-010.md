@@ -7,6 +7,8 @@ episode_id: livestream-2023-5-6
 chunk_index: 10
 chunk_heading: 推迟退休还要多久，会推迟多少？
 source_path: 2023/5/6.md
+summary: 推迟退休我觉得不意外的话， 3 年内就会开始
+usage_hint: 适合在直播问答场景中核对与“推迟退休我觉得不意外的话， 3 年内就会开始”相关的节目级细节。
 ---
 
 # 推迟退休还要多久，会推迟多少？

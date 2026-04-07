@@ -7,6 +7,8 @@ episode_id: main-1-100-39
 chunk_index: 3
 chunk_heading: 这一类培训机构的问题这么明显，为什么还可以存在十几年呢？
 source_path: 1-100/39.md
+summary: 首先，无利不起早
+usage_hint: 适合在需要节目级细节时补充与“首先，无利不起早”相关的节目论据。
 ---
 
 # 这一类培训机构的问题这么明显，为什么还可以存在十几年呢？

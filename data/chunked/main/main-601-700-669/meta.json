@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息669】GDP≠退休金，关注江苏=关心自己",
+      "question": "",
+      "summary": "今年以来，江苏人普遍关注养老金问题，抱怨退休以后比其他省拿钱少",
+      "usage_hint": "适合在需要节目级细节时补充与“今年以来，江苏人普遍关注养老金问题，抱怨退休以后比其他省拿钱”相关的节目论据。"
+    }
+  ],
+  "date": "2023-11-12",
+  "date_source": "body_explicit",
+  "description": "江苏是人均GDP最高的省，但退休金低于所有邻居，最先暴露了中国养老制度缺陷。",
+  "episode_id": "main-601-700-669",
+  "keywords": [],
+  "source_path": "601-700/669.md",
+  "source_type": "main",
+  "summary": "江苏是人均GDP最高的省，但退休金低于所有邻居，最先暴露了中国养老制度缺陷。",
+  "title": "【睡前消息669】GDP≠退休金，关注江苏=关心自己",
+  "topic_scores": {
+    "economy": 4,
+    "governance": 1,
+    "industry": 0,
+    "international": 0,
+    "media": 1,
+    "society": 6
+  },
+  "topics": [
+    "society"
+  ]
+}

@@ -7,6 +7,8 @@ episode_id: main-1-100-69
 chunk_index: 10
 chunk_heading: **静静：现在这些朋友怎么样了？**
 source_path: 1-100/69.md
+summary: 下周休假，我们约了在8.3版本见
+usage_hint: 适合在需要节目级细节时补充与“下周休假，我们约了在8.3版本见”相关的节目论据。
 ---
 
 # **静静：现在这些朋友怎么样了？**

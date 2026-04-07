@@ -7,6 +7,8 @@ episode_id: main-1-100-57
 chunk_index: 7
 chunk_heading: 为什么邛崃会有大型的古代炼铁遗址呢？
 source_path: 1-100/57.md
+summary: 首先是因为地理因素
+usage_hint: 适合在需要节目级细节时补充与“首先是因为地理因素”相关的节目论据。
 ---
 
 # 为什么邛崃会有大型的古代炼铁遗址呢？

@@ -7,6 +7,8 @@ episode_id: main-301-400-386
 chunk_index: 13
 chunk_heading: 就怕有人从来就不想要文化繁荣。
 source_path: 301-400/386.md
+summary: 342期 【睡前消息342】多生孩子就分房，段子变成现实](https://archive.bedtime.news/zh/main/301-400/342)9:30 与其让优秀的学生吃不饱，练习无用的低级技巧，不如直接加深教学深度和高考大
+usage_hint: 适合在需要节目级细节时补充与“睡前消息342】多生孩子就分房，段子变成现实](https:”相关的节目论据。
 ---
 
 # 就怕有人从来就不想要文化繁荣。

@@ -1,0 +1,35 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息368】寻找初心 新青年的“6+1”攻略",
+      "question": "",
+      "summary": "我尤其要感谢我在观察者网、观视频的老同事，他们在疫情压力下，为年终秀做了软硬件各方面的完善准备，为我们准备了交流思想的空间，今天的演讲虽然是我个人上台，但背后还是团队工作的结果",
+      "usage_hint": "适合在需要节目级细节时补充与“我尤其要感谢我在观察者网、观视频的老同事，他们在疫情压力下，”相关的节目论据。"
+    }
+  ],
+  "date": "2023-08-24",
+  "date_source": "front_matter_fallback",
+  "description": "今年活动的主体是“新青年，新精神”，所以马督工做了一场最切题的演讲，直接回顾陈独秀的《新青年》发刊词，一起寻找新中国解放精神的源头。",
+  "episode_id": "main-301-400-368",
+  "keywords": [],
+  "source_path": "301-400/368.md",
+  "source_type": "main",
+  "summary": "今年活动的主体是“新青年，新精神”，所以马督工做了一场最切题的演讲，直接回顾陈独秀的《新青年》发刊词，一起寻找新中国解放精神的源头。",
+  "title": "【睡前消息368】寻找初心 新青年的“6+1”攻略",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 1,
+    "industry": 1,
+    "international": 0,
+    "media": 1,
+    "society": 0
+  },
+  "topics": [
+    "governance",
+    "industry",
+    "media"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息515】Z-Library被封，只有社会主义能救图书馆",
+      "question": "",
+      "summary": "11月4号，号称全球最大的电子书网站Z-Library突然被封，现在打开网站只能看到一则通告，宣布美国司法机构扣押了网址",
+      "usage_hint": "适合在需要节目级细节时补充与“11月4号，号称全球最大的电子书网站Z-Library突然被”相关的节目论据。"
+    }
+  ],
+  "date": "2022-11-22",
+  "date_source": "body_explicit",
+  "description": "信息产品具有自然垄断性，容易导致寡头垄断版权，制造典型的坏资本主义；而Z-Library强行免费分享所有书籍、论文，又是无视原创者权益的无政府主义。中国社会既需要普及知识，也需要刺激原创者的热情，所以不能盲目学习欧美，在坏资本主义和无政府主义之间跳来跳去。这个破局的方案就叫社会主义。",
+  "episode_id": "main-501-600-515",
+  "keywords": [],
+  "source_path": "501-600/515.md",
+  "source_type": "main",
+  "summary": "信息产品具有自然垄断性，容易导致寡头垄断版权，制造典型的坏资本主义；而Z-Library强行免费分享所有书籍、论文，又是无视原创者权益的无政府主义。中国社会既需要普及知识，也需要刺激原创者的热情，所以不能盲目学习欧美，在坏资本主义和无政府主义之间跳来跳去。这个破局的方案就叫社会主义。",
+  "title": "【睡前消息515】Z-Library被封，只有社会主义能救图书馆",
+  "topic_scores": {
+    "economy": 0,
+    "governance": 3,
+    "industry": 1,
+    "international": 6,
+    "media": 0,
+    "society": 4
+  },
+  "topics": [
+    "international"
+  ]
+}

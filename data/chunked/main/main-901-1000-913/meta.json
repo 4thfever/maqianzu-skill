@@ -1,0 +1,33 @@
+{
+  "chunk_count": 1,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "【睡前消息913】山东县城+抖音 安利可以安息了",
+      "question": "",
+      "summary": "以下文本为音频转录结果，存在一定错误，校对正在进行中",
+      "usage_hint": "适合在需要节目级细节时补充与“以下文本为音频转录结果，存在一定错误，校对正在进行中”相关的节目论据。"
+    }
+  ],
+  "date": "2025-06-15",
+  "date_source": "body_explicit",
+  "description": "山东有1309家直销网点，明显超过广东的942家，是中国第一直销大省。在安利打出来的保健品市场内部，健身教练李松做出了一个新的电商品牌。",
+  "episode_id": "main-901-1000-913",
+  "keywords": [],
+  "source_path": "901-1000/913.md",
+  "source_type": "main",
+  "summary": "山东有1309家直销网点，明显超过广东的942家，是中国第一直销大省。在安利打出来的保健品市场内部，健身教练李松做出了一个新的电商品牌。",
+  "title": "【睡前消息913】山东县城+抖音 安利可以安息了",
+  "topic_scores": {
+    "economy": 4,
+    "governance": 0,
+    "industry": 2,
+    "international": 0,
+    "media": 0,
+    "society": 1
+  },
+  "topics": [
+    "economy"
+  ]
+}

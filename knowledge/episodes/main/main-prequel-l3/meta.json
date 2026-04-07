@@ -5,7 +5,9 @@
       "chunk_file": "chunk-001.md",
       "chunk_index": 1,
       "heading": "【末条新闻3】为什么柬埔寨盐场这么多还不够吃，要向中国求援？",
-      "question": ""
+      "question": "",
+      "summary": "昨天，国家统计局公布了11月的制造业PMI数据，恰好跌到了50",
+      "usage_hint": "适合在需要节目级细节时补充与“昨天，国家统计局公布了11月的制造业PMI数据，恰好跌到了5”相关的节目论据。"
     }
   ],
   "date": "2023-01-25",
@@ -15,5 +17,6 @@
   "keywords": [],
   "source_path": "prequel/l3.md",
   "source_type": "main",
+  "summary": "昨天，国家统计局公布了11月的制造业PMI数据，恰好跌到了50",
   "title": "【末条新闻3】为什么柬埔寨盐场这么多还不够吃，要向中国求援？"
 }

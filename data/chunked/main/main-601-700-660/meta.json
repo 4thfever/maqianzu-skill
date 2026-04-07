@@ -1,0 +1,49 @@
+{
+  "chunk_count": 3,
+  "chunks": [
+    {
+      "chunk_file": "chunk-001.md",
+      "chunk_index": 1,
+      "heading": "督工，你怎么看待尼日尔军事政变的性质?",
+      "question": "督工，你怎么看待尼日尔军事政变的性质?",
+      "summary": "马里过渡总统宣布与布基纳法索和尼日尔建立萨赫勒国家联盟](https://www.guancha.cn/internation/2023_09_17_708862.shtml) > > [“御林军篡位”",
+      "usage_hint": "适合在需要节目级细节时补充与“马里过渡总统宣布与布基纳法索和尼日尔建立萨赫勒国家联盟](h”相关的节目论据。"
+    },
+    {
+      "chunk_file": "chunk-002.md",
+      "chunk_index": 2,
+      "heading": "法国军队也对付不了沙漠里的极端宗教组织，为什么还反对军政府？",
+      "question": "法国军队也对付不了沙漠里的极端宗教组织，为什么还反对军政府？",
+      "summary": "尼日尔1960年独立，刚刚被政变推翻的巴祖姆政府属于尼日尔第七共和国",
+      "usage_hint": "适合在需要节目级细节时补充与“尼日尔1960年独立，刚刚被政变推翻的巴祖姆政府属于尼日尔第”相关的节目论据。"
+    },
+    {
+      "chunk_file": "chunk-003.md",
+      "chunk_index": 3,
+      "heading": "法国撤退了，美国对尼日尔是什么立场？",
+      "question": "法国撤退了，美国对尼日尔是什么立场？",
+      "summary": "稍微谴责一下，撤销了一部分援助，其他方面保持中立",
+      "usage_hint": "适合在需要节目级细节时补充与“稍微谴责一下，撤销了一部分援助，其他方面保持中立”相关的节目论据。"
+    }
+  ],
+  "date": "2023-10-24",
+  "date_source": "body_explicit",
+  "description": "尼日尔政变之后，由军政府管理国家。中国上一次全面实行军政府，已经是北洋政府时代了。研究自己的历史，可以帮助我们理解遥远的非洲。",
+  "episode_id": "main-601-700-660",
+  "keywords": [],
+  "source_path": "601-700/660.md",
+  "source_type": "main",
+  "summary": "尼日尔政变之后，由军政府管理国家。中国上一次全面实行军政府，已经是北洋政府时代了。研究自己的历史，可以帮助我们理解遥远的非洲。",
+  "title": "【睡前消息660】翻开旧中国历史，理解尼日尔政变",
+  "topic_scores": {
+    "economy": 7,
+    "governance": 16,
+    "industry": 4,
+    "international": 9,
+    "media": 1,
+    "society": 1
+  },
+  "topics": [
+    "governance"
+  ]
+}

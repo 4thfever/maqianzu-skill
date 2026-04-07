@@ -7,6 +7,8 @@ episode_id: main-1-100-8
 chunk_index: 6
 chunk_heading: 中国为什么会需要这么多的的PX？
 source_path: 1-100/8.md
+summary: 中国人多地少，耕地要首先用来种粮食，棉花产区不多
+usage_hint: 适合在需要节目级细节时补充与“中国人多地少，耕地要首先用来种粮食，棉花产区不多”相关的节目论据。
 ---
 
 # 中国为什么会需要这么多的的PX？
