@@ -1,35 +1,27 @@
-<div align="left">
+<div align="center">
 
 # 马前卒.Skill
 
-<tr>
-  <td>
-    <blockquote>
-      <h3>保卫我们的现代生活</h3>
-    </blockquote>
-  </td>
-</tr>
+> *「保卫我们的现代生活」*
 
-<p>
-  <img src="https://img.shields.io/badge/Codex-Ready-2F6FEB?style=for-the-badge" alt="Codex Ready" />
-  <img src="https://img.shields.io/badge/Knowledge-Local%20First-0A7F5A?style=for-the-badge" alt="Local First" />
-  <img src="https://img.shields.io/badge/Mode-Structured%20Analysis-8B5CF6?style=for-the-badge" alt="Structured Analysis" />
-  <img src="https://img.shields.io/badge/License-MIT-F2C94C?style=for-the-badge" alt="MIT License" />
-</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Codex Ready](https://img.shields.io/badge/Codex-Ready-2F6FEB.svg)](#快速开始)
+[![Knowledge: Local First](https://img.shields.io/badge/Knowledge-Local%20First-0A7F5A.svg)](#项目定位)
+[![Mode: Structured Analysis](https://img.shields.io/badge/Mode-Structured%20Analysis-8B5CF6.svg)](#工作流)
 
-<p>
-  <a href="#快速开始">快速开始</a> ·
-  <a href="#适用场景">适用场景</a> ·
-  <a href="#仓库结构">仓库结构</a> ·
-  <a href="#工作流">工作流</a> ·
-  <a href="#更新知识库">更新知识库</a> ·
-  <a href="#声明">声明</a>
-</p>
+<br>
+
+**马前卒.skill / 马督工.skill。不是语录皮肤，是可复用的结构化分析入口。**
+
+<br>
+
+一个面向 Codex 的本地分析知识库仓库，目标是尽可能复用马前卒 / 马督工 / 睡前消息常见的结构化分析路径、论证习惯和材料组织方式。
+
+[快速开始](#快速开始) · [适用场景](#适用场景) · [项目定位](#项目定位) · [仓库结构](#仓库结构) · [工作流](#工作流) · [更新知识库](#更新知识库) · [声明](#声明)
 
 </div>
 
-马前卒.skill/马督工.skill
-一个面向 Codex 的本地分析知识库仓库，目标是尽可能复用马前卒/ 马督工 / 睡前消息常见的结构化分析路径、论证习惯和材料组织方式。
+---
 
 ## 快速开始
 
@@ -65,6 +57,8 @@ cd maqianzu-skill
 
 如果想看更完整的上手说明，见 [GETTING_STARTED.md](GETTING_STARTED.md)。
 
+---
+
 ## 适用场景
 
 适合：
@@ -80,12 +74,16 @@ cd maqianzu-skill
 - 通用闲聊人格包
 - 零维护使用
 
+---
+
 ## 项目定位
 
 - 面向 Codex 使用
 - 以本地文件知识库为基础，不依赖外部向量库
 - 重点放在分析框架、论证习惯和表达风格
 - 回答时优先缩小主题范围，再按需读取具体节目材料
+
+---
 
 ## 仓库结构
 
@@ -109,6 +107,8 @@ maqianzu-skill/
 └─ docs/                      # 补充文档与开发记录
 ```
 
+---
+
 ## 工作流
 
 > 这个仓库的核心不是“全库搜索”，而是“先判断主题，再逐层下钻”。
@@ -123,6 +123,8 @@ maqianzu-skill/
 
 仓库已包含可直接使用的 `prompts/` 和 `knowledge/`。如果只是日常问答，通常不需要先重建知识库。
 
+---
+
 ## 更新知识库
 
 平时问答不用跑构建。只有你想同步上游最新语料时，才运行：
@@ -132,6 +134,8 @@ python tools/build_all.py
 ```
 
 如需查看构建细节，见 [docs/build-process.md](docs/build-process.md)。
+
+---
 
 ## 声明
 
@@ -144,6 +148,8 @@ python tools/build_all.py
 >
 > 若马督工本人或睡前消息官方认为本 repo 不合适，维护者会评估并处理下架请求。
 
+---
+
 ## 延伸阅读
 
 - [快速开始](GETTING_STARTED.md)
@@ -151,6 +157,8 @@ python tools/build_all.py
 - [构建过程](docs/build-process.md)
 - [架构说明](docs/architecture.md)
 - [开发档案](docs/dev/README.md)
+
+---
 
 ## 致谢
 
