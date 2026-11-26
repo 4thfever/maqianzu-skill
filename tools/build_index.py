@@ -11,7 +11,14 @@ import re
 import shutil
 from typing import Iterable
 
-from utils import ensure_dir, iter_files, repo_root, write_json
+from utils import (
+    ensure_dir,
+    iter_files,
+    prepare_output_dir,
+    repo_root,
+    require_distinct_trees,
+    write_json,
+)
 
 
 TOPIC_KEYWORDS: dict[str, tuple[str, ...]] = {
@@ -188,6 +195,11 @@ def parse_args() -> argparse.Namespace:
         "--episodes-dirname",
         default="episodes",
         help="Directory under knowledge/ used for published episode files.",
+    )
+    parser.add_argument(
+        "--replace",
+        action="store_true",
+        help="Replace generated knowledge outputs in a non-empty knowledge directory.",
     )
     return parser.parse_args()
 
@@ -596,6 +608,29 @@ def main() -> None:
         raise FileNotFoundError(
             f"Chunked root not found: {chunked_root}. Run split_chunks.py first."
         )
+
+    require_distinct_trees(chunked_root, knowledge_root)
+    if not any(path.name == "meta.json" for path in iter_files(chunked_root)):
+        raise RuntimeError(f"No episode metadata found under: {chunked_root}")
+
+    generated_targets = [
+        published_root,
+        knowledge_root / "topics",
+        knowledge_root / "catalog.json",
+        knowledge_root / "index.md",
+    ]
+    if not args.replace and any(path.exists() for path in generated_targets):
+        raise FileExistsError(
+            f"Generated knowledge outputs already exist under {knowledge_root}. "
+            "Pass --replace only after confirming it is safe to overwrite."
+        )
+
+    if args.replace:
+        for path in generated_targets:
+            if path.is_dir():
+                shutil.rmtree(path)
+            elif path.exists():
+                path.unlink()
 
     ensure_dir(knowledge_root)
     ensure_dir(knowledge_root / "topics")

@@ -8,7 +8,15 @@ import shutil
 from dataclasses import dataclass
 from pathlib import Path
 
-from utils import ensure_dir, iter_files, normalize_text, repo_root, write_json
+from utils import (
+    ensure_dir,
+    iter_files,
+    normalize_text,
+    prepare_output_dir,
+    repo_root,
+    require_distinct_trees,
+    write_json,
+)
 
 
 FRONT_MATTER_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
@@ -117,6 +125,11 @@ def parse_args() -> argparse.Namespace:
         "--output-root",
         default=str(repo_root() / "data" / "chunked"),
         help="Chunked output directory.",
+    )
+    parser.add_argument(
+        "--replace",
+        action="store_true",
+        help="Replace a non-empty output directory.",
     )
     return parser.parse_args()
 
@@ -520,7 +533,17 @@ def main() -> None:
             f"Input root not found: {input_root}. Run normalize_archive.py first."
         )
 
-    ensure_dir(output_root)
+    require_distinct_trees(input_root, output_root)
+    input_markdown_count = sum(
+        1
+        for source_type in ("main", "livestream")
+        for path in iter_files(input_root / source_type)
+        if path.suffix.lower() == ".md"
+    )
+    if input_markdown_count == 0:
+        raise RuntimeError(f"No normalized Markdown files found under: {input_root}")
+
+    prepare_output_dir(output_root, replace=args.replace)
     summary: dict[str, object] = {
         "input_root": str(input_root),
         "output_root": str(output_root),

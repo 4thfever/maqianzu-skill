@@ -4,7 +4,6 @@ from __future__ import annotations
 
 import argparse
 from pathlib import Path
-import shutil
 
 from utils import (
     ensure_dir,
@@ -13,6 +12,8 @@ from utils import (
     normalize_text,
     read_text_with_fallbacks,
     repo_root,
+    prepare_output_dir,
+    require_distinct_trees,
     write_json,
 )
 
@@ -35,14 +36,16 @@ def parse_args() -> argparse.Namespace:
         default=str(repo_root() / "data" / "normalized"),
         help="Normalized output directory.",
     )
+    parser.add_argument(
+        "--replace",
+        action="store_true",
+        help="Replace a non-empty output directory.",
+    )
     return parser.parse_args()
 
 
 def normalize_tree(source_root: Path, output_root: Path) -> dict[str, object]:
     """Normalize the allowed source trees and return a manifest payload."""
-    if output_root.exists():
-        shutil.rmtree(output_root)
-    ensure_dir(output_root)
     manifest: dict[str, object] = {
         "source_root": str(source_root),
         "output_root": str(output_root),
@@ -96,6 +99,17 @@ def main() -> None:
         raise FileNotFoundError(
             f"Source root not found: {source_root}. Run fetch_sources.py first."
         )
+
+    require_distinct_trees(source_root, output_root)
+    source_file_count = sum(
+        1
+        for source_type in ALLOWED_PATHS
+        for path in iter_files(source_root / source_type)
+        if is_text_file(path)
+    )
+    if source_file_count == 0:
+        raise RuntimeError(f"No supported source files found under: {source_root}")
+    prepare_output_dir(output_root, replace=args.replace)
 
     manifest = normalize_tree(source_root, output_root)
     write_json(output_root / "manifest.json", manifest)

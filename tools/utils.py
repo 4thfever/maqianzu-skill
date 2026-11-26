@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+import shutil
 from typing import Iterable
 
 
@@ -20,6 +21,38 @@ def ensure_dir(path: Path) -> Path:
     """Create a directory if needed and return it."""
     path.mkdir(parents=True, exist_ok=True)
     return path
+
+
+def is_relative_to(path: Path, parent: Path) -> bool:
+    """Return whether path is inside parent (or is parent)."""
+    try:
+        path.resolve().relative_to(parent.resolve())
+    except ValueError:
+        return False
+    return True
+
+
+def require_distinct_trees(input_root: Path, output_root: Path) -> None:
+    """Reject input/output trees that contain one another."""
+    source = input_root.resolve()
+    target = output_root.resolve()
+    if is_relative_to(source, target) or is_relative_to(target, source):
+        raise ValueError(
+            f"Input and output trees must not overlap: {source} <-> {target}"
+        )
+
+
+def prepare_output_dir(path: Path, *, replace: bool) -> Path:
+    """Create an output directory, refusing destructive replacement by default."""
+    target = path.resolve()
+    if target.exists() and any(target.iterdir()):
+        if not replace:
+            raise FileExistsError(
+                f"Output directory is not empty: {target}. "
+                "Pass --replace only after confirming it is safe to overwrite."
+            )
+        shutil.rmtree(target)
+    return ensure_dir(target)
 
 
 def is_text_file(path: Path) -> bool:
